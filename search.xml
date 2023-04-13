@@ -1,0 +1,1212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>html/css/js自学</title>
+    <url>/2022/12/30/html-css-js%E8%87%AA%E5%AD%A6/</url>
+    <content><![CDATA[<details class="folding-tag" red><summary> 编程、标记与脚本语言 </summary>
+              <div class='content'>
+              <p>一、各自的定义<br>标记语言</p><p>标记语言，是一种将文本（Text）以及文本相关的其他信息结合起来，展现出关于文档结构和数据处理细节的电脑文字编码。与文本相关的其他信息（包括例如文本的结构和表示信息等）与原来的文本结合在一起，但是使用标记（markup）进行标识。</p><blockquote><p>如：HTML、XML</p></blockquote><p>脚本语言</p><p>脚本语言是为了缩短传统的编写-编译-链接-运行（edit-compile-link-run）过程而创建的计算机编程语言。它的命名起源于一个脚本“screenplay”，每次运行都会使对话框逐字重复。早期的脚本语言经常被称为批量处理语言或工作控制语言。<br>一个脚本通常是解释运行而非编译。脚本语言通常都有简单、易学、易用的特性，目的就是希望能让程序员快速完成程序的编写工作。</p><blockquote><p>如：JavaScript、VBScript、PHP</p></blockquote><p>编译型语言</p><p>编译型语言：程序在执行之前需要一个专门的编译过程，把程序编译成 为机器语言的文件，运行时不需要重新翻译，直接使用编译的结果就行了。程序执行效率高，依赖编译器，跨平台性差些</p><blockquote><p>如 C、C++</p></blockquote><p>二、区别</p><p>1、标记语言不用于向计算机发出指令，常用于格式化和链接。<br>2、脚本语言介于标记语言和编程语言之间，脚本语言脚本语言不需要编译，可以直接用，由解释器来负责解释。<br>3、编译型语言写的程序执行之前，需要一个专门的编译过程，把程序编译成为机器语言的文件，比如exe文件，以后要运行的话就不用重新翻译了，直接使用编译的结果就行了（exe文件），因为翻译只做了一次，运行时不需要翻译，所以编译型语言的程序执行效率高。</p><p>标记语言与编程语言区别</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">最简单的理解是, 编程语言有逻辑和行为能力, 後者没有.</span><br><span class="line">编程语言 (programming language)可以例如 c, perl, javascript </span><br><span class="line"></span><br><span class="line">标记语言( markup language ), 有 xml, html,  xhtml ( xml 和 html 的合体 )你会见到他们都是 &quot;ml&quot; 尾的.</span><br><span class="line"></span><br><span class="line">标记语言的存在用来被读取的, 例如 svg 的图档其实就是用 xml 写出来的. 而其本身是没有行为能力的. 在标记语言里你会看到很多 &lt; 和 &gt; 这些钻括号, 这些是用来写出 &quot;层次&quot; 和 &quot;属性&quot; 的. 简言之, 他是被动的</span><br><span class="line"></span><br><span class="line">而在 编程语言 里, 你会看到很多 if else for while print ... 这些具有逻辑性和行为能力的指令. 这是主动的.</span><br></pre></td></tr></table></figure>
+              </div>
+            </details>
+]]></content>
+      <tags>
+        <tag>编程</tag>
+        <tag>html、css、js</tag>
+        <tag>学习笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>md文档符号快捷使用</title>
+    <url>/2022/12/30/md%E6%96%87%E6%A1%A3%E7%AC%A6%E5%8F%B7%E5%BF%AB%E6%8D%B7%E4%BD%BF%E7%94%A8/</url>
+    <content><![CDATA[<div class="tabs" id="一级标题"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#一级标题-1">二级标题1</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="一级标题-1"><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
+
+]]></content>
+      <tags>
+        <tag>其他</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>会计三表</title>
+    <url>/2023/03/05/%E4%BC%9A%E8%AE%A1%E4%B8%89%E8%A1%A8/</url>
+    <content><![CDATA[<h1 id="资产负债表、现金流量表与利润表"><a href="#资产负债表、现金流量表与利润表" class="headerlink" title="资产负债表、现金流量表与利润表"></a>资产负债表、现金流量表与利润表</h1><div class="tabs" id="劳资不想算账啊啊啊"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#劳资不想算账啊啊啊-1">资产负债表</button></li><li class="tab"><button type="button" data-href="#劳资不想算账啊啊啊-2">现金流量表</button></li><li class="tab"><button type="button" data-href="#劳资不想算账啊啊啊-3">利润表</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="劳资不想算账啊啊啊-1"><div class="tabs" id="资产负债"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#资产负债-1">资产负债表图</button></li><li class="tab"><button type="button" data-href="#资产负债-2">资产负债表文</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="资产负债-1"><p>资产负债表例图</p>
+<p><img src="https://wzho-1313533248.cos.ap-beijing.myqcloud.com/accountant/zichanfuzhai-sample.png" alt="https://wzho-1313533248.cos.ap-beijing.myqcloud.com/accountant/zichanfuzhai-sample.png"></p>
+<p>特点</p>
+<p><img src="https://wzho-1313533248.cos.ap-beijing.myqcloud.com/accountant/zichanfuzhai.png" alt="https://wzho-1313533248.cos.ap-beijing.myqcloud.com/accountant/zichanfuzhai.png"></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="资产负债-2"><h2 id="一、资产负债表"><a href="#一、资产负债表" class="headerlink" title="一、资产负债表"></a><strong>一、资产负债表</strong></h2><p>资产负债表反映的是企业资产、负债、所有者权益等的财务状况，体现的是企业有多少“家底”，有多少资产，有多少负债，有哪些资产，有哪些负债，净资产（资产-负债，也就是所有者权益）剩下多少。</p>
+<p>需要特别注意的是，资产负债表是时点数，2019年资产负债表，指的是2019年12月31日的数据，2019年8月的资产负债表，指的是2019年8月31日的数据。这一点不同于后续要讲到的利润表，利润表是期间数，2019年利润表，指的是2019年1月1日-2019年12月31日的数据，2019年8月的利润表，指的是2019年8月1日-8月31日的数据。当然，财务人员由于各种情况可能提前结账，结账日期和日历日期并不严格相等。</p>
+<p>我们来看一下资产负债表的样子，见下表。为了便于简单直观，这里展示的是省略版的资产负债表，列出的是一般工业企业最有代表性的报表项目，正式的资产负债表包含的报表项目更多。</p>
+<p>该资产负债表主体表格上方是企业名称、期间、币种、金额单位等基本信息，在此不再赘述；主体表格下方三位人员的签字，从左到右依次是单位负责人、主管会计工作的负责人（财务总监、总会计师）、<a href="https://www.zhihu.com/search?q=%E4%BC%9A%E8%AE%A1%E6%9C%BA%E6%9E%84%E8%B4%9F%E8%B4%A3%E4%BA%BA&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:2425786598%7D">会计机构负责人</a>（财务部部门负责人）。</p>
+<p>资产负债表表格分左右两部分，左边为资产，右边为负债和所有者权益。由于<a href="https://www.zhihu.com/search?q=%E4%BC%9A%E8%AE%A1%E6%81%92%E7%AD%89%E5%BC%8F&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:2425786598%7D">会计恒等式</a>的存在，左右两边的总计金额必须相等。</p>
+<h2 id="☆小知识"><a href="#☆小知识" class="headerlink" title="☆小知识"></a><strong>☆小知识</strong></h2><p>【会计恒等式】资产=负债+所有者权益。这一等式是<a href="https://www.zhihu.com/search?q=%E5%A4%8D%E5%BC%8F%E8%AE%B0%E8%B4%A6%E6%B3%95&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:2425786598%7D">复式记账法</a>的理论基础，也是编制资产负债表的依据。</p>
+<p>期末余额指的是2019年8月末的金额，年初余额指的是2019年1月初的金额。</p>
+<p>货币资金主要是企业的各个币种的现金和银行存款，偶尔会有其他货币资金。</p>
+<p>应收账款指的是<a href="https://www.zhihu.com/search?q=%E8%B5%8A%E9%94%80%E4%B8%9A%E5%8A%A1&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:2425786598%7D">赊销业务</a>产生的，比如一家饺子店，卖出100万的水饺，收到95万现金，剩下5万先赊账。那么95万现金在资产负债表里货币资金体现，5万就是应收账款，属于饺子店的一项资产。</p>
+<p><a href="https://www.zhihu.com/search?q=%E9%A2%84%E4%BB%98%E8%B4%A6%E6%AC%BE&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:2425786598%7D">预付账款</a>主要和买东西有关，饺子店购买<a href="https://www.zhihu.com/search?q=%E5%85%A8%E8%87%AA%E5%8A%A8%E9%A5%BA%E5%AD%90%E6%9C%BA&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:2425786598%7D">全自动饺子机</a>3万元，先预付30%，剩余70%机器到店后再付，那么3万*30%=9000元为饺子店的预付账款。</p>
+<p>存货包括企业的原材料、在产品和产成品，以后再讲，在此不再赘述。</p>
+<p>货币资金、应收账款、预付账款、存货等属于流动资产，也称短期资产，变现能力较强，一般在一年或一个经营周期内可以被运用或销售。</p>
+<p>固定资产一般使用期限较长，价值较大，比如建筑物、设备、车辆、价值较大的电子设备、工装器具、办公家具等。累计折旧和固定资产净值，以后再讲，在此不再赘述。</p>
+<p>在建工程指的是公司正在建设的厂房、办公楼、正在安装的设备等，完工后转入固定资产。</p>
+<p>无形资产指的是没有实物形态的非货币性资产，土地使用权、软件、专利等是企业常见的无形资产。</p>
+<p>固定资产、在建工程、无形资产等属于非流动资产，也称长期资产，和流动资产相对应。</p>
+<p>资产负债表右边的短期借款和长期借款指的是企业向银行的贷款，期限在1年内的为短期借款，期限在1年以上的为长期借款。</p>
+<p>应付账款与预付账款相对应，主要和买东西有关，欠供应商的钱都是应付账款。</p>
+<p>预收账款与应收账款相对应，主要和卖东西有关，东西还没给客户先把钱收了，计入预收账款，相当于欠客户的钱，属于负债。</p>
+<p>应交税费顾名思义，指的是企业应该交还没有交的税费。根据税种不同，公司税收会按月、按季度或者按年缴纳，按月缴纳的，本月末先计入应交税费，次月实际交钱。</p>
+<p>长短期借款、应付账款、<a href="https://www.zhihu.com/search?q=%E9%A2%84%E6%94%B6%E8%B4%A6%E6%AC%BE&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:2425786598%7D">预收账款</a>、应交税费等科目分别是企业欠银行的钱、欠供应商的钱、欠客户的钱、欠税务局的钱，连同上表中省略的欠员工的钱（应付职工薪酬）、欠股东的钱（应付股利）都是企业的负债。其中短期借款、应付账款、预收账款、<a href="https://www.zhihu.com/search?q=%E5%BA%94%E4%BA%A4%E7%A8%8E%E8%B4%B9&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:2425786598%7D">应交税费</a>等属于流动负债，长期借款属于非流动负债。</p>
+<p>实收资本指的是已经到位的<a href="https://www.zhihu.com/search?q=%E6%B3%A8%E5%86%8C%E8%B5%84%E6%9C%AC%E9%87%91&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:2425786598%7D">注册资本金</a>，与注册资本不是一个概念，实收资本小于等于注册资本。</p>
+<p>未分配利润指的是企业向投资者分配完利润后留存在企业的，年复一年积累下来的利润。</p>
+<p>实收资本和未分配利润是两种最常见的所有者权益。所有者权益即为净资产，企业的资产扣除负债后“由所有者享受的剩余权益”。</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="劳资不想算账啊啊啊-2"><div class="tabs" id="一级标题"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#一级标题-1">图</button></li><li class="tab"><button type="button" data-href="#一级标题-2">文</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="一级标题-1"><p>现金流量表例图</p>
+<p><img src="https://wzho-1313533248.cos.ap-beijing.myqcloud.com/accountant/xianjinliuliang-sample.png" alt="https://wzho-1313533248.cos.ap-beijing.myqcloud.com/accountant/xianjinliuliang-sample.png"></p>
+<p>特点</p>
+<p><img src="https://wzho-1313533248.cos.ap-beijing.myqcloud.com/accountant/xianjinliuliang.png" alt="https://wzho-1313533248.cos.ap-beijing.myqcloud.com/accountant/xianjinliuliang.png"></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="一级标题-2"><h2 id="三、现金流量表"><a href="#三、现金流量表" class="headerlink" title="三、现金流量表"></a><strong>三、现金流量表</strong></h2><p>现金流量表与前面章节讲到的资产负债表和利润表一起，统称企业财务的“三大报表”。有人把企业的现金流比做人体的血液，现金流充足并有序地流动，企业才会健康发展，现金流断裂就好比人体血液供不上，会造成企业破产。现金流量表反映企业一定期间内的现金流的增减变动情况，也是比较重要的财务报表。报表使用者可以通过现金流量表了解企业的支付能力、偿债能力。</p>
+<h3 id="1、现金流量表总体介绍"><a href="#1、现金流量表总体介绍" class="headerlink" title="1、现金流量表总体介绍"></a>1、现金流量表总体介绍</h3><p>我们来看一下现金流量表的样子，见下表。为了便于简单直观，这里展示的是省略版的，列出的是一般工业企业最有代表性的报表项目，正式的现金流量表包含的报表项目更多。</p>
+<p>与资产负债表和利润表类似，现金流量表主体表格上方是企业名称、期间、币种、金额单位等基本信息；主体表格下方三位人员的签字，从左到右依次是单位负责人、主管会计工作的负责人（财务总监、总会计师）、会计机构负责人（财务部部门负责人）。</p>
+<p>现金流量表看起来也分左右两部分，但和资产负债表左右两边相等不同，现金流量表只是由于报表项目太多，为了美观分成了左右结构，如果做成“长条型”的上下结构也是可以的。</p>
+<p>现金流量表中的“现金”如何定义呢？显然指的不是我们平时说的纸钞现金，因为现在企业使用纸钞的场景越来越少了。这里的“现金”指的是现金及现金等价物。现金等价物指的是非常容易转换为现金的、价值变动风险很小的，也就是流动性强、期限短的。总结来说，现金流量表中的“现金”包括现金、银行存款、3个月内到期的债券、票据等。</p>
+<p>我们在《现金流和利润的区别》一章中讲到，现金流是按收付实现制的，区别于利润的权责发生制。所以现金流量表的编制是基于收付实现制编制的，把<a href="https://www.zhihu.com/search?q=%E6%9D%83%E8%B4%A3%E5%8F%91%E7%94%9F%E5%88%B6&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:2425786598%7D">权责发生制</a>下的盈利信息调整为收付实现制下的现金流量信息，可以看出企业利润的质量。这样解决了企业账面看赚了很多利润但实际没见到钱的窘境，毕竟没有实际收到钱的利润的质量不高。</p>
+<h3 id="2、现金流量表主体内容"><a href="#2、现金流量表主体内容" class="headerlink" title="2、现金流量表主体内容"></a>2、现金流量表主体内容</h3><p>现金流量表分为经营活动、投资活动、筹资活动三部分来展示企业的现金流入和流出。经营活动指的是企业除投资、融资外的日常运营活动，对于一般工商企业来说，主要包括购买商品、提供劳务收到的现金，购买商品、接收劳务支付的现金，支付给职工的现金如工资、五险一金，支付的各项税费，这些活动都在现金流量表的“经营活动产生的现金流量”里分行展示。投资活动主要分两块内容：一是购建或处置固定资产、无形资产、在建工程产生的现金流出和流入，二是投资或处置子公司、金融资产产生的现金流出和流入。筹资活动指的是公司股权和债务相关的现金流量变动，表中“吸收投资收到的现金”指的是收到母公司对企业的股权投资，同样企业对母公司分配股利和利润也属于筹资活动，取得借款、偿还借款、支付利息这些债务性资金收支，也属于筹资活动内的重要部分。但应付账款、应付票据等负债，一般和日常运营有关，涉及到的现金支付在经营活动中体现。</p>
+<p>需要注意的是现金和现金等价物的投资应该排除在外，不在现金流量表体现。企业现金形式之间的转换如人民币换美元、从银行取现金、活期转定期、购买期限3个月内价值稳定的金融资产均属于现金和现金等价物的内部转换，不在现金流量表体现。</p>
+<p>现金流量表的前三部分展现了经营活动、投资活动、筹资活动产生的现金流入、现金流出、现金流净额，第四部分体现的是汇率变动的影响，指的是外币现金流量或境外子公司的现金流量折算成人民币（<a href="https://www.zhihu.com/search?q=%E8%AE%B0%E8%B4%A6%E6%9C%AC%E4%BD%8D%E5%B8%81&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:2425786598%7D">记账本位币</a>）带来的差额。现金流量表最后体现的是现金的本期增加、期初余额和期末余额，这三个数据应和资产负债表货币资金对应的数据一致。</p>
+<h3 id="3、现金流量表如何编制？"><a href="#3、现金流量表如何编制？" class="headerlink" title="3、现金流量表如何编制？"></a>3、现金流量表如何编制？</h3><p>非财务人员主要掌握现金流量表的大致内容即可，编制可简单了解，在此也简单介绍。现金流量表编制主要有两种方法，一种是直接法，以营业收入为起点，以利润表为基础，结合资产负债表分析现金流情况，分类计入经营活动、投资活动、筹资活动。一种是间接法，以净利润为起点，逐步调整为经营活动现金流量，比如折旧影响净利润但没发生现金支付，所以应把折旧加回，类似这些影响因素的调整。间接法便于将经营活动净现金流量与净利润进行差异对比，从现金流角度分析净利润的质量。</p>
+<p>我国一般使用直接法编制现金流量表，同时在报表附注中展示以净利润为基础调节到经营活动现金流量的信息。现在越来越多的企业采用财务系统来记账，在做会计分录时，可以同步录入涉及到的现金流量分类编码，比如销售商品收到劳务提供的现金流量为101，这样系统在会计期末会自动归集出101编码下的现金流量金额，可实现现金流量表编制自动化。</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="劳资不想算账啊啊啊-3"><div class="tabs" id="一级标题"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#一级标题-1">图</button></li><li class="tab"><button type="button" data-href="#一级标题-2">文</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="一级标题-1"><p>利润表例图</p>
+<p><img src="https://wzho-1313533248.cos.ap-beijing.myqcloud.com/accountant/lirunbiao-sample.png" alt="https://wzho-1313533248.cos.ap-beijing.myqcloud.com/accountant/lirunbiao-sample.png"></p>
+<p>特点</p>
+<p><img src="https://wzho-1313533248.cos.ap-beijing.myqcloud.com/accountant/lirunbiao.png" alt="https://wzho-1313533248.cos.ap-beijing.myqcloud.com/accountant/lirunbiao.png"></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="一级标题-2"><h2 id="二、利润表"><a href="#二、利润表" class="headerlink" title="二、利润表"></a><strong>二、利润表</strong></h2><p>利润表反映的是一定期间的经营成果，体现的是企业这一期间“干的怎么样”，挣了多少收入，花了哪些成本和费用，最后剩了多少利润。</p>
+<p>我们来看一下利润表的样子，见下表。为了便于简单直观，这里展示的是省略版的利润表，列出的是一般工业企业最有代表性的报表项目，正式的利润表包含的报表项目更多。</p>
+<p>该利润表主体表格上方和下方与资产负债表一样，分别是企业基本信息和相关负责人签字。本月金额指的是2019年8月这一月发生的金额，而不是2019年8月31日的金额，因为利润表是期间数。同样的道理，本年累计金额指的是2019年1月至2019年8月这一期间发生的金额，上年同期累计金额指的是2018年1月至2018年8月这一期间发生的金额。</p>
+<p>利润表第一项是营业总收入，这一项中营业收入单列。在一般企业（金融类企业之外）中，营业总收入与营业收入是一个概念。以前的利润表主营业务收入和其他业务收入是分开列示，现在合并成为营业收入。营业收入可以简单理解为卖出的货物或服务的金额，在会计上，这里的“卖出”，即收入的确认条件，比较复杂，非财务人员可以不掌握。</p>
+<p>利润表第二项是营业总成本，这一项中包含营业成本、税金及附加、销售费用、管理费用、财务费用等。营业成本与营业收入是相匹配的，营业收入的金额对应的货物或服务是哪些，营业成本的金额对应的货物或服务也应是哪些，二者包含的范围一样，数量一样，金额一般不一样，因为售价和单位成本一般不相等——企业会赚钱，有时也会亏钱。比如，公司生产了10件A商品，本月卖出了8件，那本月的营业收入是8件的金额，营业成本也是生产8件的花费金额，而不是10件，这就是收入和成本的配比原则。</p>
+<p>税金及附加里体现的是增值税和企业所得税两大税种之外的一些税种，比如印花税、土地使用税、房产税、消费税等。增值税是价外税，不影响企业利润，不在利润表中体现（增值税的内容可以参见我前面的文章）；企业所得税在利润表后面会单独列示。</p>
+<p>销售费用、管理费用、财务费用通常被称为“<a href="https://www.zhihu.com/search?q=%E6%9C%9F%E9%97%B4%E8%B4%B9%E7%94%A8&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:2425786598%7D">期间费用</a>”，这些期间费用是这一期间发生的，但说不清楚是哪个产品的，因而无法计入某个产品成本，也就是不在营业成本里，只能单独列示。销售费用是和企业销售相关的费用，比如广告费、运输费、<a href="https://www.zhihu.com/search?q=%E4%B8%89%E5%8C%85%E6%8D%9F%E5%A4%B1&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:2425786598%7D">三包损失</a>、销售人员的日常费用等；财务费用指的是筹集生产经营资金发生的费用，比如利息支出、银行手续费、汇兑损失（外币业务由于汇率变动引起的）等；管理费用指的是日常管理的费用，除直接计入产品成本、销售费用、财务费用之外的费用，可以认为是一个“大杂烩”的费用，比如管理人员工资、差旅费、办公费等等。</p>
+<p>营业总收入减去营业总成本，就得出了营业利润（第三项），再加上营业外收入减去营业外支出，就得出了第四项（利润总额）。营业外收入指的是与企业经营业务没有直接关系的收入，比如政府给点钱，罚别人点钱，卖点固定资产等。一般情况营业外收入是纯收入，不需要与有关成本费用进行配比，这点与营业收入不同。营业外支出指的是与企业经营业务没有直接关系的支出，比如对外捐赠、滞纳金支出、盘亏损失（盘点现金或存货发现少了）等。</p>
+<p>利润总额再减去所得税费用就是净利润。净利润和营业收入是利润表中最重要的两个数，一般提到企业的效益，都是用净利润和营业收入这两个指标来衡量。比如提到企业的收入，指的是营业收入，企业的利润指的是净利润。各利益相关者通常比较关注企业的营业收入和净利润指标，比如上级公司用这两个指标考核下属公司，各项企业排行榜常用的衡量指标也是营业收入或净利润。</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
+]]></content>
+      <tags>
+        <tag>会计</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>会计分录（1）</title>
+    <url>/2022/08/29/%E4%BC%9A%E8%AE%A1%E5%88%86%E5%BD%95%EF%BC%881%EF%BC%89/</url>
+    <content><![CDATA[<h1 id="主线"><a href="#主线" class="headerlink" title="主线"></a><strong>主线</strong></h1><h2 id=""><a href="#" class="headerlink" title=""></a></h2><div class="audio"><audio controls preload><source src='https://wzho-1313533248.cos.ap-beijing.myqcloud.com/Bossa%20Nova%20-%20A%20New%20Point%20of%20View.mp3' type='audio/mp3'>Your browser does not support the audio tag.</audio></div>
+
+
+
+
+<div class="tabs" id="财会"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#财会-1">交易性金融资产</button></li><li class="tab"><button type="button" data-href="#财会-2">应收票据等</button></li><li class="tab"><button type="button" data-href="#财会-3">固定资产</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="财会-1"><h1 id="交易性金融资产"><a href="#交易性金融资产" class="headerlink" title="交易性金融资产"></a>交易性金融资产</h1><h2 id="1）取得交易性金融资产"><a href="#1）取得交易性金融资产" class="headerlink" title="(1）取得交易性金融资产"></a>(1）取得交易性金融资产</h2><p>借：交易性金融资产一成本（按照市价入账<br>投资收益（发生的交易费用）贷：银行存款</p>
+<h2 id="2）持有时，公允价值变动公允价值上升"><a href="#2）持有时，公允价值变动公允价值上升" class="headerlink" title="(2）持有时，公允价值变动公允价值上升"></a>(2）持有时，公允价值变动公允价值上升</h2><p>借：交易性金融资产一公允价值变动<br>贷：公允价值变动损益<br>公允价值下降（做相反的账务处理</p>
+<h2 id="3）出售交易性金融资产"><a href="#3）出售交易性金融资产" class="headerlink" title="(3）出售交易性金融资产"></a>(3）出售交易性金融资产</h2><p>借：银行存款<br>(实际收到的款项<br>贷：交易性金融资产一R本<br>交易性金融资产一公允价值变动投资收益（差额，可能在借方或者货<br>方）<br>同时<br>借：公允价值变动损益<br>贷：投资收益</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="财会-2"><details class="folding-tag" open red><summary> 应收票据 </summary>
+              <div class='content'>
+              <h1 id="应收票据"><a href="#应收票据" class="headerlink" title="应收票据"></a>应收票据</h1><h2 id="A、收到银行承兑票据"><a href="#A、收到银行承兑票据" class="headerlink" title="A、收到银行承兑票据"></a>A、收到<a href="https://baike.baidu.com/item/%E9%93%B6%E8%A1%8C%E6%89%BF%E5%85%91?fromModule=lemma_inlink">银行承兑</a>票据</h2><p>借：<a href="https://baike.baidu.com/item/%E5%BA%94%E6%94%B6%E7%A5%A8%E6%8D%AE?fromModule=lemma_inlink">应收票据</a></p><p>贷：<a href="https://baike.baidu.com/item/%E5%BA%94%E6%94%B6%E8%B4%A6%E6%AC%BE?fromModule=lemma_inlink">应收账款</a></p><h2 id="B、带息商业汇票计息"><a href="#B、带息商业汇票计息" class="headerlink" title="B、带息商业汇票计息"></a>B、带息<a href="https://baike.baidu.com/item/%E5%95%86%E4%B8%9A%E6%B1%87%E7%A5%A8?fromModule=lemma_inlink">商业汇票</a>计息</h2><p>借：<a href="https://baike.baidu.com/item/%E5%BA%94%E6%94%B6%E7%A5%A8%E6%8D%AE?fromModule=lemma_inlink">应收票据</a></p><p>贷：<a href="https://baike.baidu.com/item/%E8%B4%A2%E5%8A%A1%E8%B4%B9%E7%94%A8?fromModule=lemma_inlink">财务费用</a>（一般在中期末和年末计息）</p><h2 id="C、申请贴现"><a href="#C、申请贴现" class="headerlink" title="C、申请贴现"></a>C、申请贴现</h2><p>借：银行存款</p><p><a href="https://baike.baidu.com/item/%E8%B4%A2%E5%8A%A1%E8%B4%B9%E7%94%A8?fromModule=lemma_inlink">财务费用</a>（=贴现息-本期计提票据利息）</p><p>贷：<a href="https://baike.baidu.com/item/%E5%BA%94%E6%94%B6%E7%A5%A8%E6%8D%AE?fromModule=lemma_inlink">应收票据</a>（帐面数）</p><h2 id="D、已贴现票据到期承兑人拒付"><a href="#D、已贴现票据到期承兑人拒付" class="headerlink" title="D、已贴现票据到期承兑人拒付"></a>D、已<a href="https://baike.baidu.com/item/%E8%B4%B4%E7%8E%B0?fromModule=lemma_inlink">贴现</a>票据到期<a href="https://baike.baidu.com/item/%E6%89%BF%E5%85%91%E4%BA%BA?fromModule=lemma_inlink">承兑人</a>拒付</h2><h3 id="（1）银行划付贴现人银行账户资金"><a href="#（1）银行划付贴现人银行账户资金" class="headerlink" title="（1）银行划付贴现人银行账户资金"></a>（1）银行划付贴现人银行账户资金</h3><p>借：应收账款-X公司</p><p>贷：银行存款</p><h3 id="（2）公司银行账户资金不足"><a href="#（2）公司银行账户资金不足" class="headerlink" title="（2）公司银行账户资金不足"></a>（2）公司银行账户资金不足</h3><p>借：<a href="https://baike.baidu.com/item/%E5%BA%94%E6%94%B6%E8%B4%A6%E6%AC%BE?fromModule=lemma_inlink">应收账款</a>-X公司</p><p>贷：银行存款</p><p><a href="https://baike.baidu.com/item/%E7%9F%AD%E6%9C%9F%E5%80%9F%E6%AC%BE?fromModule=lemma_inlink">短期借款</a>（账户资金不足部分）</p><h2 id="E、到期托收入账"><a href="#E、到期托收入账" class="headerlink" title="E、到期托收入账"></a>E、到期托收入账</h2><p>借：银行存款</p><p>贷：应收票据</p><h2 id="F、承兑人到期拒付"><a href="#F、承兑人到期拒付" class="headerlink" title="F、承兑人到期拒付"></a>F、<a href="https://baike.baidu.com/item/%E6%89%BF%E5%85%91%E4%BA%BA?fromModule=lemma_inlink">承兑人</a>到期拒付</h2><p>借：<a href="https://baike.baidu.com/item/%E5%BA%94%E6%94%B6%E8%B4%A6%E6%AC%BE?fromModule=lemma_inlink">应收账款</a> （可计提<a href="https://baike.baidu.com/item/%E5%9D%8F%E8%B4%A6%E5%87%86%E5%A4%87?fromModule=lemma_inlink">坏账准备</a>）</p><p>贷：应收票据</p><h2 id="G、转让、背书票据（购原料）"><a href="#G、转让、背书票据（购原料）" class="headerlink" title="G、转让、背书票据（购原料）"></a>G、转让、背书票据（购原料）</h2><p>借：原材料（<a href="https://baike.baidu.com/item/%E5%9C%A8%E9%80%94%E7%89%A9%E8%B5%84?fromModule=lemma_inlink">在途物资</a>）</p><p>应交税金-<a href="https://baike.baidu.com/item/%E5%BA%94%E4%BA%A4%E5%A2%9E%E5%80%BC%E7%A8%8E?fromModule=lemma_inlink">应交增值税</a>（进项税）</p><p>贷：应收票据</p>
+              </div>
+            </details>
+
+<details class="folding-tag" open green><summary> 应收账款 </summary>
+              <div class='content'>
+              <h1 id="应收账款"><a href="#应收账款" class="headerlink" title="应收账款"></a><strong>应收账款</strong></h1><h2 id="A、发生："><a href="#A、发生：" class="headerlink" title="A、发生："></a>A、发生：</h2><p>借：应收账款-X公司（扣除商业<a href="https://baike.baidu.com/item/%E6%8A%98%E6%89%A3?fromModule=lemma_inlink">折扣</a>额）</p><p>贷：<a href="https://baike.baidu.com/item/%E4%B8%BB%E8%90%A5%E4%B8%9A%E5%8A%A1%E6%94%B6%E5%85%A5?fromModule=lemma_inlink">主营业务收入</a></p><p><a href="https://baike.baidu.com/item/%E5%BA%94%E4%BA%A4%E7%A8%8E%E9%87%91?fromModule=lemma_inlink">应交税金</a>－<a href="https://baike.baidu.com/item/%E5%BA%94%E4%BA%A4%E5%A2%9E%E5%80%BC%E7%A8%8E?fromModule=lemma_inlink">应交增值税</a>（<a href="https://baike.baidu.com/item/%E9%94%80%E9%A1%B9%E7%A8%8E?fromModule=lemma_inlink">销项税</a>）</p><h2 id="B、发生现金折扣："><a href="#B、发生现金折扣：" class="headerlink" title="B、发生现金折扣："></a>B、发生<a href="https://baike.baidu.com/item/%E7%8E%B0%E9%87%91%E6%8A%98%E6%89%A3?fromModule=lemma_inlink">现金折扣</a>：</h2><p>借：银行存款（入帐总价-现金折扣）</p><p>​         财务费用</p><p>贷：应收账款-X公司（总价）</p><h2 id="C、发生销售折让："><a href="#C、发生销售折让：" class="headerlink" title="C、发生销售折让："></a>C、发生<a href="https://baike.baidu.com/item/%E9%94%80%E5%94%AE%E6%8A%98%E8%AE%A9?fromModule=lemma_inlink">销售折让</a>：</h2><p>借：<a href="https://baike.baidu.com/item/%E4%B8%BB%E8%90%A5%E4%B8%9A%E5%8A%A1%E6%94%B6%E5%85%A5?fromModule=lemma_inlink">主营业务收入</a></p><p>应交税金－应交增值税（销项税）</p><p>贷：应收账款</p><h2 id="D、计提坏账准备-（备抵法）"><a href="#D、计提坏账准备-（备抵法）" class="headerlink" title="D、计提坏账准备 （备抵法）"></a>D、计提<a href="https://baike.baidu.com/item/%E5%9D%8F%E8%B4%A6%E5%87%86%E5%A4%87?fromModule=lemma_inlink">坏账准备</a> （<a href="https://baike.baidu.com/item/%E5%A4%87%E6%8A%B5%E6%B3%95?fromModule=lemma_inlink">备抵法</a>）</h2><h2 id="借：管理费用-坏帐损失"><a href="#借：管理费用-坏帐损失" class="headerlink" title="借：管理费用-坏帐损失"></a>借：<a href="https://baike.baidu.com/item/%E7%AE%A1%E7%90%86%E8%B4%B9%E7%94%A8?fromModule=lemma_inlink">管理费用</a>-<a href="https://baike.baidu.com/item/%E5%9D%8F%E5%B8%90%E6%8D%9F%E5%A4%B1?fromModule=lemma_inlink">坏帐损失</a></h2><p>贷：坏账准备</p><p>注：如计提前有<a href="https://baike.baidu.com/item/%E5%80%9F%E6%96%B9%E4%BD%99%E9%A2%9D?fromModule=lemma_inlink">借方余额</a>，应提数=借方<a href="https://baike.baidu.com/item/%E4%BD%99%E9%A2%9D?fromModule=lemma_inlink">余额</a>+本期应提数；</p><p>如计提前有<a href="https://baike.baidu.com/item/%E8%B4%B7%E6%96%B9?fromModule=lemma_inlink">贷方</a>余额，应提数=本期应提数-贷方余额（负数为帐面多<a href="https://baike.baidu.com/item/%E5%86%B2%E5%87%8F?fromModule=lemma_inlink">冲减</a>管理费用）。</p><h2 id="E、发生并核销坏账："><a href="#E、发生并核销坏账：" class="headerlink" title="E、发生并核销坏账："></a>E、发生并核销坏账：</h2><p> 借：<a href="https://baike.baidu.com/item/%E5%9D%8F%E8%B4%A6%E5%87%86%E5%A4%87?fromModule=lemma_inlink">坏账准备</a></p><p>贷：应收账款</p><h2 id="F、确认的坏账又收回-："><a href="#F、确认的坏账又收回-：" class="headerlink" title="F、确认的坏账又收回 ："></a>F、确认的<a href="https://baike.baidu.com/item/%E5%9D%8F%E8%B4%A6?fromModule=lemma_inlink">坏账</a>又收回 ：</h2><p> 借：应收账款 同时：借：银行存款</p><p>贷：坏账准备 贷：应收账款</p><h3 id="《会计》与《税法》坏账准备计提基数的区别："><a href="#《会计》与《税法》坏账准备计提基数的区别：" class="headerlink" title="《会计》与《税法》坏账准备计提基数的区别："></a><em><strong>《会计》与《税法》坏账准备计提基数的区别：</strong></em></h3><p><strong>A、会计：“应收账款”+“其它<a href="https://baike.baidu.com/item/%E5%BA%94%E6%94%B6%E6%AC%BE?fromModule=lemma_inlink">应收款</a>”<a href="https://baike.baidu.com/item/%E7%A7%91%E7%9B%AE%E4%BD%99%E9%A2%9D?fromModule=lemma_inlink">科目余额</a>，不论是否购销活动形成</strong></p><p><strong>B、<a href="https://baike.baidu.com/item/%E7%A8%8E%E6%B3%95?fromModule=lemma_inlink">税法</a>：“应收账款”+“应收票据”科目余额，仅限于购销活动形成的</strong></p>
+              </div>
+            </details>
+
+<details class="folding-tag" open green><summary> 预付账款 </summary>
+              <div class='content'>
+              <h1 id="预付账款"><a href="#预付账款" class="headerlink" title="预付账款"></a>预付账款</h1><h2 id="A、发生"><a href="#A、发生" class="headerlink" title="A、发生"></a>A、发生</h2><p>借：<a href="https://baike.baidu.com/item/%E9%A2%84%E4%BB%98%E8%B4%A6%E6%AC%BE?fromModule=lemma_inlink">预付账款</a></p><p>贷：银行存款</p><h2 id="B、付出及不足金额补付"><a href="#B、付出及不足金额补付" class="headerlink" title="B、付出及不足金额补付"></a>B、付出及不足金额补付</h2><p>借：原材料</p><p>应交税金-应交增值税（进项税）</p><p>贷：预付账款</p><p>银行存款（预付不足部分）</p><p>注：如有确凿证据表明其不符合预付账款性质，或者因供货单位破产、撤销等原因已无望再收到所购货物的，应当将原计入预付款的金额转 入<a href="https://baike.baidu.com/item/%E5%85%B6%E4%BB%96%E5%BA%94%E6%94%B6%E6%AC%BE?fromModule=lemma_inlink">其他应收款</a>，并按规定计提坏账准备。</p>
+              </div>
+            </details><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="财会-3"><h3 id="固定资产"><a href="#固定资产" class="headerlink" title="固定资产"></a>固定资产</h3><h1 id="1、取得"><a href="#1、取得" class="headerlink" title="1、取得"></a>1、取得</h1><p>价值构成（达到预定可使用状态前发生的一切合理、必要的支出）=</p>
+<p>价款（含增值税）+运杂费+包装费+安装成本+税金+（<a href="https://baike.baidu.com/item/%E8%B5%84%E6%9C%AC%E5%8C%96?fromModule=lemma_inlink">资本化</a>的）借款利息+外币借款折合差价+分摊的工程人员工资++专业人员服务费+其他<a href="https://baike.baidu.com/item/%E9%97%B4%E6%8E%A5%E8%B4%B9%E7%94%A8?fromModule=lemma_inlink">间接费用</a>（<a href="https://baike.baidu.com/item/%E5%A5%91%E7%A8%8E?fromModule=lemma_inlink">契税</a>、<a href="https://baike.baidu.com/item/%E8%BD%A6%E8%BE%86%E8%B4%AD%E7%BD%AE%E7%A8%8E?fromModule=lemma_inlink">车辆购置税</a>、<a href="https://baike.baidu.com/item/%E8%80%95%E5%9C%B0%E5%8D%A0%E7%94%A8%E7%A8%8E?fromModule=lemma_inlink">耕地占用税</a>）等</p>
+<details class="folding-tag" green><summary> 取得 </summary>
+              <div class='content'>
+              <h2 id="A、外购不需安装的"><a href="#A、外购不需安装的" class="headerlink" title="A、外购不需安装的"></a>A、外购不需安装的</h2><p>借：<a href="https://baike.baidu.com/item/%E5%9B%BA%E5%AE%9A%E8%B5%84%E4%BA%A7?fromModule=lemma_inlink">固定资产</a></p><p>贷：银行存款</p><h2 id="B、外购需安装的"><a href="#B、外购需安装的" class="headerlink" title="B、外购需安装的"></a>B、外购需安装的</h2><h3 id="（1）借：在建工程"><a href="#（1）借：在建工程" class="headerlink" title="（1）借：在建工程"></a>（1）借：在建工程</h3><p>贷：银行存款（支付的买价、运杂费等）</p><h3 id="（2）借：在建工程"><a href="#（2）借：在建工程" class="headerlink" title="（2）借：在建工程"></a>（2）借：在建工程</h3><p>贷：银行存款（支付的安装费等）</p><h3 id="（3）借：固定资产"><a href="#（3）借：固定资产" class="headerlink" title="（3）借：固定资产"></a>（3）借：<a href="https://baike.baidu.com/item/%E5%9B%BA%E5%AE%9A%E8%B5%84%E4%BA%A7?fromModule=lemma_inlink">固定资产</a></h3><p>贷：在建工程…………………达到预定可使用状态时结转</p><h2 id="C、自行建造"><a href="#C、自行建造" class="headerlink" title="C、自行建造"></a>C、自行建造</h2><h3 id="（1）购买工程物资"><a href="#（1）购买工程物资" class="headerlink" title="（1）购买工程物资"></a>（1）购买工程物资</h3><p>借：工程物资（含增值税）</p><p>贷：银行存款</p><h3 id="（2）领用工程物资"><a href="#（2）领用工程物资" class="headerlink" title="（2）领用工程物资"></a>（2）领用工程物资</h3><p> 借：在建工程</p><p>贷：工程物资</p><h3 id="（3）领用本企业产成品"><a href="#（3）领用本企业产成品" class="headerlink" title="（3）领用本企业产成品"></a><em>（3）领用本企业产成品</em></h3><ul><li>借：在建工程*</li></ul><p><em>贷：库存商品…………………账面成本</em></p><p><em><strong>应交税金-应交增值税（销项税）</strong></em></p><h3 id="（4）领用本企业外购原材料"><a href="#（4）领用本企业外购原材料" class="headerlink" title="（4）领用本企业外购原材料"></a>（4）领用本企业外购原材料</h3><p>借：在建工程</p><p>贷：原材料（等）</p><p>应交税金-应交增值税（进项税额转出）</p><h3 id="（5）工程物资转做企业存货"><a href="#（5）工程物资转做企业存货" class="headerlink" title="（5）工程物资转做企业存货"></a>（5）工程物资转做企业存货</h3><p> 借：原材料</p><p>应交税金-应交增值税（进项税）</p><p>贷：工程物资</p><h3 id="（6）联合试车发生费用"><a href="#（6）联合试车发生费用" class="headerlink" title="（6）联合试车发生费用"></a><em>（6）联合试车发生费用</em></h3><p><em>借：<a href="https://baike.baidu.com/item/%E5%BE%85%E6%91%8A%E8%B4%B9%E7%94%A8?fromModule=lemma_inlink">待摊费用</a>……………………一年内摊销</em></p><p><em>贷：银行存款………………支付的费用</em></p><p><em>原材料…………使用本企业外购材料</em></p><p><em>应交税金-应交增值税（进项税）</em></p><p><em><a href="https://baike.baidu.com/item/%E5%BA%94%E4%BB%98%E5%B7%A5%E8%B5%84?fromModule=lemma_inlink">应付工资</a>……………应支付的工资</em></p><h3 id="（8）辅助生产车间提供的劳务-借：在建工程"><a href="#（8）辅助生产车间提供的劳务-借：在建工程" class="headerlink" title="（8）辅助生产车间提供的劳务 借：在建工程"></a><em>（8）辅助生产车间提供的劳务 借：在建工程</em></h3><p>*贷：生产成本-<a href="https://baike.baidu.com/item/%E8%BE%85%E5%8A%A9%E7%94%9F%E4%BA%A7%E6%88%90%E6%9C%AC?fromModule=lemma_inlink">辅助生产成本*</a></p><h3 id="（7）完工交付-转固"><a href="#（7）完工交付-转固" class="headerlink" title="（7）完工交付 (转固)"></a>（7）完工交付 (<strong>转固</strong>)</h3><p>借：<a href="https://baike.baidu.com/item/%E5%9B%BA%E5%AE%9A%E8%B5%84%E4%BA%A7?fromModule=lemma_inlink">固定资产</a></p><p>贷：在建工程</p><h3 id="（8）改扩建-（使用年限若改变则折旧算法随之改变）（固定资产净值可能增加）（可能减值，计提存货跌价准备）"><a href="#（8）改扩建-（使用年限若改变则折旧算法随之改变）（固定资产净值可能增加）（可能减值，计提存货跌价准备）" class="headerlink" title="（8）改扩建 （使用年限若改变则折旧算法随之改变）（固定资产净值可能增加）（可能减值，计提存货跌价准备）"></a>（8）改扩建 （使用年限若改变则折旧算法随之改变）（固定资产净值可能增加）（可能减值，计提<strong>存货跌价准备</strong>）</h3><p> 借：在建工程</p><p>贷：银行存款（等）</p><h3 id="（9）改扩建变价收入"><a href="#（9）改扩建变价收入" class="headerlink" title="（9）改扩建变价收入"></a>（9）改扩建变价收入</h3><p>借：<a href="https://baike.baidu.com/item/%E8%90%A5%E4%B8%9A%E5%A4%96%E6%94%B6%E5%85%A5?fromModule=lemma_inlink">营业外收入</a></p><p>贷：在建工程</p><h3 id="（10）参照预计可收回净额①与改扩建-（原成本-累计折旧）②熟低确认新的投资成本"><a href="#（10）参照预计可收回净额①与改扩建-（原成本-累计折旧）②熟低确认新的投资成本" class="headerlink" title="（10）参照预计可收回净额①与改扩建+（原成本-累计折旧）②熟低确认新的投资成本"></a>（10）参照预计可收回净额①与改扩建+（原成本-累计折旧）②熟低确认新的投资成本</h3><p>借：固定资产</p><p><a href="https://baike.baidu.com/item/%E8%90%A5%E4%B8%9A%E5%A4%96%E6%94%AF%E5%87%BA?fromModule=lemma_inlink">营业外支出</a>………②&gt;；①时</p><p>贷：在建工程</p><p>C、投资者投入（投资各方确认的价值）</p><p>借：固定资产</p><p>贷：实收资本（股本）</p><p><em>D、债务重组</em></p><p><em>（1）收到<a href="https://baike.baidu.com/item/%E8%A1%A5%E4%BB%B7?fromModule=lemma_inlink">补价</a> 借：银行存款……………收到的补价</em></p><p><em>固定资产</em></p><p><em>贷：应收账款</em></p><p><em>（2）支付补价 借：固定资产</em></p><p><em>贷：应收账款</em></p><p><em>银行存款………..支付的<a href="https://baike.baidu.com/item/%E8%A1%A5%E4%BB%B7?fromModule=lemma_inlink">补价</a></em></p><h2 id="D、非货币性交易换入（举例）"><a href="#D、非货币性交易换入（举例）" class="headerlink" title="D、非货币性交易换入（举例）"></a><em>D、非货币性交易换入（举例）</em></h2><h3 id="（1）收到补价"><a href="#（1）收到补价" class="headerlink" title="（1）收到补价"></a><em>（1）收到补价</em></h3><p>*确认的收益=<a href="https://baike.baidu.com/item/%E8%A1%A5%E4%BB%B7?fromModule=lemma_inlink">补价</a>/（换出资产）<a href="https://baike.baidu.com/item/%E5%85%AC%E5%85%81%E4%BB%B7?fromModule=lemma_inlink">公允价</a> *（换出资产）帐面价+补价/（换出资产）公允价 <em><a href="https://baike.baidu.com/item/%E5%BA%94%E4%BA%A4%E7%A8%8E%E9%87%91?fromModule=lemma_inlink">应交税金</a>和教育费附加</em></p><p><em>借：银行存款</em></p><p><em>固定资产</em></p><p><em>贷：原材料</em></p><p><em>应交税金-应交增值税（进项税额转出）</em></p><p><em>营业外收入-非货币性交易收益</em></p><h3 id="（2）支付补价"><a href="#（2）支付补价" class="headerlink" title="（2）支付补价"></a><em>（2）支付补价</em></h3><p><em>借：固定资产</em></p><p><em>贷：原材料</em></p><p><em>应交税金-应交增值税（进项税额转出）</em></p><p><em>银行存款</em></p><h2 id="E、接受捐赠"><a href="#E、接受捐赠" class="headerlink" title="*E、接受捐赠 *"></a>*E、接受捐赠 *</h2><p><em>（1）借：<a href="https://baike.baidu.com/item/%E5%9B%BA%E5%AE%9A%E8%B5%84%E4%BA%A7?fromModule=lemma_inlink">固定资产</a></em></p><p><em>贷：待转资产价值-接受捐赠非货币性资产</em></p><p><em>（2）借：<a href="https://baike.baidu.com/item/%E5%BE%85%E8%BD%AC%E8%B5%84%E4%BA%A7%E4%BB%B7%E5%80%BC?fromModule=lemma_inlink">待转资产价值</a></em></p><p><em>贷：<a href="https://baike.baidu.com/item/%E5%BA%94%E4%BA%A4%E7%A8%8E%E9%87%91?fromModule=lemma_inlink">应交税金</a>-应交消费税</em></p><p><em>资本公积-接受非现金资产准备</em></p><h2 id="F、无偿调入（按调出单位帐面价值-相关税费）"><a href="#F、无偿调入（按调出单位帐面价值-相关税费）" class="headerlink" title="F、无偿调入（按调出单位帐面价值+相关税费）"></a><em>F、无偿调入（按调出单位帐面价值+相关<a href="https://baike.baidu.com/item/%E7%A8%8E%E8%B4%B9?fromModule=lemma_inlink">税费</a>）</em></h2><p><em>借：固定资产</em></p><p><em>贷：资本公积</em></p><p><em>银行存款</em></p><h2 id="G、盘盈-通过“待处理财产损溢”"><a href="#G、盘盈-通过“待处理财产损溢”" class="headerlink" title="G、盘盈 通过“待处理财产损溢”"></a>G、<a href="https://baike.baidu.com/item/%E7%9B%98%E7%9B%88?fromModule=lemma_inlink">盘盈</a> 通过“<a href="https://baike.baidu.com/item/%E5%BE%85%E5%A4%84%E7%90%86%E8%B4%A2%E4%BA%A7%E6%8D%9F%E6%BA%A2?fromModule=lemma_inlink">待处理财产损溢</a>”</h2><p>入帐价值：1）市价-依新旧程度估计的损耗</p><p>2）预计未来现金流量（1不可使用情况下）</p><p>（1）借：固定资产</p><p>贷：待处理财产损溢</p><p>（2）借：<a href="https://baike.baidu.com/item/%E5%BE%85%E5%A4%84%E7%90%86%E8%B4%A2%E4%BA%A7%E6%8D%9F%E6%BA%A2?fromModule=lemma_inlink">待处理财产损溢</a></p><p>贷：营业外收入</p><h2 id="H、出包工程"><a href="#H、出包工程" class="headerlink" title="H、出包工程"></a>H、<a href="https://baike.baidu.com/item/%E5%87%BA%E5%8C%85%E5%B7%A5%E7%A8%8B?fromModule=lemma_inlink">出包工程</a></h2><p>（1）付款或补付工程款 借：在建工程-x工程</p><p>贷：银行存款</p><p>（2）完工交付 借：固定资产</p><p>贷：在建工程</p><h2 id="I、租入（暂略）"><a href="#I、租入（暂略）" class="headerlink" title="I、租入（暂略）"></a>I、租入（暂略）</h2><h2 id="J、融资租赁"><a href="#J、融资租赁" class="headerlink" title="J、融资租赁"></a>J、融资租赁</h2><p> （1）借：固定资产-融资租入固定资产…………需安装的先入在建工程</p><p>贷：<a href="https://baike.baidu.com/item/%E9%95%BF%E6%9C%9F%E5%BA%94%E4%BB%98%E6%AC%BE?fromModule=lemma_inlink">长期应付款</a>-应付融资租赁款</p><p>（2）分期付融资租赁款 借：长期应付款-应付融资租赁款</p><p>贷：银行存款</p><p>（3）期满，资产产权转入企业 借：固定资产-<a href="https://baike.baidu.com/item/%E7%94%9F%E4%BA%A7%E7%BB%8F%E8%90%A5%E7%94%A8%E5%9B%BA%E5%AE%9A%E8%B5%84%E4%BA%A7?fromModule=lemma_inlink">生产经营用固定资产</a></p><p>贷：固定资产-融资租入固定资产</p><p>融资租赁费用暂略</p>
+              </div>
+            </details>
+
+<h1 id="2、固定资产折旧"><a href="#2、固定资产折旧" class="headerlink" title="2、固定资产折旧"></a>2、<a href="https://baike.baidu.com/item/%E5%9B%BA%E5%AE%9A%E8%B5%84%E4%BA%A7%E6%8A%98%E6%97%A7?fromModule=lemma_inlink">固定资产折旧</a></h1><p>借：制造费用（管理费用等）</p>
+<p>贷：累计折旧</p>
+<details class="folding-tag" green><summary> 固定资产折旧 </summary>
+              <div class='content'>
+              <p>A、<a href="https://baike.baidu.com/item/%E5%B9%B4%E9%99%90%E5%B9%B3%E5%9D%87%E6%B3%95?fromModule=lemma_inlink">年限平均法</a> ： 也叫直线法 （固定资产总值-净残值）/总使用年份  均摊到每一年</p><p>B、工作量法（略）</p><p>C、<a href="https://baike.baidu.com/item/%E5%8F%8C%E5%80%8D%E4%BD%99%E9%A2%9D%E9%80%92%E5%87%8F%E6%B3%95?fromModule=lemma_inlink">双倍余额递减法</a></p><p>第一年=固定资产价值* 2/使用年限</p><p>第二年=（固定资产价值-已提折旧（第一年））*2/使用年限</p><p>依此类推</p><p><strong>倒数第二年=（固定资产价值-已提折旧-净<a href="https://baike.baidu.com/item/%E6%AE%8B%E5%80%BC?fromModule=lemma_inlink">残值</a>）/2=最后一年</strong> 此处大抵是年限平均</p><p>D、年数总和法</p><p>总年数（即分母数）=n+（n-1）+（n-2）+………+2+1 n为可使用年限</p><p>分子：第一年=n；第二年=n-1………依此类推 倒数第二年=2；最后一年=1</p><p>举例：</p><p>（1）可使用年限为8年</p><p>分母=8+7+6+5+4+3+2+1=36 第一年比例=8/36</p><p>（2）可使用年限为5年</p><p>分母=5+4+3+2+1=15 第二年比例=4/15</p>
+              </div>
+            </details>
+
+<h1 id="3、后续支出"><a href="#3、后续支出" class="headerlink" title="3、后续支出"></a>3、后续支出</h1><p> 注意：（1）汽车修理</p>
+<p> 借：<a href="https://baike.baidu.com/item/%E7%AE%A1%E7%90%86%E8%B4%B9%E7%94%A8?fromModule=lemma_inlink">管理费用</a></p>
+<p>贷：银行存款</p>
+<p>（2）固定资产装修入 固定资产-固定资产装修 （两次装修之间提完折旧，未提完，一次全部记入<a href="https://baike.baidu.com/item/%E8%90%A5%E4%B8%9A%E5%A4%96%E6%94%AF%E5%87%BA?fromModule=lemma_inlink">营业外支出</a>）</p>
+<h1 id="4、处置"><a href="#4、处置" class="headerlink" title="4、处置"></a>4、处置</h1><p>第一步： 借：固定资产清理</p>
+<p>累计折旧</p>
+<p><a href="https://baike.baidu.com/item/%E5%9B%BA%E5%AE%9A%E8%B5%84%E4%BA%A7%E5%87%8F%E5%80%BC%E5%87%86%E5%A4%87?fromModule=lemma_inlink">固定资产减值准备</a></p>
+<p>贷：固定资产</p>
+<p><a href="https://baike.baidu.com/item/%E9%93%B6%E8%A1%8C%E5%AD%98%E6%AC%BE?fromModule=lemma_inlink">银行存款</a>（<a href="https://baike.baidu.com/item/%E5%BA%94%E4%BA%A4%E7%A8%8E%E9%87%91?fromModule=lemma_inlink">应交税金</a>等）…………………支付的费用</p>
+<details class="folding-tag" green><summary> 处置 </summary>
+              <div class='content'>
+              <h2 id="A、投资转出"><a href="#A、投资转出" class="headerlink" title="A、投资转出"></a>A、投资转出</h2><p>借：xx投资</p><p>贷：固定资产清理</p><h2 id="B、捐赠转出"><a href="#B、捐赠转出" class="headerlink" title="B、捐赠转出"></a>B、捐赠转出</h2><p>借：<a href="https://baike.baidu.com/item/%E8%90%A5%E4%B8%9A%E5%A4%96%E6%94%AF%E5%87%BA?fromModule=lemma_inlink">营业外支出</a>-<a href="https://baike.baidu.com/item/%E6%8D%90%E8%B5%A0%E6%94%AF%E5%87%BA?fromModule=lemma_inlink">捐赠支出</a></p><p>贷：固定资产清理</p><h2 id="C、债务重组"><a href="#C、债务重组" class="headerlink" title="C、债务重组"></a>C、债务重组</h2><p>借：应付账款</p><p>贷：固定资产清理</p><h2 id="D、非货币性交易换出"><a href="#D、非货币性交易换出" class="headerlink" title="D、非货币性交易换出"></a>D、非货币性交易换出</h2><p>借：原材料</p><p>应交税金</p><p>贷：固定资产处理</p><p>C、D参照前例，双方均可能涉及“营业外收入-xx收益 （或支出-xx损失）”</p><h2 id="E、无偿调出"><a href="#E、无偿调出" class="headerlink" title="E、无偿调出"></a>E、无偿调出</h2><p> 借：资本公积-无偿调出固定资产</p><p>贷：固定资产清理</p><h2 id="F、盘亏-★"><a href="#F、盘亏-★" class="headerlink" title="F、盘亏 ★"></a>F、<a href="https://baike.baidu.com/item/%E7%9B%98%E4%BA%8F?fromModule=lemma_inlink">盘亏</a> ★</h2><p>借：营业外支出</p><p>贷：固定资产清理</p><h2 id="G、出售、报废"><a href="#G、出售、报废" class="headerlink" title="G、出售、报废"></a>G、出售、报废</h2><p>（1）借：固定资产清理</p><p>累计折旧</p><p>固定资产减值准备</p><p>贷：固定资产</p><p>银行存款{<a href="https://baike.baidu.com/item/%E5%BA%94%E4%BA%A4%E7%A8%8E%E9%87%91?fromModule=lemma_inlink">应交税金</a>-<a href="https://baike.baidu.com/item/%E5%BA%94%E4%BA%A4%E8%90%A5%E4%B8%9A%E7%A8%8E?fromModule=lemma_inlink">应交营业税</a>（税率5%） }……………发生的清理费用</p>
+              </div>
+            </details>
+
+<h1 id="5、期末计价（重难点，书本提及较少，注意符合计提减值的条件）"><a href="#5、期末计价（重难点，书本提及较少，注意符合计提减值的条件）" class="headerlink" title="5、期末计价（重难点，书本提及较少，注意符合计提减值的条件）"></a>5、期末计价（重难点，书本提及较少，注意符合<a href="https://baike.baidu.com/item/%E8%AE%A1%E6%8F%90%E5%87%8F%E5%80%BC?fromModule=lemma_inlink">计提减值</a>的条件）</h1><p>已固定资产账面价值比较“<a href="https://baike.baidu.com/item/%E5%8F%AF%E6%94%B6%E5%9B%9E%E9%87%91%E9%A2%9D?fromModule=lemma_inlink">可收回金额</a>” 孰低法计<a href="https://baike.baidu.com/item/%E5%87%8F%E5%80%BC%E5%87%86%E5%A4%87?fromModule=lemma_inlink">减值准备</a></p>
+<details class="folding-tag" green><summary> 期末计价 </summary>
+              <div class='content'>
+              <h2 id="（1）发生减值"><a href="#（1）发生减值" class="headerlink" title="（1）发生减值"></a>（1）发生减值</h2><p>借：<a href="https://baike.baidu.com/item/%E8%90%A5%E4%B8%9A%E5%A4%96%E6%94%AF%E5%87%BA?fromModule=lemma_inlink">营业外支出</a>-计提的固定资产<a href="https://baike.baidu.com/item/%E5%87%8F%E5%80%BC%E5%87%86%E5%A4%87?fromModule=lemma_inlink">减值准备</a></p><p>贷：固定资产减值准备</p><h2 id="（2）以后期间“可收回金额”恢复"><a href="#（2）以后期间“可收回金额”恢复" class="headerlink" title="（2）以后期间“可收回金额”恢复"></a>（2）以后期间“可收回金额”恢复</h2><p>a、价值恢复后仍低于未提减值准备状态下<a href="https://baike.baidu.com/item/%E5%9B%BA%E5%AE%9A%E8%B5%84%E4%BA%A7?fromModule=lemma_inlink">固定资产</a>至本期的账面价值，因提减值准备造成的未提减值准备状态下累计折旧与提取减值准备后计提的累计折旧的<a href="https://baike.baidu.com/item/%E5%B7%AE%E9%A2%9D?fromModule=lemma_inlink">差额</a>，全部<a href="https://baike.baidu.com/item/%E8%A1%A5%E6%8F%90?fromModule=lemma_inlink">补提</a>。影响的<a href="https://baike.baidu.com/item/%E6%8D%9F%E7%9B%8A?fromModule=lemma_inlink">损益</a>（营业外支出<a href="https://baike.baidu.com/item/%E8%B4%B7%E6%96%B9?fromModule=lemma_inlink">贷方</a>）=恢复的市值-当期账面数</p><p>b、价值恢复后若高于未提<a href="https://baike.baidu.com/item/%E5%87%8F%E5%80%BC%E5%87%86%E5%A4%87?fromModule=lemma_inlink">减值准备</a>状态下固定资产至本期的账面价值，因提减值准备造成的未提减值准备状态下累计折旧与提取减值准备后计提的累计折旧的<a href="https://baike.baidu.com/item/%E5%B7%AE%E9%A2%9D?fromModule=lemma_inlink">差额</a>，全部<a href="https://baike.baidu.com/item/%E8%A1%A5%E6%8F%90?fromModule=lemma_inlink">补提</a>。影响的损益（<a href="https://baike.baidu.com/item/%E8%90%A5%E4%B8%9A%E5%A4%96%E6%94%AF%E5%87%BA?fromModule=lemma_inlink">营业外支出</a>贷方）=未提减值准备状态下当期价值-当期账面数</p>
+              </div>
+            </details><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
+
+<h1 id="支线"><a href="#支线" class="headerlink" title="支线"></a>支线</h1><h3 id="·会计假设"><a href="#·会计假设" class="headerlink" title="·会计假设"></a>·<strong>会计假设</strong></h3><p><strong>主体假设</strong>：会计上假设企业法人是一个独立的实体。</p>
+<p>会计关注的中心是企业而不是业主、合伙人。会计主体假设产生的原因在于恰当地维护业主投入到企业的资本的需要。</p>
+<p>会计主体假设一般指企业本身，随着集团公司总裁的出现，母公司和子公司各为独立法人，为了合并<a href="https://baike.baidu.com/item/%E7%BC%96%E5%88%B6%E8%B4%A2%E5%8A%A1%E6%8A%A5%E8%A1%A8?fromModule=lemma_inlink">编制财务报表</a>反映整个集团的财务状况，会计主体假设发展为合并个体，再扩展又可是一个国家或地区，如政府的国民帐户核算体系。</p>
+<p><strong>持续经营假设</strong>：即假定每一个企业在可以预见的未来。不会面临破产和清算，因而它所拥有的<a href="https://baike.baidu.com/item/%E8%B5%84%E4%BA%A7?fromModule=lemma_inlink">资产</a>将在正常的经营过程中被耗用或出售，它所承担的债务，也将在同样的过程中被偿还。若企业不能<a href="https://baike.baidu.com/item/%E6%8C%81%E7%BB%AD%E7%BB%8F%E8%90%A5?fromModule=lemma_inlink">持续经营</a>，就需要放弃这一假设，在清算假设下形成破产或重组的<a href="https://baike.baidu.com/item/%E4%BC%9A%E8%AE%A1%E7%A8%8B%E5%BA%8F?fromModule=lemma_inlink">会计程序</a>。</p>
+<p><strong>分期假设：</strong>这一假设规定了<a href="https://baike.baidu.com/item/%E4%BC%9A%E8%AE%A1%E5%AF%B9%E8%B1%A1?fromModule=lemma_inlink">会计对象</a>的时间界限，将企业连续不断的经营活动分割为若干较短时期，以便提供<a href="https://baike.baidu.com/item/%E4%BC%9A%E8%AE%A1%E4%BF%A1%E6%81%AF?fromModule=lemma_inlink">会计信息</a>，是正确计算收入、费用和损益的前提。</p>
+<p>不足：</p>
+<p><a href="https://baike.baidu.com/item/%E4%BC%9A%E8%AE%A1%E5%88%86%E6%9C%9F%E5%81%87%E8%AE%BE/329567?fromModule=lemma_inlink">会计分期假设</a>，因为<a href="https://baike.baidu.com/item/%E4%BC%9A%E8%AE%A1%E6%9C%9F?fromModule=lemma_inlink">会计期</a>是人为划分的，存在很大的主观性，影响了会计信息的质量，使会计信息有明显的估计性和不确定性</p>
+<p><strong>货币计量假设</strong>：</p>
+<p>这一假设规定了会计的计量手段，指出企业的生产经营活动及其成果可以通过货币反映。它暗含了两层意思，即币种的唯一性和币值的不变性。</p>
+]]></content>
+      <tags>
+        <tag>会计</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>python学习笔记</title>
+    <url>/2022/02/21/python/</url>
+    <content><![CDATA[<p><img src="https://wzho-1313533248.cos.ap-beijing.myqcloud.com/img/skd1.jpg"></p>
+<h3 id="注释："><a href="#注释：" class="headerlink" title="注释："></a>注释：</h3><p>会被解释器所忽略，辅助调试</p>
+<p>单行注释以#开头，如</p>
+<p><em>#此为一个注释</em></p>
+<p>多行注释：多个# 或者三个单or双引号，如</p>
+<p><em>##我是</em></p>
+<p><em>##注释</em></p>
+<p><em>##我也是</em></p>
+<hr>
+<p><em>‘’’/“””</em></p>
+<p><em>我是注释</em></p>
+<p><em>‘’’/“””</em></p>
+<h2 id="结构"><a href="#结构" class="headerlink" title="结构"></a>结构</h2><p><strong>注意 ：👈冒号</strong></p>
+<h3 id="多分枝结构：if-elif-else"><a href="#多分枝结构：if-elif-else" class="headerlink" title="多分枝结构：if elif else"></a>多分枝结构：if elif else</h3><p><strong>注意缩进 👆</strong></p>
+<h3 id="循环：while-amp-for"><a href="#循环：while-amp-for" class="headerlink" title="循环：while&amp;for"></a>循环：while&amp;for</h3><h4 id="while语句"><a href="#while语句" class="headerlink" title="while语句"></a>while语句</h4><p>while&lt;条件&gt;:</p>
+<p>​    &lt;语句块&gt;</p>
+<h4 id="for语句（遍历）："><a href="#for语句（遍历）：" class="headerlink" title="for语句（遍历）："></a>for语句（遍历）：</h4><p>for i（元素） in A（组合 如字符串 列表 元组 ）</p>
+<p>break语句：跳出当前循环</p>
+<h2 id="行与缩进"><a href="#行与缩进" class="headerlink" title="行与缩进"></a>行与缩进</h2><h3 id="缩进：Python中用来表示代码块，就不必用大括号"><a href="#缩进：Python中用来表示代码块，就不必用大括号" class="headerlink" title="缩进：Python中用来表示代码块，就不必用大括号"></a>缩进：Python中用来表示代码块，就不必用大括号</h3><p><strong>意味着，同一个代码块中的语句中必须包含相同的缩进空格数</strong></p>
+<p>如：</p>
+<p><em>if Ture:</em></p>
+<p>​    <em>print(“True”)</em></p>
+<p><em>else:</em></p>
+<p>​    <em>print(“False)</em></p>
+<p><em>print(“You fool”)</em></p>
+<p>👆此处代码块的缩进不一致，便会出现运行错误：</p>
+<p><em>IndentationError: unindent does not match any outer indentation level</em></p>
+<p><strong>注意：tab换行长度上和四个空格一样 但有时混用tap和空格可能导致报错</strong></p>
+<p><strong>但是根本很难看得出来</strong></p>
+<p>除非你用 notepad+ 去查看 </p>
+<h3 id="多行语句"><a href="#多行语句" class="headerlink" title="多行语句"></a><strong>多行语句</strong></h3><p>用反斜杠\来实现多行语句，例如：</p>
+<p>*total = one +\*</p>
+<p>*two +\*</p>
+<p><em>three</em></p>
+<p>在[],  {} ,  ()中的多行语句则不需要使用反斜杠</p>
+<h3 id="数据类型"><a href="#数据类型" class="headerlink" title="数据类型"></a><strong>数据类型</strong></h3><p><strong>int：整数</strong> 可正负 无取值范围限制</p>
+<p><strong>bool：布尔，如：True</strong></p>
+<p><strong>float：浮点数，如：1.23、3E-2</strong></p>
+<p><em><strong>complex：复数，如：1+2j、1.1+2.2j</strong></em></p>
+<h3 id="字符串"><a href="#字符串" class="headerlink" title="字符串"></a><strong>字符串</strong></h3><ul>
+<li>python中单引号’与双引号”使用完全相同，使用三引号（单双都行）可以指定一个多行字符串</li>
+<li>反斜杠\用来转义，用字母r可以使反斜杠不转义。</li>
+<li>*按字面意义级联字符串，如 <strong>“this “ “is “ “string”</strong> 会被自动转换为 <strong>this is string</strong>。*</li>
+<li>字符串可以用 <strong>+</strong> 运算符连接在一起，用 ***** 运算符重复。</li>
+<li><strong>Python 中的字符串有两种索引方式，从左往右以 0 开始，从右往左以 -1 开始</strong></li>
+<li><strong>Python 中的字符串不能改变。</strong></li>
+<li>Python 没有单独的字符类型，一个字符就是长度为 1 的字符串。</li>
+<li><strong>字符串的截取（切片）的语法格式如下：变量[头下标:尾下标:步长]</strong></li>
+</ul>
+<h2 id="eg"><a href="#eg" class="headerlink" title="eg:"></a>eg:</h2><ol>
+<li><p>str=’123456789’</p>
+</li>
+<li><p>print(str)                 # 输出字符串 123456789</p>
+</li>
+<li><p><strong>print(str[0:-1])           # 输出第一个到倒数第二个的所有字符 12345678</strong></p>
+</li>
+<li><p>print(str[<strong>0</strong>])              # 输出字符串第<strong>一</strong>个字符(从0开始数) 1</p>
+</li>
+<li><p><strong>print(str[2:5])            # 输出从第三个开始到第五个的字符</strong> 345</p>
+</li>
+<li><p>print(str[2:])             # 输出从第三个开始后的所有字符 3456789</p>
+</li>
+<li><p><strong>print(str[1:5:2])       # 输出从第二个开始到第五个且每隔一个的字符（步长为2）24</strong></p>
+</li>
+<li><p>print(str * 2)             # 输出字符串两次 123456789123456789</p>
+</li>
+<li><p>print(str + ‘你好’)         # 连接字符串 123456789你好</p>
+</li>
+<li><p>print(‘hello\nrunoob’)      # 使用反斜杠()+n转义特殊字符 hello换行rb</p>
+</li>
+<li><p>print(r’hello\nrunoob’)     # 在字符串前面添加一个 r，表示原始字符串，不会发生转义 hello\nrunoob</p>
+<ol>
+<li><h3 id="python转义字符"><a href="#python转义字符" class="headerlink" title="python转义字符"></a>python转义字符</h3></li>
+</ol>
+<p>在需要在字符中使用特殊字符时，python 用反斜杠 *<em>*</em> 转义字符。如下表：</p>
+<details class="folding-tag" ><summary> 转义字符示例 </summary>
+              <div class='content'>
+              <table><thead><tr><th align="left">转义字符</th><th align="left">描述</th><th align="left">实例</th></tr></thead><tbody><tr><td align="left">(在行尾时)</td><td align="left">续行符</td><td align="left"><code>&gt;&gt;&gt; print(&quot;line1 \ ... line2 \ ... line3&quot;) line1 line2 line3 &gt;&gt;&gt; </code></td></tr><tr><td align="left">\</td><td align="left">反斜杠符号</td><td align="left"><code>&gt;&gt;&gt; print(&quot;\\&quot;) \</code></td></tr><tr><td align="left">&#39;</td><td align="left">单引号</td><td align="left"><code>&gt;&gt;&gt; print(&#39;\&#39;&#39;) &#39;</code></td></tr><tr><td align="left">&quot;</td><td align="left">双引号</td><td align="left"><code>&gt;&gt;&gt; print(&quot;\&quot;&quot;) &quot;</code></td></tr><tr><td align="left">\a</td><td align="left">响铃</td><td align="left"><code>&gt;&gt;&gt; print(&quot;\a&quot;)</code>执行后电脑有响声。</td></tr><tr><td align="left">\b</td><td align="left">退格(Backspace)</td><td align="left"><code>&gt;&gt;&gt; print(&quot;Hello \b World!&quot;) Hello World!</code></td></tr><tr><td align="left">\000</td><td align="left">空</td><td align="left"><code>&gt;&gt;&gt; print(&quot;\000&quot;) &gt;&gt;&gt; </code></td></tr><tr><td align="left">\n</td><td align="left">换行</td><td align="left"><code>&gt;&gt;&gt; print(&quot;\n&quot;)  &gt;&gt;&gt;</code></td></tr><tr><td align="left">\v</td><td align="left">纵向制表符</td><td align="left"><code>&gt;&gt;&gt; print(&quot;Hello \v World!&quot;) Hello        World! &gt;&gt;&gt;</code></td></tr><tr><td align="left">\t</td><td align="left">横向制表符</td><td align="left"><code>&gt;&gt;&gt; print(&quot;Hello \t World!&quot;) Hello    World! &gt;&gt;&gt;</code></td></tr><tr><td align="left">\r</td><td align="left">回车，将 <strong>\r</strong> 后面的内容移到字符串开头，并逐一替换开头部分的字符，直至将 <strong>\r</strong> 后面的内容完全替换完成。</td><td align="left"><code>&gt;&gt;&gt; print(&quot;Hello\rWorld!&quot;) World! &gt;&gt;&gt; print(&#39;google runoob taobao\r123456&#39;) 123456 runoob taobao</code></td></tr><tr><td align="left">\f</td><td align="left">换页</td><td align="left"><code>&gt;&gt;&gt; print(&quot;Hello \f World!&quot;) Hello        World! &gt;&gt;&gt; </code></td></tr><tr><td align="left">\yyy</td><td align="left">八进制数，y 代表 0~7 的字符，例如：\012 代表换行。</td><td align="left"><code>&gt;&gt;&gt; print(&quot;\110\145\154\154\157\40\127\157\162\154\144\41&quot;) Hello World!</code></td></tr><tr><td align="left">\xyy</td><td align="left">十六进制数，以 \x 开头，y 代表的字符，例如：\x0a 代表换行</td><td align="left"><code>&gt;&gt;&gt; print(&quot;\x48\x65\x6c\x6c\x6f\x20\x57\x6f\x72\x6c\x64\x21&quot;) Hello World!</code></td></tr><tr><td align="left">\other</td><td align="left">其它的字符以普通格式输出</td><td align="left"></td></tr></tbody></table>
+              </div>
+            </details>
+
+<h4 id="ord-chr函数"><a href="#ord-chr函数" class="headerlink" title="ord chr函数"></a>ord chr函数</h4><p>ord(“”) 获取unicode编码</p>
+<p>chr(“”) 根据unicode 编码输出字符</p>
+<p>有点像c里Ascii码与字符互相确定 不过python里能够使用汉字</p>
+<h4 id=""><a href="#" class="headerlink" title=""></a></h4><h3 id="字符串处理方法"><a href="#字符串处理方法" class="headerlink" title="字符串处理方法"></a>字符串处理<strong>方法</strong></h3><p>方法：有别于函数又有类似之处</p>
+<p>str.lower()  小写</p>
+<p>str.upper()  大写</p>
+<p>str.split()  通过指定分隔符对字符串进行切片，如果参数 num 有指定值，则分隔 num+1 个子字符串 <strong>返回列表</strong></p>
+<p>str.replace(old,new) 指定内容替换</p>
+<p>str.center(width[])方法返回一个指定的宽度 width 居中的字符串，fillchar 为填充的字符，默认为空格。</p>
+<p>etc.</p>
+<h3 id="-1"><a href="#-1" class="headerlink" title="****"></a>****</h3><h3 id="列表list"><a href="#列表list" class="headerlink" title="列表list"></a>列表list</h3><p>lis1 = [ ]</p>
+<p>位置值（索引） 对应元素</p>
+<p>👆从0开始 0对应第一个 1对应第二个</p>
+<p>列表的方法；</p>
+<p>Python包含以下方法:</p>
+<table>
+<thead>
+<tr>
+<th align="left">序号</th>
+<th align="left">方法</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">1</td>
+<td align="left"><a href="https://www.runoob.com/python3/python3-att-list-append.html">list.append(obj)</a> 在列表末尾添加新的对象</td>
+</tr>
+<tr>
+<td align="left">2</td>
+<td align="left"><a href="https://www.runoob.com/python3/python3-att-list-count.html">list.count(obj)</a> 统计某个元素在列表中出现的次数</td>
+</tr>
+<tr>
+<td align="left">3</td>
+<td align="left"><a href="https://www.runoob.com/python3/python3-att-list-extend.html">list.extend(seq)</a> 在列表末尾一次性追加另一个序列中的多个值（用新列表扩展原来的列表）</td>
+</tr>
+<tr>
+<td align="left">4</td>
+<td align="left"><a href="https://www.runoob.com/python3/python3-att-list-index.html">list.index(obj)</a> 从列表中找出某个值第一个匹配项的索引位置</td>
+</tr>
+<tr>
+<td align="left">5</td>
+<td align="left"><a href="https://www.runoob.com/python3/python3-att-list-insert.html">list.insert(index, obj)</a> 将对象插入列表</td>
+</tr>
+<tr>
+<td align="left">6</td>
+<td align="left">[list.pop(<a href="https://www.runoob.com/python3/python3-att-list-pop.html">index=-1])</a> 移除列表中的一个元素（默认最后一个元素），并且返回该元素的值</td>
+</tr>
+<tr>
+<td align="left">7</td>
+<td align="left"><a href="https://www.runoob.com/python3/python3-att-list-remove.html">list.remove(obj)</a> 移除列表中某个值的第一个匹配项</td>
+</tr>
+<tr>
+<td align="left">8</td>
+<td align="left"><a href="https://www.runoob.com/python3/python3-att-list-reverse.html">list.reverse()</a> 反向列表中元素</td>
+</tr>
+<tr>
+<td align="left">9</td>
+<td align="left"><a href="https://www.runoob.com/python3/python3-att-list-sort.html">list.sort( key=None, reverse=False)</a> 对原列表进行排序</td>
+</tr>
+<tr>
+<td align="left">10</td>
+<td align="left"><a href="https://www.runoob.com/python3/python3-att-list-clear.html">list.clear()</a> 清空列表</td>
+</tr>
+<tr>
+<td align="left">11</td>
+<td align="left"><a href="https://www.runoob.com/python3/python3-att-list-copy.html">list.copy()</a> 复制列表</td>
+</tr>
+</tbody></table>
+<h3 id="-2"><a href="#-2" class="headerlink" title=""></a></h3></li>
+</ol>
+<h2 id="运算符"><a href="#运算符" class="headerlink" title="运算符"></a>运算符</h2><p><strong>优先级由高到低：not and or</strong></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">x = True</span><br><span class="line">y = False</span><br><span class="line">z = False</span><br><span class="line"></span><br><span class="line">if x or y and z:</span><br><span class="line">    print(&quot;yes&quot;)</span><br><span class="line">else:</span><br><span class="line">    print(&quot;no&quot;)</span><br></pre></td></tr></table></figure>
+
+<p>结果是 <strong>yes！</strong></p>
+<h3 id="is-与-区别："><a href="#is-与-区别：" class="headerlink" title="is 与 == 区别："></a>is 与 == 区别：</h3><p>is 用于判断两个变量引用对象是否为同一个， == 用于判断引用变量的值是否相等。</p>
+<h2 id="函数："><a href="#函数：" class="headerlink" title="函数："></a>函数：</h2><p>使用def 函数定义新函数</p>
+<p>def 函数名 ( 函数参数)：</p>
+<p>​    xxx        函数体</p>
+<p>return x   返回值</p>
+<h3 id="输入函数input（）"><a href="#输入函数input（）" class="headerlink" title="输入函数input（）"></a>输入函数input（）</h3><p>使用格式：&lt;变量&gt; = input(&lt;提示信息字符串&gt;)</p>
+<p>用户输入信息以<strong>字符串</strong>类型保存在&lt;变量&gt;中</p>
+<h3 id="print函数"><a href="#print函数" class="headerlink" title="print函数"></a>print函数</h3><p>print(a,b,sep=”空格”)控制间隔</p>
+<p>print(a,b,end=”默认\n”)控制结束时</p>
+<p>格式化输出：</p>
+<p>print(“hello %s  you are %d” %(name,age))</p>
+<p>print(“hello {数字表示顺序 默认0}, you are {默认1}”.format(name,age))</p>
+<p>string.format </p>
+<p>{&lt;参数序号&gt;:（填充）&lt;格式控制标记&gt;}</p>
+<h3 id="eval函数"><a href="#eval函数" class="headerlink" title="eval函数"></a>eval函数</h3><p>函数用来执行一个字符串表达式，并<em>返回表达式的值</em>。</p>
+<p>eval() 函数也可以直接用来提取用户输入的多个值。</p>
+<p>例如：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">a,b=eval(input())</span><br></pre></td></tr></table></figure>
+
+<p>输入：<strong>10,5</strong>，得到 <strong>a=10，b=5</strong>。</p>
+<h3 id="range函数：创建整数列表"><a href="#range函数：创建整数列表" class="headerlink" title="range函数：创建整数列表"></a>range函数：创建整数列表</h3><p>range(start,end,step)</p>
+<p>默认0 默认1 默认1</p>
+<h2 id="数学函数"><a href="#数学函数" class="headerlink" title="数学函数"></a>数学函数</h2><details class="folding-tag" ><summary> 数学函数与随机数函数示例 </summary>
+              <div class='content'>
+              <table><thead><tr><th align="left">函数</th><th align="left">返回值 ( 描述 )</th></tr></thead><tbody><tr><td align="left"><a href="https://www.runoob.com/python3/python3-func-number-abs.html">abs(x)</a></td><td align="left">返回数字的绝对值，如abs(-10) 返回 10</td></tr><tr><td align="left"><a href="https://www.runoob.com/python3/python3-func-number-ceil.html">ceil(x)</a></td><td align="left">返回数字的上入整数，如math.ceil(4.1) 返回 5</td></tr><tr><td align="left">cmp(x, y)</td><td align="left">如果 x &lt; y 返回 -1, 如果 x == y 返回 0, 如果 x &gt; y 返回 1。 <strong>Python 3 已废弃，使用 (x&gt;y)-(x&lt;y) 替换</strong>。</td></tr><tr><td align="left"><a href="https://www.runoob.com/python3/python3-func-number-exp.html">exp(x)</a></td><td align="left">返回e的x次幂(ex),如math.exp(1) 返回2.718281828459045</td></tr><tr><td align="left"><a href="https://www.runoob.com/python3/python3-func-number-fabs.html">fabs(x)</a></td><td align="left">返回数字的绝对值，如math.fabs(-10) 返回10.0</td></tr><tr><td align="left"><a href="https://www.runoob.com/python3/python3-func-number-floor.html">floor(x)</a></td><td align="left">返回数字的下舍整数，如math.floor(4.9)返回 4</td></tr><tr><td align="left"><a href="https://www.runoob.com/python3/python3-func-number-log.html">log(x)</a></td><td align="left">如math.log(math.e)返回1.0,math.log(100,10)返回2.0</td></tr><tr><td align="left"><a href="https://www.runoob.com/python3/python3-func-number-log10.html">log10(x)</a></td><td align="left">返回以10为基数的x的对数，如math.log10(100)返回 2.0</td></tr><tr><td align="left"><a href="https://www.runoob.com/python3/python3-func-number-max.html">max(x1, x2,…)</a></td><td align="left">返回给定参数的最大值，参数可以为序列。</td></tr><tr><td align="left"><a href="https://www.runoob.com/python3/python3-func-number-min.html">min(x1, x2,…)</a></td><td align="left">返回给定参数的最小值，参数可以为序列。</td></tr><tr><td align="left"><a href="https://www.runoob.com/python3/python3-func-number-modf.html">modf(x)</a></td><td align="left">返回x的整数部分与小数部分，两部分的数值符号与x相同，整数部分以浮点型表示。</td></tr><tr><td align="left"><a href="https://www.runoob.com/python3/python3-func-number-pow.html">pow(x, y)</a></td><td align="left">x**y 运算后的值。</td></tr><tr><td align="left">[round(x <a href="https://www.runoob.com/python3/python3-func-number-round.html">,n])</a></td><td align="left">返回浮点数 x 的四舍五入值，如给出 n 值，则代表舍入到小数点后的位数。<strong>其实准确的说是保留值将保留到离上一位更近的一端。</strong></td></tr><tr><td align="left"><a href="https://www.runoob.com/python3/python3-func-number-sqrt.html">sqrt(x)</a></td><td align="left">返回数字x的平方根。</td></tr></tbody></table><h2 id="随机数函数"><a href="#随机数函数" class="headerlink" title="随机数函数"></a>随机数函数</h2><p>随机数可以用于数学，游戏，安全等领域中，还经常被嵌入到算法中，用以提高算法效率，并提高程序的安全性。</p><p>Python包含以下常用随机数函数：</p><table><thead><tr><th align="left">函数</th><th align="left">描述</th></tr></thead><tbody><tr><td align="left"><a href="https://www.runoob.com/python3/python3-func-number-choice.html">choice(seq)</a></td><td align="left">从序列的元素中随机挑选一个元素，比如random.choice(range(10))，从0到9中随机挑选一个整数。</td></tr><tr><td align="left">[randrange (<a href="https://www.runoob.com/python3/python3-func-number-randrange.html">start,] stop [,step])</a></td><td align="left">从指定范围内，按指定基数递增的集合中获取一个随机数，基数默认值为 1</td></tr><tr><td align="left"><a href="https://www.runoob.com/python3/python3-func-number-random.html">random()</a></td><td align="left">随机生成下一个实数，它在[0,1)范围内。</td></tr><tr><td align="left">[seed(<a href="https://www.runoob.com/python3/python3-func-number-seed.html">x])</a></td><td align="left">改变随机数生成器的种子seed。如果你不了解其原理，你不必特别去设定seed，Python会帮你选择seed。</td></tr><tr><td align="left"><a href="https://www.runoob.com/python3/python3-func-number-shuffle.html">shuffle(lst)</a></td><td align="left">将序列的所有元素随机排序</td></tr><tr><td align="left"><a href="https://www.runoob.com/python3/python3-func-number-uniform.html">uniform(x, y)</a></td><td align="left">随机生成下一个实数，它在[x,y]范围内。</td></tr></tbody></table>
+              </div>
+            </details>
+
+
+
+
+
+]]></content>
+      <tags>
+        <tag>编程</tag>
+        <tag>学习笔记</tag>
+        <tag>python</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>英语杂记</title>
+    <url>/2023/03/07/%E5%85%AD%E7%BA%A7%E5%85%AD%E7%BA%A7%E5%85%AD%E7%BA%A7/</url>
+    <content><![CDATA[<div class="tabs" id="一级标题"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#一级标题-1">翻译用词汇及表达</button></li><li class="tab"><button type="button" data-href="#一级标题-2">图表作文；）</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="一级标题-1"><p>deteriorate</p>
+<p>sustainable development</p>
+<p>unique status</p>
+<p><strong>narrow the gap between a and b</strong></p>
+<p>evolve into</p>
+<p>preferred 首选的</p>
+<p>commute 通勤</p>
+<p>punctual 准时的</p>
+<p>metropolis 大都市</p>
+<p>direction of public opinion 舆论导向 </p>
+<p>migrant worker 外出务工人员</p>
+<p>cultivation 种植</p>
+<p>corp yields 作物产量</p>
+<p>Coexistence 共存</p>
+<p>expenditure 支出</p>
+<p>fictitious economy 虚拟经济</p>
+<hr>
+<p>zodiac 十二生肖</p>
+<p>粤菜 Canton cuisine</p>
+<p>clay oven rolls 烧饼</p>
+<p>tomatoes on sticks 糖葫芦</p>
+<p>100-year egg/century egg 皮蛋</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="一级标题-2"><hr>
+<h3 id="套话"><a href="#套话" class="headerlink" title="套话"></a><strong>套话</strong></h3><h4 id="原因"><a href="#原因" class="headerlink" title="原因"></a>原因</h4><p>Mainly there are… reasons behind the situation reflected in the graphic/table. First of all, …. More significantly,….Most important of all…..</p>
+<h4 id="预测-amp-结尾"><a href="#预测-amp-结尾" class="headerlink" title="预测&amp;结尾"></a>预测&amp;结尾</h4><p>From the above discussions, we have enough reason to predict what will happen in the near future. The trend described in the graphic/ table will continue for quite a long time.</p>
+<hr>
+<h3 id="程度词"><a href="#程度词" class="headerlink" title="程度词"></a>程度词</h3><p>noticeable; sharp; steep;</p>
+<p>remarkable</p>
+<p>slight; gradual; drastic*(激烈的；急剧的)*;dramatic; </p>
+<hr>
+<h3 id="占多少比例"><a href="#占多少比例" class="headerlink" title="占多少比例"></a>占多少比例</h3><p>take up</p>
+<p>make up</p>
+<p>constitute</p>
+<p>account for</p>
+<p>have … percentage/proportion</p>
+<hr>
+<h3 id="处于xx位置"><a href="#处于xx位置" class="headerlink" title="处于xx位置"></a>处于xx位置</h3><p>be listed on the first place</p>
+<p>A ranks first, followed by B</p>
+<p><strong>The figures peak at</strong></p>
+<p><strong>It topped the list</strong></p>
+<p>arrive at the lowest point</p>
+<hr>
+<h3 id="增长"><a href="#增长" class="headerlink" title="增长"></a>增长</h3><p>increase by/to</p>
+<p>have an increase from … to …</p>
+<p>amount to/ go up</p>
+<p>have an upward trend in…</p>
+<p><strong>shot (shoot) up to/ rocket to</strong></p>
+<hr>
+<h3 id="下降"><a href="#下降" class="headerlink" title="下降"></a>下降</h3><p>decrease from … to …</p>
+<p>decline by/to</p>
+<p>drop by…</p>
+<p>drop down to</p>
+<p>fall to</p>
+<p>have a downward trend in…</p>
+<hr>
+<h3 id="波动-amp-稳定"><a href="#波动-amp-稳定" class="headerlink" title="波动&amp;稳定"></a>波动&amp;稳定</h3><p>fluctuate slightly</p>
+<p>have a slight fluctuation</p>
+<p>remain stable at</p>
+<p>keep steady at</p>
+<p>keep level at</p>
+<hr>
+<h3 id=""><a href="#" class="headerlink" title=""></a></h3><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
+
+]]></content>
+      <tags>
+        <tag>学习笔记</tag>
+        <tag>英语</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021年度</title>
+    <url>/2021/12/01/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</url>
+    <content><![CDATA[<p>2021–变局</p>
+<blockquote>
+<p>就像天空突然变了色，就像暴雨瓢泼而至。就像隆隆的炮火，像汹汹的病毒。云雨是天地间的造化，人事而至给人世带来重大转折。                                               –《带镣铐而舞》</p>
+</blockquote>
+<p>  关于2021年的记忆模糊而是真，它不若2020年病毒初肆虐时让人心悸，但疫情带来的不良影响却依旧让世界处处斑驳。没那么长远的眼光关切世界，去年的上半年，心力交瘁忙于高考。</p>
+<p><img src="https://img0.baidu.com/it/u=347754540,329191294&fm=253&fmt=auto&app=138&f=JPEG?w=650&h=434"></p>
+<h3 id="网课"><a href="#网课" class="headerlink" title="网课"></a><strong>网课</strong></h3><p>  高二起自己找了点网课上，大抵是得到了一些额外的知识技巧，某些考试也取得了一些小成绩，心里顿生优越感。<strong>但是</strong>，网课也成为了我心中对于学习的代名词，看作获取知识的不二法门。勤于看网课，找网课，而疏于消化理解知识本身。做题，整理更是浮躁。网课之于我当时，或许承载着浮躁与焦虑，同样，间接导致了高考的滑铁卢。</p>
+<blockquote>
+<p>  后来，我懂得了：<strong>网课，是手段而不是全部。</strong></p>
+<p>  还有一句话时时警醒着我：<strong>“学渣文具多”，学习不必要整那么多花里胡哨的。</strong></p>
+</blockquote>
+<h2 id="懒散的暑假"><a href="#懒散的暑假" class="headerlink" title="懒散的暑假"></a><strong>懒散的暑假</strong></h2><p>  现在看来，高考完长达四个月的暑假意义甚小。出成绩前的放情嬉戏，出成绩后的破罐破摔，完全成了懒惰的绝佳借口。想锻炼呀，想学习呀，皆以种种理由推诿，转而暗无天日的玩游戏，刷视频。唯一值得记忆的便是拿到驾照及其苦难过程了。现在回忆倒也有味；驾校蚊子扎堆、可怜又可爱的狗子、教练车里电蚊香的操作、练科三后面的行云流水···且不提科三因天气原因考了两次，完全是值得玩赏良久的回忆</p>
+<p>​                                                    <em>驾校亲近人的狗子</em></p>
+<p>​                                 <em>重考科三路上的景色好像水墨画</em></p>
+<h3 id="北京-开学"><a href="#北京-开学" class="headerlink" title="北京|开学"></a><strong>北京|开学</strong></h3><p>  百无聊赖的在暑假的光阴中虚度着，十月份没有在说好的新校区开学。</p>
+<p>提前几天到了北京，住在金陵饭店一周左右。望京。从小县城到大都市的冲击是十分明显的。地铁没坐过几次，但每次乘坐，观望为生计奔波的茫茫众生，都能感受到打工人如在风雨中御舟独行的流转不屈。我大抵也将成为他们中的一员罢。此外，高耸入云的建筑只让我脑中萦绕着“魔幻现实主义”一词。通勤时间如此之久让我深感时间在此地又昂贵又廉价，不似我那偏远之至的县城，人人都睡午觉，伴随习习凉风。</p>
+<p>  入学，一如高中。宿舍13楼，八人间。舍友大抵是不错的。搬至新校区后倒也时常怀念八人间的烟火气。但是实在是拥挤呀。弹丸之地，有时没地方站。东西没地方放，同样。早知道不那么早买电脑。食堂很好吃，也有不那么好吃但是很便宜的。新校区相形见绌。有不那么好的健身场地，完全够用。气膜馆因为疫情没开几次，深感遗憾。</p>
+<h3 id="学习"><a href="#学习" class="headerlink" title="学习"></a><strong>学习</strong></h3><p>上课，不同于高中。各个教室间奔波，座位自己抢，上课听不听都可以。一眼望到这种模式的利弊。只敢靠前坐，收起手机。期末，丝毫没有复习。得益于平时上课还算颇有效率，成绩不难看。希望每个学期都能如此洒脱。</p>
+<p>高数显然比高中数学简单，C语言很有意思。<strong>刷题量靠前真是能提供莫大的动力，同时锻炼能力，提供危机感。</strong>期末考试，两个小时，半个小时离场真是羡煞旁人。可惜被安排坐在最后一排。</p>
+<p>期中写了二篇论文。深感其难。希望以后我的文章能言之有物。</p>
+<p>已经预估到了本专业：审计学（计算机审计）中，审计、会计的课将会相当无聊。我应该转专业吗？虽说本专业毕业也可以走计算机就业，但是···</p>
+<p>体验大学生活阿。一时兴起加入了求识学院的英语部，一时兴起参加了外研社英辩活动，囿于英语水平有限，没能出去比赛。但也不失为一次绝佳的体验。认识了几个外语专业的学姐，和董一起训练了几次。深感大学生的生活应如是，而非在荧幕前发霉。</p>
+<h4 id="iflab"><a href="#iflab" class="headerlink" title="iflab"></a>iflab</h4><p>某天从教室回来看到iflab的宣传海报，简简单单一个二维码。我没有扫。依稀记得几个优秀的健翔桥网友兼同学在里面的：李昌骏，宋宇然，夏方方。一没勇气，二来懒散惯了。后来跟董上课闲聊时地意外发现了她有意向加入。厚颜要来面试题，前几题倒也不难，顺手就能做出来。后面几题却不是一个难度，直至提交期限前几小时才写出来，且不计其间磕磕绊绊地在csdn上求知问道了多少次。晚上线上面试，还煞有其事的叫舍友安静些些。顺利加入，深感此社团的含金量超乎想象。或许给我带来机遇，或许能展开另一种可能。里面的导师实力雄厚而亲切。让我感到一种利他的善意。若以后小有所成，希望我也能如此传递下去。</p>
+<p>​                                                                   有味</p>
+<h2 id="新校区"><a href="#新校区" class="headerlink" title="新校区"></a>新校区</h2><p>  搬家折腾死了。上床下桌舒坦，却容易滋生懒散。不该驻扎在宿舍！去上课，吃饭要走挺久，权当散步了。也容易给自己找借口不去空教室云云。食堂贵且难吃且种类少。超市垄断。偏僻。新校区大抵只有宿舍优势了吧。瑕不掩瑜，三楼宿舍，楼梯上下床太舒服了~但是住过小营，心里还是有些许不平衡。</p>
+<blockquote>
+<p>世间安有两全法</p>
+</blockquote>
+<p>​                                                               <em>上床下桌</em></p>
+<h3 id="博客-期末-兼职"><a href="#博客-期末-兼职" class="headerlink" title="博客|期末|兼职"></a>博客|期末|兼职</h3><p>  翻着iflab新生培养计划，说是建议搭一个博客。彳亍，用GitHub pages 弄了一个姑且称之为网页的网页吧，大喜过望，一问博客做的很棒的 <strong>宋宇然</strong>   得，不是这么整的。考虑到期末临近，准备考完试再说。</p>
+<p>  我自己都觉得讽刺。因为期末到了不弄博客了，却又跟同在iflab，在暑假就有交集的 <strong>李昌骏</strong> 去五道口兼职去了。中午吃了10块钱5个大肘子，食之无味。兼职是录制智能语音助手的唤醒词云云。我心说我天天唠叨小爱同学，这我熟。没想到其内容如此单调无趣，仅仅重复其名多达半百次。长达五六小时，挣得195块。深感挣钱不易。给父母点了一餐外卖，剩下的当作几天的伙食费全部吃去了。真正意义上的第一桶金，实用价值战胜了纪念价值，没有裱起来。</p>
+<p>期末考试期间没有断电。越到期末越想学新的知识，越想玩，就是不怎么想复习。睡得更是比平常晚。虽说期末考成绩尚可，但现在想来还是有些后怕。  </p>
+<blockquote>
+<p><strong>行百里者半九十</strong></p>
+</blockquote>
+<p>往后的期末应该要认真对待。拉高绩点十分重要。</p>
+<h3 id="回家-博客"><a href="#回家-博客" class="headerlink" title="回家|博客"></a>回家|博客</h3><p>  下了飞机，第一次感受到福建空气的可爱。机场出门便是福州标致性的如海般的榕树。空气带着植物的清新和十足的水汽。福建也有缺点，南方冬天共同的缺点：<strong>没有暖气。</strong>几个月来第一次感觉被窝如冰窖。</p>
+<p>玩到自我嫌弃，着手搭建博客。厚颜去问宇然，貌似要安装一堆应用，确实劝退。不服输。过了几天的自暴自弃，又开始试图搭建。中途出了无数的差错。不知道多少次垂询CSDN，其间得到错误的答案差点把我急死。有不少问题是我乱试解决的。最终磕磕碰碰的弄完了一点，特别鸣谢给我莫大帮助的 <strong>宋宇然</strong> 和 <strong>夏方方</strong> 同志。还有些不太熟悉使用hexo，就写到这吧。</p>
+<blockquote>
+<p>兼听则明，偏听则暗。</p>
+</blockquote>
+]]></content>
+      <tags>
+        <tag>其他</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>数据结构学习</title>
+    <url>/2022/08/01/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/</url>
+    <content><![CDATA[<h1 id="数据结构与算法"><a href="#数据结构与算法" class="headerlink" title="数据结构与算法"></a>数据结构与算法</h1><details class="folding-tag" open><summary> 一些话 </summary>
+              <div class='content'>
+              <p>C语言（程序设计语言）→数据结构→操作系统，编译原理，数据库原理，软件工程</p><p>C语言更能体会计算机原理</p><p>数据结构是计算机及其相关专业的重点→较复杂的数据组织和数据处理方法</p><p>考虑：数据如何组织与处理</p><p>逻辑层面上理清求解问题：1.用户的角度看数据：什么类型的逻辑结构 2. 运算描述</p><p>实现求解问题：存储结构→算法</p><p>提高能力需要<strong>更多的编程</strong>。</p>
+              </div>
+            </details>
+
+<details class="folding-tag" open><summary> C语言复习 </summary>
+              <div class='content'>
+              <p><img src="https://wzho-1313533248.cos.ap-beijing.myqcloud.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220830081509.png"></p><p><strong>重点掌握指针！</strong></p>
+              </div>
+            </details>
+
+
+
+<hr>
+<div class="tabs" id="数据结构与算法"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#数据结构与算法-1">数据结构部分</button></li><li class="tab"><button type="button" data-href="#数据结构与算法-2">算法部分</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="数据结构与算法-1"><h2 id="数据结构分类："><a href="#数据结构分类：" class="headerlink" title="数据结构分类："></a>数据结构分类：</h2><p><a href="https://www.zhihu.com/search?q=%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:%221361122057%22%7D">数据结构</a>是指相互之间存在着一种或多种关系的数据元素的集合和该集合中数据元素之间的关系组成 。常用的数据结构有：数组，栈，链表，队列，树，图，堆，散列表等</p>
+<h5 id="数组："><a href="#数组：" class="headerlink" title="数组："></a>数组：</h5><details class="folding-tag" green><summary> 数组~~~ </summary>
+              <div class='content'>
+              <p>数组是可以再内存中连续存储多个元素的结构，在内存中的分配也是连续的，数组中的元素通过数组下标进行访问，数组下标从0开始。</p><p><strong>优点：</strong> 1、按照索引查询元素速度快 2、按照索引遍历数组方便</p><p><strong>缺点：</strong> 1、数组的大小固定后就无法扩容了 2、数组只能存储一种类型的数据 3、添加，删除的操作慢，因为要移动其他的元素。</p><p><strong>适用场景：</strong> 频繁查询，对存储空间要求不大，很少增加和删除的情况。</p>
+              </div>
+            </details>
+
+<h5 id="栈："><a href="#栈：" class="headerlink" title="栈："></a>栈：</h5><details class="folding-tag" green><summary> 栈~~~ </summary>
+              <div class='content'>
+              <p>栈是一种特殊的线性表，仅能在线性表的一端操作，栈顶允许操作，栈底不允许操作。 栈的特点是：先进后出，或者说是后进先出，从栈顶放入元素的操作叫入栈，取出元素叫出栈。</p><p><img src="https://wzho-1313533248.cos.ap-beijing.myqcloud.com/img/v2-b3d80d257425c4ef4c76e9c8af712108_720w.jpg"></p><p>栈的结构就像一个集装箱，越先放进去的东西越晚才能拿出来，所以，栈常应用于实现递归功能方面的场景，例如<a href="https://www.zhihu.com/search?q=%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:%221361122057%22%7D">斐波那契数列</a>。</p>
+              </div>
+            </details>
+
+<h5 id="队列："><a href="#队列：" class="headerlink" title="队列："></a>队列：</h5><details class="folding-tag" green><summary> 队列~~~ </summary>
+              <div class='content'>
+              <p>队列与栈一样，也是一种线性表，不同的是，队列可以在一端添加元素，在另一端取出元素，也就是：先进先出。从一端放入元素的操作称为入队，取出元素为出队，示例图如下：</p><p><img src="https://wzho-1313533248.cos.ap-beijing.myqcloud.com/img/v2-4265d6b1bd20fd23b36cf61fb01ad838_720w.jpg"></p><p>使用场景：因为队列先进先出的特点，在多线程阻塞队列管理中非常适用。</p>
+              </div>
+            </details>
+
+<h5 id="链表："><a href="#链表：" class="headerlink" title="链表："></a>链表：</h5><p>指针+结构体</p>
+<details class="folding-tag" green><summary> 链表~~~ </summary>
+              <div class='content'>
+              <p>链表是物理存储单元上非连续的、非顺序的存储结构，数据元素的逻辑顺序是通过链表的指针地址实现，每个元素包含两个结点，一个是存储元素的<a href="https://www.zhihu.com/search?q=%E6%95%B0%E6%8D%AE%E5%9F%9F&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:%221361122057%22%7D">数据域</a> (内存空间)，另一个是指向下一个结点地址的指针域。根据指针的指向，链表能形成不同的结构，例如单链表，<a href="https://www.zhihu.com/search?q=%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:%221361122057%22%7D">双向链表</a>，循环链表等。</p><p><img src="https://wzho-1313533248.cos.ap-beijing.myqcloud.com/img/v2-c7688c6816f978678c422b5c273d5670_720w.jpg"></p><p><strong>优点</strong>： 链表是很常用的一种数据结构，不需要初始化容量，可以任意加减元素； 添加或者删除元素时只需要改变前后两个元素结点的指针域指向地址即可，所以添加，删除很快；</p><p><strong>缺点</strong>： 因为含有大量的指针域，占用空间较大； 查找元素需要遍历链表来查找，非常耗时。</p><p>适用场景： 数据量较小，需要频繁增加，删除操作的场景</p>
+              </div>
+            </details>
+
+<h5 id="树："><a href="#树：" class="headerlink" title="树："></a>树：</h5><details class="folding-tag" green><summary> 树~~~ </summary>
+              <div class='content'>
+              <p>树是一种数据结构，它是由n（n&gt;=1）个有限节点组成一个具有层次关系的集合。把它叫做 “树” 是因为它看起来像一棵倒挂的树，也就是说它是根朝上，而叶朝下的。它具有以下的特点：</p><p><img src="https://wzho-1313533248.cos.ap-beijing.myqcloud.com/img/v2-46bc1033a4ae3a7c30c22e9596489167_720w.jpg"></p><p>·每个节点有零个或多个子节点；</p><p>·没有<a href="https://www.zhihu.com/search?q=%E7%88%B6%E8%8A%82%E7%82%B9&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:%221361122057%22%7D">父节点</a>的节点称为根节点；</p><p>·每一个非根节点有且只有一个父节点；</p><p>·除了根节点外，每个子节点可以分为多个不相交的子树；</p><p>·在日常的应用中，我们讨论和用的更多的是树的其中一种结构，就是二叉树。</p>
+              </div>
+            </details>
+
+<h5 id="散列表："><a href="#散列表：" class="headerlink" title="散列表："></a>散列表：</h5><details class="folding-tag" green><summary> 哈希表~~~ </summary>
+              <div class='content'>
+              <p>散列表，也叫哈希表，是根据关键码和值 (key和value) 直接进行访问的数据结构，通过key和value来映射到集合中的一个位置，这样就可以很快找到集合中的对应元素。</p><p>记录的存储位置=f(key)</p><p>这里的对应关系 f 成为<a href="https://www.zhihu.com/search?q=%E6%95%A3%E5%88%97%E5%87%BD%E6%95%B0&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:%221361122057%22%7D">散列函数</a>，又称为哈希 (hash函数)，而散列表就是把Key通过一个固定的算法函数既所谓的<a href="https://www.zhihu.com/search?q=%E5%93%88%E5%B8%8C%E5%87%BD%E6%95%B0&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:%221361122057%22%7D">哈希函数</a>转换成一个整型数字，然后就将该数字对数组长度进行取余，取余结果就当作数组的下标，将value存储在以该数字为下标的数组空间里，这种存储空间可以充分利用数组的查找优势来查找元素，所以查找的速度很快。</p><p>哈希表在应用中也是比较常见的，就如Java中有些集合类就是借鉴了哈希原理构造的，例如HashMap，HashTable等，利用hash表的优势，对于集合的查找元素时非常方便的，然而，因为哈希表是基于数组衍生的数据结构，在添加删除元素方面是比较慢的，所以很多时候需要用到一种数组链表来做，也就是拉链法。拉链法是数组结合链表的一种结构，较早前的hashMap底层的存储就是采用这种结构，直到jdk1.8之后才换成了数组加红黑树的结构，其示例图如下：</p><p><img src="https://wzho-1313533248.cos.ap-beijing.myqcloud.com/img/v2-5a37e66e3c1cc9c854db1337404438d6_720w.jpg"></p><p>从图中可以看出，左边很明显是个数组，数组的每个成员包括一个指针，指向一个链表的头，当然这个链表可能为空，也可能元素很多。我们根据元素的一些特征把元素分配到不同的链表中去，也是根据这些特征，找到正确的链表，再从链表中找出这个元素。</p><p>哈希表的应用场景很多，当然也有很多问题要考虑，比如哈希冲突的问题，如果处理的不好会浪费大量的时间，导致应用崩溃。</p>
+              </div>
+            </details>
+
+<h5 id="图："><a href="#图：" class="headerlink" title="图："></a>图：</h5><details class="folding-tag" green><summary> 图~~~ </summary>
+              <div class='content'>
+              <p>图是由结点的有穷集合V和边的集合E组成。其中，为了与树形结构加以区别，在图结构中常常将结点称为顶点，边是顶点的有序偶对，若两个顶点之间存在一条边，就表示这两个顶点具有相邻关系。</p><p>按照顶点指向的方向可分为<a href="https://www.zhihu.com/search?q=%E6%97%A0%E5%90%91%E5%9B%BE&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:%221361122057%22%7D">无向图</a>和有向图：</p><p><img src="https://wzho-1313533248.cos.ap-beijing.myqcloud.com/img/v2-6304c1a5d2cd6fd6e47cf5dfc1883970_720w.jpg"></p><p><img src="https://wzho-1313533248.cos.ap-beijing.myqcloud.com/img/v2-7ed99d4f15cda5abd861c8f5482f1693_720w.jpg"></p><p>图是一种比较复杂的数据结构，在存储数据上有着比较复杂和高效的算法，分别有邻接矩阵 、邻接表、<a href="https://www.zhihu.com/search?q=%E5%8D%81%E5%AD%97%E9%93%BE%E8%A1%A8&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:%221361122057%22%7D">十字链表</a>、邻接多重表、边集数组等存储结构，这里不做展开。</p>
+              </div>
+            </details><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="数据结构与算法-2"><h2 id="算法"><a href="#算法" class="headerlink" title="算法"></a>算法</h2><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
+
+
+
+]]></content>
+      <tags>
+        <tag>编程</tag>
+        <tag>学习笔记</tag>
+        <tag>数据结构与算法</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>问答网站“Quora”拾趣</title>
+    <url>/2023/03/01/%E4%B8%80%E4%BA%9B%E8%A7%82%E7%82%B9/</url>
+    <content><![CDATA[<h1 id="Quora"><a href="#Quora" class="headerlink" title="Quora"></a>Quora</h1><div class="tabs" id="quora"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#quora-1">Not quora but sleep</button></li><li class="tab"><button type="button" data-href="#quora-2">鸡汤</button></li><li class="tab"><button type="button" data-href="#quora-3">Trivias</button></li><li class="tab"><button type="button" data-href="#quora-4">展现睿智吧</button></li><li class="tab"><button type="button" data-href="#quora-5">[如何实现财务自由]</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="quora-1"><p>睡眠不是一种无意识的孤立行为，而是大脑和身体系统由进化而来的24小时循环的一部分。在写了数十篇关于睡眠科学和有助于良好睡眠的健康习惯的文章，并采访了许多专家之后，我意识到，使这一循环变得良性取决于你从醒来到头再次落到枕头上时所进行的几种行为和心态。我把这一切都分解成10条基于科学的步骤，其中任何一条都可以帮助你更快地入睡，睡得更长，更香。</p>
+<ol>
+<li><p><strong>从醒来开始</strong><br>光是最有效的睡眠辅助工具之一。为了让你的内部时钟保持正确的时间，它需要知道一天什么时候开始。自然日光，即使在阴天，也比大多数家庭或办公室照明亮2-4倍，对抑制睡眠激素褪黑激素至关重要。每天尽可能多地接受自然光照，特别是早晨。每天至少要有2小时的户外光线，而不是通过窗户，这将使你的大脑和身体更加清醒，更有能力应对一天带来的任何事情，并且它将正确设置你的昼夜节律，即所谓的昼夜节律，以便你的所有内部系统都知道何时是睡觉的时候。</p>
+</li>
+<li><p><strong>活跃起来</strong><br>如果你睡眠不佳，而且不锻炼，你可能只有一步之遥就可以睡得更好了。很少有行为与良好的睡眠更有力地相关联，而我们的古代祖先自然就有大量的运动。这并不难：每天快步走就可以，或者任何让你的心跳每天持续20分钟或更长时间的运动。早上可能会更好，但这并不完全清楚。有些研究表明，晚上太热闹不利于睡眠，尽管其他研究并不同意。如果你喜欢，你可以在白天早些时候锻炼来对冲你的赌注。但最终，不管什么时候锻炼，都比不锻炼要好得多。</p>
+</li>
+<li><p><strong>降低你白天的压力水平</strong><br>如果压力或焦虑一直伴随着你，除非你找到解决问题的方法，否则可能会睡不好觉。压力会释放出皮质醇等激素，让你的身体准备好迎接危险。当我们面对掠夺者老虎或入侵的村民时，这是个很棒的系统。但现代生活会引发持续的压力和焦虑，不断地向我们注入化学物质，随着时间的推移会造成各种身心上的伤害，影响睡眠。要想持续减少压力，你需要一套综合策略，比如识别特定压力源，采取四个A：避免、改变、适应或接受。它还建议正念，这是一个很好的方法，能够控制你的担忧，并让你的心情平静，就像我曾经怀疑的自我所学习的一样。</p>
+</li>
+<li><p><strong>平静下来</strong><br>尽管我们可能会忽略它们，但这些常见的“睡眠卫生”建议可以帮助我们进入有利于良好睡眠的身心状态：</p>
+</li>
+</ol>
+<p>· 从下午三点左右开始避免咖啡因，因为它会在体内停留几个小时。<br>· 注意饮食。除了良好的饮食总体有助于睡眠之外，晚上最好避免辛辣食物、高脂肪或高蛋白食物。<br>· 放松工作和其他压力源。理想情况下，选择一个时间，以后不再查收工作邮件，或者不再从事其他紧张的活动，比如浏览社交媒体、看恐怖电影或每晚新闻的恐怖。<br>· 设定睡眠时间，尽量坚持。研究表明，对于能够坚持的人来说，晚上10点或11点左右是最理想的。<br>· 限制或避免饮酒。它可能会让你迅速入睡，但对睡眠却不好。<br>· 在黑暗的地方睡觉。即使你的卧室里有一定的光线，它也会通过你闭着的眼皮进入你的身体，使你的睡眠状态处于不必要的高度警觉，影响睡眠。</p>
+<p>如果你努力摆脱无益的行为，看看如何改变习惯的科学。</p>
+<ol start="5">
+<li><p><strong>拥抱夜晚</strong><br>我们的大脑进化了数百万年，以有规律的周期来处理白天和黑夜。然后爱迪生出现了。随着日光的消退，褪黑激素的产生应该会开始，让我们的身体准备好睡觉。如果我们放任不管，其他身体系统也会衰退。关掉不必要的灯，调暗其他灯，有助于大脑进入良好的情绪。随着就寝时间的临近，也尽量减少屏幕时间。我知道这很难，但不得不说:虽然手机、电视或电脑发出的光不是你最糟糕的睡眠敌人，但打开“夜间模式”或关闭设备会有所帮助。</p>
+</li>
+<li><p><strong>考虑补充褪黑激素</strong><br>如果你很容易入睡，不要乱用褪黑激素——你不需要它，它实际上可能会扰乱你已经稳固的睡眠周期。但是，如果你是一个夜猫子，或者你的生物钟已经失控，也许是由于跨时区旅行或日常生活压力，褪黑激素补充剂可能会有所帮助，促使大脑和身体进入打盹模式。不过，在你尝试之前，请阅读我关于褪黑激素的详细文章，其中包括如何使用和一些重要的注意事项。褪黑激素不是对所有人都有效，应该以非常低的剂量进行实验。重要提示:褪黑激素是一种激素，而不是镇静剂。安眠药是镇静剂，它们并不像市场上宣传的那样有效，实际上会让你第二天昏昏沉沉，并带有危险的副作用。除非有医生的处方，否则不要服用安眠药。</p>
+</li>
+<li><p><strong>来一发</strong><br>一点互惠互利的新交可以帮助你入睡。即使是DIY方式，虽然可能不是那么有效，但也还行。这方面的研究有点少，但是睡前良好的新生活可以减轻压力——总是有帮助的。它抑制皮质醇的释放，增加催产素的分泌，催产素是一种让人感觉良好的“爱情荷尔蒙”。性也可能会唤醒我们的右脑和身体系统，让我们准备好进入无意识的幸福状态。如果你需要一些令人信服的东西，读一读睡眠专家和认知神经科学家对此的看法。</p>
+</li>
+<li><p><strong>选一边，任何一边</strong><br>你是趴着睡、仰着睡还是侧着睡是个人喜好的问题——如果你总体健康状况良好的话。如果你身体的某些部位疼痛，或者经常打鼾，或者怀孕了，那么睡在一边或另一边可能会有帮助。有趣的是，人们在睡姿方面做出的一个更重要的选择是睡在床的哪一边。建议你选择一方，不要让任何人搅乱。</p>
+</li>
+<li><p><strong>想尿就尿</strong><br>如果每天晚上尿尿的需求会让你醒一两次，那就去解决它。很正常。但是，如果每晚有规律地出现两次以上，你就患上了医生所说的夜尿症，这可能是一些潜在健康状况需要医疗关注的信号。不过，如果偶尔夜间尿尿很烦人，试着在睡前几个小时限制所有液体的摄入。</p>
+</li>
+<li><p><strong>不要为醒来而紧张</strong><br>无论你为一夜好眠做了多么充分的准备，你几乎肯定会醒来——比你有意识意识到的要多。睡眠研究发现，在一轮深度恢复性睡眠和浅睡眠后，大多数人会醒来并改变姿势五到七次。有时你可能会完全清醒，然后发现需要一些时间才能再次入睡。这不是不正常的，重要的是不要担心它，以免你陷入睡眠焦虑的陷阱，当你的担忧淹没了你如此努力工作的所有步骤。想一些快乐的事情，或者学习你新发现的正念技巧，或者读一本不太令人兴奋的小说。</p>
+</li>
+</ol>
+<p><strong>良性循环</strong><br>如果这些都不起作用，你可能有一些严重的可诊断的失眠，可能与潜在的可治疗的医疗条件有关，如睡眠呼吸暂停或抑郁症。该去看医生了。你以后会感谢我的，因为良好的睡眠是身体健康和心理健康良性循环的一部分——这是幸福的要素。深度和充足的睡眠可以降低白天的压力，让我们更加警觉和富有成效，并恢复体力活动的能量和倾向，从而使我们的身体渴望健康的食物并倾向于其他健康的行为。那都是硬科学。现在，随着大脑和身体的适当准备，我们在晚上更加放松，在去la-la land的路上，也许油箱里的油只够来一发。</p>
+<p>准备好了吗，该睡了。</p>
+<p><em>本文译自 <a href="https://robertroybritt.medium.com/the-10-step-guide-to-better-sleep-f150796fe4ce">Medium</a>，由 <a href="http://jandan.net/p/112175">八里</a> 编辑发布。</em></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="quora-2"><h3 id="Dhruvi-Agrawal"><a href="#Dhruvi-Agrawal" class="headerlink" title="Dhruvi Agrawal"></a><strong>Dhruvi Agrawal</strong></h3><p>＞肤浅的美被看重，伪善的人更受欢迎，偏见泛滥于各处。<br>＞除了父母，没有人会为你着想。很少有朋友会为你的成功而高兴，大多数朋友会离开你。<br>＞大多数现有的关系没有未来，它们注定会在某一天破裂。<br>＞每个人都有难以掩饰但又难以表达的感情。<br>＞“朋友”和“爱”之间的关系没有名字。<br>＞如果你穿时髦，人们就会称你“小气”，如果你穿简单，就会称你“宝贝”，你无法让人们停止说废话。<br>＞我们正日益沉迷于互联网。<br>＞大多数学生今天仍被迫学习工程和医学。<br>＞婚姻并不总是幸福的。<br>＞我们大多数时间都浪费在嫉妒上。<br>＞只有在经济稳定的情况下，才能获得良好的教育。<br>＞头痛真的很糟糕。<br>＞离婚者的生活太艰难了，不是为了工作，而是为了他们每天要听到的嘲笑。<br>＞人们会阅读你的答案直到最后一点，但不会给你点赞 :(</p>
+<h3 id="Dilki-Dissanayake"><a href="#Dilki-Dissanayake" class="headerlink" title="Dilki Dissanayake"></a><strong>Dilki Dissanayake</strong></h3><p>＞人们会因为你个人的选择来评判你，即使这与他们无关。<br>＞别人在他们脑海中塑造的那个版本的你，不是你的责任。<br>＞即使只管自己的事也会让人心烦。<br>＞嫉妒常常藏在玩笑之中，要多加注意。<br>＞避开对你的心理健康不利的人。<br>＞你有责任比你成长的环境更有道德。<br>＞原谅身边的人，怀恨只会伤害你自己，而不是他们。<br>＞在涉及金钱时人们只给自己贴上幸福的标签。但远不止如此。<br>＞无视别人都在做什么。你的生活就是要打破自己的极限，超越自己，过上最好的生活。</p>
+<h3 id="Niklas-Goke"><a href="#Niklas-Goke" class="headerlink" title="Niklas Göke"></a><strong>Niklas Göke</strong></h3><p>我在Tinder上认识了前女友。我们匹配，见面，在一起快两年了。两年前我们分手了，从那以后我没有和任何人在一起过。我学到的是，即使你觉得自己已经准备好了，你也不能快进到最后。</p>
+<p>你不能通过寻找来得到爱情。</p>
+<p>一旦你开始寻找，你就会扭曲自己成为真实的你无法比拟的糟糕模仿者。这就是网恋很少奏效的原因。</p>
+<p>爱情从爱自己开始。这属于“学生准备好了，老师就会出现”的事情。物以类聚。</p>
+<p>如果你不觉得自己很棒，那就要努力。为自己做点什么。去健身房。开个公司。买本书。画画。任何让你更接近你想约会的那个你的事情。你唯一肯定要跟自己共度余生的人就是你自己。</p>
+<p>确保你自己处在一个很好的关系里。</p>
+<h3 id="Jashandeep-Singh"><a href="#Jashandeep-Singh" class="headerlink" title="Jashandeep Singh"></a><strong>Jashandeep Singh</strong></h3><p>＞当你被邀请去做客时，永远不要空手而来。<br>＞在发送电子邮件之前要三思，因为大多数无法撤回。<br>＞如果有人给你看他们的相片库，不要试图在他们的手机上翻找，因为这会侵犯他们的隐私。<br>＞如果你迟到或缺席，一定要通知你的负责人或团队。<br>＞学习如何在餐厅里表现得体，比如提前到达预约时间，对你的服务员有礼貌等等。<br>＞懂得如何在特定场合穿着。<br>＞得体热情的握手能给人良好的第一印象。<br>＞当有人提出好主意时，要表示肯定和欣赏。<br>＞在第一次见面时，不要太开放，尝试给自己一些时间，检查你们的沟通水平。<br>＞不要把机票座位当作客厅的躺椅来使用，后面也有人坐着。<br>＞如果有人走进你的房间，你戴着耳机，一定要拔掉一个耳塞，因为对方可能想和你聊天。<br>＞不要随意问别人的薪水和个人财产。<br>＞绝不八卦，也许下次你会成为话题的主角。</p>
+<h3 id="Yoda"><a href="#Yoda" class="headerlink" title="Yoda"></a><strong>Yoda</strong></h3><p>＞人们在现实世界中往往不太好。他们喜欢仇恨。你总会发现有这样的人。<br>＞心理疾病是真实存在的。<br>＞并不是你称之为朋友的每个人都是你的朋友。<br>＞努力和毅力并不总是关键。更难的方法并不总是正确的方法。<br>＞激励人们如今已经成了一门生意，甚至可以称之为操纵他人。<br>＞爱情使你脆弱和虚弱，它给你的伴侣一种特殊的力量，可以以你想不到的方式伤害你。<br>＞但是爱情也很美好，它是你经历过的最纯洁的事物，它让你保持理智。<br>＞金钱给你带来幸福。<br>＞你的成长经历会影响你一生的每一个决定。<br>＞励志视频都是骗局，你需要自我实现。你点击这些视频是因为你潜意识里知道自己想要改变和提升。<br>＞种族歧视仍然存在。</p>
+<h3 id="Praveen-Kamath"><a href="#Praveen-Kamath" class="headerlink" title="Praveen Kamath"></a><strong>Praveen Kamath</strong></h3><p>＞外表很重要。<br>＞金钱买不来幸福，但可以买到快乐。<br>＞人们不在乎你的辛勤努力，只在乎最后的结果。<br>＞穷人朋友较少，但真正的朋友多。富人朋友多，但大多是假的。<br>＞不要相信那些在你挣扎时忽视你，但在你成功后第一时间给你发信息的人。<br>＞只有极少数你所谓的朋友希望你成功，其余的人就在那里看着你倒下。<br>＞成绩和成功毫无关系。<br>＞那些在私下里指出你的缺点的人，才是真正希望你改进和成功的人。<br>＞卸载社交媒体应用不会帮你走上成功之路，只有控制自己和坚定决心才能。<br>＞喝酒或抽烟无助于减轻你的压力或忘记一些事情，只会让事情变得更糟。</p>
+<p><em>本文译自 <a href="https://www.quora.com/Whats-the-hardest-truth-of-life">Quora</a>，由 <a href="http://jandan.net/p/112248">八里</a> 编辑发布。</em></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="quora-3"><h1 id="Quora-意外的发现"><a href="#Quora-意外的发现" class="headerlink" title="Quora-意外的发现"></a><a href="http://jandan.net/p/112511">Quora-意外的发现</a></h1><h2 id="Sean-Kernan"><a href="#Sean-Kernan" class="headerlink" title="Sean Kernan"></a><strong>Sean Kernan</strong></h2><p>19世纪的维也纳医院发生了一件奇怪的事情。</p>
+<p>那里有两个产科病房。一个是医生的，另一个是助产士的。</p>
+<p>助产士病房的死亡率是36.2/1000，而医生病房的死亡率是98.4/1000。</p>
+<p>原来医生在接生前没有清洁自己，而且还解剖过尸体。而且——外科医生只在对活人手术后才洗手，而不是之前。</p>
+<p>Semmelweis博士发现了这个差异，并要求医生彻底洗手并清理工具。这使得女性的存活率大幅提高。</p>
+<p><strong>这就是现代细菌学的起源。</strong></p>
+<hr>
+<h2 id="Henrey-Bradley"><a href="#Henrey-Bradley" class="headerlink" title="Henrey Bradley"></a><strong>Henrey Bradley</strong></h2><p>有一件最重要的考古发现，它揭开了一个古老文明的秘密，开创了一个全新的考古学领域，而这件发现是偶然的。</p>
+<p>这个意外发现背后有一系列奇特的事件，它们与一个身材矮小、来自科西嘉岛、名声很大的天才有关，他就是拿破仑。他在1798-1801年间策划并指挥了一场征服埃及和黎凡特地区的战役。</p>
+<p>起初，拿破仑所向披靡，法国军队在1798年7月21日的金字塔战役中歼灭了马木留克军队。</p>
+<p>在取得惊人的胜利后，拿破仑实际上巩固了法国对奥斯曼埃及的征服，他辉煌的战役似乎势不可挡。</p>
+<p>然而，另一个身材矮小的天才出现了，这次是来自英国的。他在尼罗河战役中击沉了拿破仑的整个海军，并打乱了拿破仑所有美好的计划。</p>
+<p>由于英国人用无敌舰队四处游弋，激怒了拿破仑，并阻止他撤走庞大的法国军队，并威胁要对埃及发动反攻，拿破仑被迫开始加强被忽视的埃及沿海防御。</p>
+<p>这就引出了我们要说的考古发现：在尼罗河口防御要塞之一朱利安堡已经成为废墟。这座堡垒最初是在1470年左右由一个马木留克苏丹建造的，并急需修复和更新。</p>
+<p>一支由法国士兵和工程师组成的分遣队开始重建和扩建堡垒。旧墙被拆除并用来加固和建造火炮台。</p>
+<p>在挖掘要塞的地基时，他们发现了一堵古老的石墙。1799年7月15日，法国士兵发现了一块巨大的黑色玄武岩石板，嵌在古墙里。</p>
+<p>这块不规则的黑色石板显然是很久以前被强大的力量打碎的，但它不寻常的颜色和形状并不是最引人注目的地方，因为石板的表面刻满了用三种不同语言写成的文字。</p>
+<p>负责这件事的军官应该得到很多赞扬，他叫皮埃尔-弗朗索瓦·布沙尔，他意识到这块石板很特别。即使在一个充满他不懂的古老东西的土地上，他也知道这块奇怪的残砖很重要。</p>
+<p>他发现了罗塞塔石碑。</p>
+<p>刻在这块古老石板上的三种文字是希腊文、埃及象形文字和埃及俗文。希腊文告诉考古学家，这块石碑是公元前196年由祭司为纪念埃及国王托勒密五世而刻制的。</p>
+<p>更重要的是，希腊文还宣称这三种文字都有相同的含义。<br><em>(后半截是付费版内容看不到了)</em></p>
+<hr>
+<h2 id="Jeff-Mwangi"><a href="#Jeff-Mwangi" class="headerlink" title="Jeff Mwangi"></a><strong>Jeff Mwangi</strong></h2><p>这个不仅是无意的，还很讽刺。</p>
+<p>这就是火药。它是最古老的已知化学爆炸物。它是在中国发明的，到了公元1000年，就已经被用于军事用途。火药杀死的人比所有原子弹加起来还要多。它一直被用于军事和工业领域，直到19世纪末，被像炸药这样更有效的化合物所取代。今天，火药武器主要用于狩猎、重演或射击场。</p>
+<p>然而，讽刺的是，根据早期道教文献，中国的炼金术士在试图发明长生不老药时发现了火药。</p>
+<p>是的，火药，从11世纪到19世纪后半叶的主要战争武器，是在试图找到永生之钥时意外发现的。</p>
+<h2 id="Andrei-Tapalaga"><a href="#Andrei-Tapalaga" class="headerlink" title="Andrei Tapalaga"></a>Andrei Tapalaga</h2><p>在美国著名的麻省理工学院建设新的纳米技术实验室的过程中，工人们意外地发现了一个装满奇怪物品的玻璃胶囊。</p>
+<p>这个时间胶囊是1957年由麻省理工学院的学生埋下的。胶囊里有科学论文和一些杂物。</p>
+<p>时间胶囊埋了58年，但本来应该埋更久。最初，时间胶囊要一直保存到2957年。它是用玻璃制成的，希望不会像金属或木头那样受到锈蚀或腐烂的影响。</p>
+<p>胶囊里有一些反映1958年时代特色的物品，以及记录了公元1958年之前发生过的最重要历史事件的文件。</p>
+<hr>
+<h2 id="Fauzan-Fahad"><a href="#Fauzan-Fahad" class="headerlink" title="Fauzan Fahad"></a><strong>Fauzan Fahad</strong></h2><ol>
+<li><h3 id="X射线"><a href="#X射线" class="headerlink" title="X射线"></a><strong>X射线</strong></h3></li>
+</ol>
+<p>德国物理学家Wilhelem Roengten在研究阴极射线管时，无意中发现了X射线。他注意到当管子开启时，附近的一些晶体发出了奇怪的荧光。</p>
+<p>他用一些屏蔽物遮挡管子，看看是否会影响这种现象。他正确地推断出管子一定是发出了某种新的射线，并试图看看能否阻挡它。</p>
+<p>他先试了一些厚黑纸，但这完全无效。Wilhelem接着用了一系列其他更厚更密的材料，发现令他惊讶的是，这些也没有效果。</p>
+<p>他很快注意到这些射线似乎能穿透大多数物体，但更坚固的东西，如骨头和金属，会留下明显的阴影。在1895年的一个著名实验中，他用了他妻子的手，制作出了人类骨骼的第一张X射线图像。</p>
+<p>他的发现让科学界震惊，并永远改变了医学诊断。而这一切都是纯粹偶然——当然还有Wilhelem的一点聪明才智。</p>
+<ol start="2">
+<li><h3 id="魔术贴"><a href="#魔术贴" class="headerlink" title="魔术贴"></a><strong>魔术贴</strong></h3></li>
+</ol>
+<p>1941年，瑞士工程师George De Mestrelhad在散步时发现了一个有趣的现象。他想知道为什么牛蒡种子能如此轻易地粘在他的外套和他的狗的毛上。</p>
+<p>他仔细观察了这些种子，发现它们有着微小的倒钩。这些小结构是它们惊人粘性的秘密。</p>
+<p>虽然他并没有刻意要设计一种新型的扣合系统，但他决定尝试自己复制这种效果。这就导致了我们现在所知道的魔术贴的发明。</p>
+<p>经过一些尝试和错误，他最终选择了使用尼龙和涤纶，并于1955年为他的设计申请了专利。</p>
+<p>魔术贴这个名字本身就是由法语单词velour(“天鹅绒”)和crochet(“钩”)组合而成。它既是产品的名字，也是他创立的仍然生产它的公司的名字。</p>
+<ol start="3">
+<li><h3 id="微波炉"><a href="#微波炉" class="headerlink" title="微波炉"></a><strong>微波炉</strong></h3></li>
+</ol>
+<p>微波炉其实是纯属巧合发现的。Raytheon公司的工程师Percy Spencer在进行一些与雷达相关的技术工作时，发现了一个有趣的现象。</p>
+<p>1946年，他在研究一种新型的真空管时，发现他口袋里的巧克力棒比预期中融化得更快。</p>
+<p>这显然引起了他的好奇，他很快意识到这一定与他正在使用的真空管有关。他用这个真空管对准其他物体，如鸡蛋和爆米花粒，并注意到它们似乎变得很热。</p>
+<p>Percy迅速意识到这一定与真空管发出的微波能量有关。不久之后，Raytheon公司于1945年为第一台“微波炉”申请了专利。</p>
+<p>这促成了第一台功能性的微波炉的开发，它重达340公斤。被称为“RadaRange”的它高达近1.8米。</p>
+<p>第一台台式微波炉则于1965年推出。</p>
+<ol start="4">
+<li><h3 id="青霉素"><a href="#青霉素" class="headerlink" title="青霉素"></a><strong>青霉素</strong></h3></li>
+</ol>
+<p>青霉素可能是最著名的意外科学发现。1928年，Alexander Fleming爵士注意到他的一个培养皿上有一种奇怪的生长物。</p>
+<p>这位细菌学教授当时正在培养金黄色葡萄球菌。这种奇怪的生长物似乎阻止了细菌在它附近的区域内发展。</p>
+<p>他后来制作了这种奇怪物质的纯培养物，发现它实际上是一种青霉菌。</p>
+<p>Fleming后来创造了“青霉素”这个术语，来描述青霉菌培养液过滤液。经过进一步的研究，很快意识到这种物质可以有一些重要的消毒应用。</p>
+<p>1930年，Cecil George Paine进行了第一次使用青霉素作为治疗方法的正式实验。青霉素很快开启了抗生素时代，并拯救了无数人的生命。</p>
+<ol start="5">
+<li><h3 id="超级胶水"><a href="#超级胶水" class="headerlink" title="超级胶水"></a><strong>超级胶水</strong></h3></li>
+</ol>
+<p>超级胶水，或者说氰基丙烯酸酯，是在第二次世界大战期间偶然发现的。它的发现者Harry Coover Junior其实是想找到一种制造透明塑料瞄准器的方法。</p>
+<p>他在试验一类叫做丙烯酸酯的化学物质时，发现他的配方对于预期的用途来说太粘了。他随后放弃了他的研究，转向其他方向。</p>
+<p>几年后，Coover试图找到另一种解决方案，以制造耐热涂层用于喷气式驾驶舱。他和他的团队决定再次审视丙烯酸酯。</p>
+<p>在研究过程中，他的一个团队同事，Fred Joyner把这种化合物涂在两个透镜之间，以便稍后用折射仪检查。</p>
+<p>令他们沮丧的是，他们发现这两个透镜紧紧地粘在一起了。但这一次，Coover立刻意识到了它的商业潜力。</p>
+<p>它以Eastman #910的名字作为胶水出售。其余的就是历史了。</p>
+<ol start="6">
+<li><h3 id="橡皮泥-Play-Doh"><a href="#橡皮泥-Play-Doh" class="headerlink" title="橡皮泥(Play-Doh)"></a><strong>橡皮泥</strong>(Play-Doh)</h3></li>
+</ol>
+<p>橡皮泥最初并不是用来做儿童玩具的。事实上，它在20世纪30年代是一种墙纸清洁剂。</p>
+<p>这种粘土是由Noah McVicker和他的哥哥为一家肥皂公司开发的。那时候，煤炭火会让墙壁和其他东西都沾满煤灰。</p>
+<p>这种粘土可以很好地去除煤灰，只要在表面滚一滚就行了。后来，乙烯基墙纸的出现使得清理煤灰变得很容易，只要用湿海绵擦一擦就行了。</p>
+<p>这样一来，清洁粘土就失去了用处。但是有一位幼儿园老师听说孩子们喜欢用这种材料做模型。</p>
+<p>她在班上试验了一下，发现她的学生都很喜欢它。她告诉了她的姐夫Joe McVicker，他恰巧和他叔叔、发明者Noah一起工作。</p>
+<p>肥皂公司很快意识到了潜力，停止了清洁产品的生产，并开始把它作为儿童玩具推广。</p>
+<p><em>本文译自 <a href="https://www.quora.com/Whats-the-darkest-accidental-discovery-someone-made">Quora</a>，由 <a href="http://jandan.net/p/112511">八里</a> 编辑发布。</em></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="quora-4"><h1 id="Quora-如何变得更聪明"><a href="#Quora-如何变得更聪明" class="headerlink" title="Quora-如何变得更聪明"></a><a href="http://jandan.net/p/112399">Quora-如何变得更聪明</a></h1><p><strong>Matthew Cooper</strong><br>＞用另一只手刷牙：这挑战你的思维去建立不同的联系，促使你的大脑更加努力地完成同样的任务。</p>
+<p>＞每天用另一种语言学习至少5个新单词：在各种语言之间切换需要高度的专注、专注和自我控制。</p>
+<p>＞把名词变成动词：大量使用动词，这是让你听起来聪明且令人难忘的好方法。</p>
+<p>＞把每天看手机屏幕的时间减少到30分钟：过度使用智能手机对认知能力有害。你也可以从手机中删除不必要的应用。</p>
+<p>＞尝试含咖啡因的饮料：一杯茶或咖啡可能是你让大脑高速运转所需的动力。</p>
+<p>＞演奏音乐的曲调：接受音乐训练超过20天的孩子中，90%表现出语言智力的提高。一些科学家认为，仅仅听音乐就能让大脑受益。</p>
+<p>＞每天阅读电子报纸的标题：你不需要从头到尾看报。阅读标题会增加你的世界知识。</p>
+<p>＞玩数独和拼字游戏之类的游戏：你的大脑可以产生相当多的化学反应，像填字游戏这样的积极刺激可以增强大脑功能。</p>
+<p>＞大声说出来：大声听这个简单动作会让你更容易记住它们，重复单词的过程也是如此。</p>
+<p><strong>Othman AL-Khawaja</strong><br>＞一天一本书，远离愚蠢。<br>＞一直工作到干不动为止。<br>＞阅读失败故事；它比成功的故事更有帮助。<br>＞在你空闲的时候，看看TED。<br>＞提高你的倾听能力。<br>＞拥有聪明的朋友，而不只是有趣的朋友。<br>＞学会如何把钱放在钱包里。<br>＞不要学习新的语言；改进你原来的语言。<br>＞把“驴子”这个词当成赞美。<br>＞和爷爷奶奶说说话；尽可能多地交谈。</p>
+<p><strong>Elena Ledoux</strong><br>＞如果你遇到一个不熟悉的单词，停下来。在字典里查一下它的意思。<br>＞睡个好觉。当你的大脑像一团浆糊时你很难学到任何东西。另外运动真的有助于你的睡眠。<br>＞多吃蔬菜，少吃肉。蔬菜会让你保持警惕。还有要补充水分。<br>＞做一些事情。不要只是坐在那里。<br>＞不要给自己贴标签。如果你说“我不擅长数学”，你就切断了你擅长数学的任何可能性。<br>＞仔细管理你的大脑。排除垃圾信息。<br>＞记笔记。把事情写下来真的能提高记忆力，因为不懂的东西很难写下来。<br>＞享受乐趣。学习不应该是痛苦的。学好东西的最好方法是享受它。</p>
+<p><strong>Prudhvi Reddy</strong><br>＞早起。早起可以让你比90%的人更早开始做事，可以获得新鲜的氧气，可以沉浸在自己的世界没有人打扰。想早起就要早点睡，这样就有更多时间做更多的事。</p>
+<p>＞睡前计划好明天。计划好一天，不浪费时间在无意识的琐事上，把它们记下来，每件事都具体可触摸，不用担心，因为已经把它们加载到行动计划中了。</p>
+<p>＞至少喝5次水。喝水可以排出毒素，可以使用app提醒或计划每餐后半小时喝水，不要立即喝水，因为会消化酸。</p>
+<p>＞记录你每天做的事情。记录一天所做的事，可以发现在哪里浪费时间，每天计划和记录只需10分钟，但从长远来看可以节省几个小时。</p>
+<p>＞每周计划至少锻炼5小时。为什么要每周计划锻炼？每天计划可能会失败，气馁。每周计划，可以调整，至少锻炼5小时。</p>
+<p>＞晚上定时刷牙。晚上刷牙让你的口腔整晚都很清新，从心理上来说，我们晚上刷牙后不吃任何东西，所以它甚至有助于减肥。</p>
+<p>＞避免不必要的东西。避开电视，卸载社交APP，留下新闻，然后删除所有未读的邮件，你就不需要什么都看了。专注于优先事项。</p>
+<p>＞健康的投入。每次吃东西时，问两个问题：它是否有益于身体，还是只是暂时的快乐？选择健康的食物很重要，因为这是我们的身体，应该注意吃什么。</p>
+<p>＞自我暗示或好的想法。消极想法会影响身体，可以用积极想法填充大脑，可以自我暗示，重复好的话，每天阅读积极引语，用所有可能的积极想法填充大脑，过滤出积极情绪。</p>
+<p>＞睡觉前看书。读书可以转向建设性或创造性的思想，慢慢进入睡眠，有可能在梦里得到回应，比每天紧张上床更健康，会改变心情。</p>
+<p><strong>Sean Lana</strong><br>＞和比你聪明的人交朋友。<br>＞你要总是跳出框框。<br>＞提出问题。<br>＞用真实的人代替你的社交媒体关注者。<br>＞阅读和继续阅读。<br>＞学习历史。<br>＞不要看电视，读一些有见地的文章。<br>＞很早起床，花一整天的时间学习新的东西。<br>＞成为一个善于观察的人。</p>
+<p><em>本文译自 <a href="https://www.quora.com/What-10-things-should-I-do-every-day-to-become-smarter">Quora</a>，由 <a href="http://jandan.net/p/112399">八里</a> 编辑发布。</em></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="quora-5"><p><strong>Doug Armey</strong></p>
+<ol>
+<li><p>我不再尝试快速致富。浪费了很多时间。还有钱。认为慢慢变富没问题。只要我成功了。我意识到，唯一一个迅速致富的人就是那些卖书和课程的家伙。这可不是我的目标。</p>
+</li>
+<li><p>先谋后动。我第一次投资花了我几千美元。并不完全是我想要的投资回报。所以在我再次投身其中之前，我对自己进行了教育。还是犯了错误。只是保持可控。虽然，远没有那么令人兴奋。</p>
+</li>
+<li><p>控制了我的情绪。当市场要下地狱的时候，你需要做的就是不要跳伞。但飞机外的情况会更糟。尤其是没有降落伞的着陆。把自己的情绪局限起来有助于我做出更好的决定。少了很多笨蛋。</p>
+</li>
+<li><p>在所有人都抓狂的时候变得大胆起来。大家互相敬酒时要小心谨慎。我做过的最好的投资都是在最黑暗的日子里。最聪明的也是最坏的。和别人背道而驰在经济上是有回报的。不过，鸡尾酒会上有点寂寞。</p>
+</li>
+<li><p>冷静。疯狂的投资活动几乎总是会得到低于预期的回报。这是在一个好日子。我学会了寻找好的投资。随着时间的推移慢慢投资。监控他们。在很大程度上，让他们独自走向成熟。出乎他们意料的是。我的血压也降低了。看起来是双赢。</p>
+</li>
+<li><p>使用信用卡是为了方便，而不是融资。计算起来，利率是巨大的。坦白地说，如果我们不能在一个月内还清欠款，那我们就真的不需要我们认为我们已经做了的事情。而且在很多情况下，一个月后就想不起为什么它这么重要了。</p>
+</li>
+<li><p>用不断贬值的资产换取现金。 让我们投资的资产升值。 有时是倒数第二，但从来不是倒数第一。 买任何东西，然后在贬值的基础上支付利息，这可能不是典型的疯狂定义，但它可以被列入清单。 而且几乎可以保证让你无法获得财务自由。</p>
+</li>
+<li><p>我们关掉了电视。 毫不夸张地说，我们不再看电视了。 为什么这能带来财务自由？ 看看上面的清单。 关掉电视对每一项都有帮助。 包括第7项。 因为你不会意识到，没有这些又酷又贵的新东西，你就无法快乐地生活。 无知真的是一种幸福。</p>
+</li>
+<li><p>我学会了享受旅程。本质上，我是个储蓄者。实际上有点便宜。我妻子花钱大手大脚。所以我们互相帮助。我帮她存钱，而且要小心。她还会帮我享受其中的乐趣。我来到一个地方，我意识到她会花一些，因为我们去，所以我不妨加入她。没有遗憾。我们玩得很开心。</p>
+</li>
+<li><p>最重要的是，我很幸运能有一个人一起享受这段旅程。 我的妻子弥补了我的弱点。 而我弥补了她的。 我想我得到了更好的待遇。 但我不会告诉她。 我们是一个很棒的团队。 生活充满了更多的乐趣。 财务自由是很棒的。 但前提是你能与你爱的人分享。</p>
+</li>
+</ol>
+<p><strong>J. Robinson</strong><br>不要再听那些并不富裕的人的话了… 这只会让你破产，陷入激烈的竞争中。</p>
+<p>那些并不富裕的人认为，节俭会让他们自然而然地变得富有，这是不对的。</p>
+<p>问题：如果节俭能让人们变得富有，为什么大多数人靠薪水过活？</p>
+<p>还有那些并不富有的人说：“有钱人不买奢侈品。”</p>
+<p>还有谁在买豪宅、游艇、名表？</p>
+<p>是富人在做那种事。</p>
+<p>开始思考，学会如何投资你的钱，创造收入流。</p>
+<p><strong>Flavian Mwasi</strong></p>
+<ol>
+<li><p>不惜一切代价避免找工作。永远不要用你的时间去换取金钱。你只会让自己在有生之年成为某人的奴隶。最好是一开始就遭受破产的不便，但最终会有回报。</p>
+</li>
+<li><p>不要创业。找客户。暂时忘记你的热情，找出客户想要什么，并提供价值。顾客会给你钱让你享受激情。我对商业的定义不同于99%的人对商业的定义。我把商业定义为“顾客”。顾客就是生意。句号。不要浪费宝贵的时间去追逐不存在的工作。而是找一个客户。顾客就是任何需要服务的人。</p>
+</li>
+<li><p>不要省钱。相反，你应该投资。储蓄是穷人用来给富人免费钱的术语。学习投资术语。投资是富人用来变得更富有的术语。</p>
+</li>
+<li><p>建立一个系统。千万不要在没有系统的情况下操作。一个系统就是一种或多种向客户交付商品和服务的方式。在现代，办公室不是系统的一部分。他们有时被认为是一个不方便的官僚机构，恐吓顾客。</p>
+</li>
+<li><p>通过培养阅读习惯来增强自己的能力。自我提升是关键。阅读。阅读。阅读。阅读商业书籍。看投资书籍。读富人的传记。看创业书籍。阅读生存书籍和指南。看哲学书。看故事书。看历史书。通过研究富人的哲学来了解他们做什么。理解他们的思维方式，你会比99%的人更接近财务自由。</p>
+</li>
+<li><p>不要像99%的人一样同时去度假或休假。他们中的大多数是正在休年假的员工。这个时候，机票价格很高，酒店都订满了，度假场所也人满为患。相反，在假期和假日季节寻找最受欢迎的商品或服务，在别人消费的时候赚钱。当轮到你去度假时，机票价格会很低，酒店会很便宜，你会和家人或配偶一起享受真正的隐私。</p>
+</li>
+<li><p>世界上有两种人，我的朋友——消费者和供应商。确保你总是站在供应商一边。</p>
+</li>
+<li><p>千万不要借钱来融资消费。总是借钱来融资投资。</p>
+</li>
+<li><p>远离谣言。只会浪费宝贵的时间，吸干你的脑子。</p>
+</li>
+<li><p>你不能选择你的父母，但你可以选择你的朋友。通过选择导师和比你有更多知识的朋友来充分利用它。</p>
+</li>
+</ol>
+<p><strong>Arif Khan</strong><br>大多数人梦想获得财务自由，因为在我们的学校和大学生活中没有教过。</p>
+<p>唯一阻碍你的是钱。因此，财务独立让你可以选择自己的道路并做出决定，而不用担心钱的问题。</p>
+<p>让我们深入一些你可以采取的步骤，让你更接近财务独立。</p>
+<ol>
+<li>计划并设定财务目标<br>如果你想达到你的财务目标，计划是非常重要的。如果没有一个计划，你会发现改善你的财务状况非常困难。除了设定具体目标之外，良好的财务计划还应包括:</li>
+</ol>
+<p>定义你的总体目标<br>估计你需要多少钱来实现这些目标<br>为你想要达到的目标设定最后期限<br>跟踪你的进展，并相应地修改你的计划</p>
+<p>有一个坚实的计划会让你保持动力，并确保你不会在你开始的地方结束。</p>
+<ol start="2">
+<li><p>花钱之前先投资<br>开始投资于共同基金，这不是很冒险，可能有利于你的长远发展。如果你开始这种投资习惯，它不仅能帮助你储蓄，还能积累财富。</p>
+</li>
+<li><p>开创自己的事业<br>创业是你能做的最有回报的事情之一，也是最具挑战性的事情之一。一个企业需要努力工作和投资来建立，但一旦它建立起来，它会带来现金流和再投资利润，直到它覆盖你所有的支出和投资。</p>
+</li>
+<li><p>为您和您的家人规划保险(非常重要)<br>医疗情况往往是意想不到的和昂贵的，这可能会烧了一个大洞，你的储蓄，并把你的背后对你的财务状况。为这种紧急情况做好准备的最好方法是购买健康保险计划。</p>
+</li>
+</ol>
+<p>你不需要把辛苦赚来的积蓄花在这些医疗场景上。你可以通过每年缴纳一小笔保费，为自己和家人买一份健康保险。它不仅能支付你发生意外时的医疗费用，而且你还可以申请扣除保险费。</p>
+<ol start="5">
+<li>记录你的开销<br>虽然看起来很明显，但是增加储蓄最简单的方法就是少花钱。</li>
+</ol>
+<p>现在你的思想会随着你的欲望运转，就像iPhone、品牌服装或配饰一样。但请稍等片刻，坐下来想想你是否真的需要这个产品或小工具。</p>
+<p>正如Ankur Warikoo总是说的，如果你真的想买你渴望的新东西，那么就等30天，看看它是否真的需要你。</p>
+<p>你还可以再做一件事，创建一个预算，包括租金、杂货购物、汽油等等，然后决定你想在每一项上花多少钱。</p>
+<ol start="6">
+<li>投资自己和资产<br>开始投资自己永远都不晚。事实上，你学得越多，你在生活中成功的机会就越大。</li>
+</ol>
+<p>提升自己的专业技能。有很多像Udemy、Skillshare、Coursera这样的平台，在那里你可以学到很多特定专业的东西。这将让你探索不同的视角和技巧，从而在职业生涯中成长。</p>
+<p>现在来谈谈资产，当你投资于资产时，你实际上是在购买一些最终会偿还债务的东西。投资资产是避免借钱支付开支的好方法，这也是它受欢迎的原因之一。</p>
+<ol start="7">
+<li><p>尽量减少信用卡的使用<br>信用卡对你来说总是一种负担，因为最终你需要支付利息。我不会告诉你从今天开始停止使用它。但是你可以只在紧急时期开始最小化使用。</p>
+</li>
+<li><p>聪明而努力地工作<br>存钱难，长期投资难。但这还不是全部——你还需要想办法让你的工作变得更容易，花更多的时间做你喜欢的事情。这意味着尽量减少你的通勤时间，改用灵活的工作时间表，并尽可能多地自动化你的生活，以专注于重要的事情。</p>
+</li>
+</ol>
+<p>更努力、更聪明地工作会让你财务独立，但在实现财务独立的同时享受生活也是必不可少的。这就是为什么对工作和生活采取平衡的态度是至关重要的——否则，你可能会在这个过程中筋疲力尽。</p>
+<p>掌握全局会让你对如何投资和花钱做出明智的决定。如果你准确而持续地跟踪每一件事，你就会成功。</p>
+<p><em>本文译自 <a href="https://www.quora.com/What-are-the-top-habits-that-led-you-to-financial-freedom">Quora</a>，由 <a href="http://jandan.net/p/112472">八里</a> 编辑发布。</em></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
+
+]]></content>
+      <tags>
+        <tag>其他</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>试验性原理</title>
+    <url>/2023/03/28/%E8%AF%95%E9%AA%8C%E6%80%A7%E5%8E%9F%E7%90%86/</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html>
+<head>
+    <title>My Page</title>
+</head>
+<body>
+    <!-- 搜索栏 -->
+    <form action="https://www.bing.com/search" method="get">
+        <input type="text" name="q" placeholder="Search Bing">
+        <button type="submit">Search</button>
+    </form>
+
+
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> matplotlib.pyplot <span class="keyword">as</span> plt</span><br><span class="line"><span class="keyword">import</span> numpy <span class="keyword">as</span> np</span><br><span class="line"></span><br><span class="line"><span class="comment"># 定义需求函数</span></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">demand</span>(<span class="params">p</span>):</span><br><span class="line">    <span class="keyword">return</span> <span class="number">100</span> - <span class="number">2</span> * p</span><br><span class="line"></span><br><span class="line"><span class="comment"># 定义供给函数</span></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">supply</span>(<span class="params">p</span>):</span><br><span class="line">    <span class="keyword">return</span> <span class="number">20</span> + <span class="number">3</span> * p</span><br><span class="line"></span><br><span class="line"><span class="comment"># 生成价格数组</span></span><br><span class="line">prices = np.linspace(<span class="number">0</span>, <span class="number">50</span>, <span class="number">100</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 生成需求量和供给量数组</span></span><br><span class="line">quantities_demanded = demand(prices)</span><br><span class="line">quantities_supplied = supply(prices)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 绘制供求关系曲线</span></span><br><span class="line">fig, ax = plt.subplots()</span><br><span class="line">ax.plot(prices, quantities_demanded, label=<span class="string">&#x27;Demand&#x27;</span>)</span><br><span class="line">ax.plot(prices, quantities_supplied, label=<span class="string">&#x27;Supply&#x27;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 设置坐标轴标签和图例</span></span><br><span class="line">ax.set_xlabel(<span class="string">&#x27;Price&#x27;</span>)</span><br><span class="line">ax.set_ylabel(<span class="string">&#x27;Quantity&#x27;</span>)</span><br><span class="line">ax.legend()</span><br><span class="line"></span><br><span class="line"><span class="comment"># 计算边际收益和边际成本</span></span><br><span class="line">marginal_revenue = np.gradient(quantities_demanded, prices)</span><br><span class="line">marginal_cost = np.gradient(quantities_supplied, prices)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 绘制边际效应曲线</span></span><br><span class="line">fig, ax = plt.subplots()</span><br><span class="line">ax.plot(prices, marginal_revenue, label=<span class="string">&#x27;Marginal revenue&#x27;</span>)</span><br><span class="line">ax.plot(prices, marginal_cost, label=<span class="string">&#x27;Marginal cost&#x27;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 设置坐标轴标签和图例</span></span><br><span class="line">ax.set_xlabel(<span class="string">&#x27;Price&#x27;</span>)</span><br><span class="line">ax.set_ylabel(<span class="string">&#x27;Marginal&#x27;</span>)</span><br><span class="line">ax.legend()</span><br><span class="line"></span><br><span class="line"><span class="comment"># 显示图形</span></span><br><span class="line">plt.show()</span><br></pre></td></tr></table></figure>
+</body>
+</html>
+
+]]></content>
+  </entry>
+  <entry>
+    <title>数据库学习</title>
+    <url>/2023/03/09/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%A6%E4%B9%A0/</url>
+    <content><![CDATA[<h2 id="术语-amp-概念："><a href="#术语-amp-概念：" class="headerlink" title="术语&amp;概念："></a>术语&amp;概念：</h2><h3 id="E（Entity）-R（Relationship）-模型（实体-联系模型）："><a href="#E（Entity）-R（Relationship）-模型（实体-联系模型）：" class="headerlink" title="E（Entity）-R（Relationship） 模型（实体-联系模型）："></a>E（Entity）-R（Relationship） 模型（实体-联系模型）：</h3><ol>
+<li>实体 客观存在且可以相互区别的事物</li>
+<li>属性 描述实体的特性</li>
+<li>联系 实体间的对应关系</li>
+</ol>
+<ol>
+<li>层次模型：用树形结构表示实体及其之间的联系</li>
+<li>网状模型：网状结构表示实体间的联系</li>
+<li><strong>关系模型：采用二维表表示</strong></li>
+</ol>
+<h4 id="关系代数部分运算"><a href="#关系代数部分运算" class="headerlink" title="关系代数部分运算"></a>关系代数部分运算</h4><ol>
+<li>投影：从关系模式中选定若干属性组成新的关系</li>
+<li>选择：从关系中找出满足给定条件的元组</li>
+<li>连接：从两个关系的笛卡尔积中选择满足给定属性间一定条件的元组</li>
+</ol>
+<h4 id="关系模型："><a href="#关系模型：" class="headerlink" title="关系模型："></a>关系模型：</h4><p>关系：二维表 二维表名i.e.关系名</p>
+<p>属性：二维表中的<strong>列</strong>称为属性 二维表有n列称为n元关系。—值域：属性的取值范围</p>
+<p>元组：二维表中的<strong>行</strong>称为元组—分量：元组中每一个属性值称为元组的一个分量</p>
+<p><strong>关系模式</strong>：二维表的结构（或二维表的表框架），相当于文件结构或记录结构</p>
+<p><strong>关系模型</strong>：所有的关系模式、属性名和关键字的汇总</p>
+<p><strong>关系数据库：对应于一个关系模型的所有关系的集合</strong></p>
+<hr>
+<h4 id="重要："><a href="#重要：" class="headerlink" title="重要："></a>重要：</h4><ol>
+<li>候选关键字：如果一个<strong>属性集合</strong>的值能唯一标识一个关系的元组（而其子集不能）而又不含多余的属性则称~；每一个关系中可有多个</li>
+<li><strong>主关键字</strong>：若有多个候选关键字，选择一个作为主关键字（有且只有一个）。</li>
+<li>主属性：包含在任一候选关键字中的属性（一个或多个）</li>
+<li>非主属性：不包含在任一候选关键字中的属性</li>
+<li>外部关键字：一个属性集不是所在关系的关键字，但是是其他关系的</li>
+<li>参照关系：在关系数据库中通过外部关键字使两个关系关联，箭头指向：被参照（父）</li>
+</ol>
+<h3 id="关系数据理论–规范化-amp-模式分解"><a href="#关系数据理论–规范化-amp-模式分解" class="headerlink" title="关系数据理论–规范化&amp;模式分解"></a>关系数据理论–规范化&amp;模式分解</h3><p><strong>关系模式R：</strong></p>
+<p><strong>用U表示R的属性全集，U=（A1，A2······An）；</strong></p>
+<p><strong>用F表示R的函数依赖集</strong> 关系模式R（U，F）</p>
+<p>·部分函数依赖：X→Y，若X’是X的真子集，有X’→Y，则Y部分函数依赖于X</p>
+<p>**eg:**学生基本信息表R中（学号，身份证号，姓名）当然学号属性取值是唯一的，在R关系中，（学号，身份证号）-&gt;（姓名），（学号）-&gt;（姓名），（身份证号）-&gt;（姓名）；所以姓名部分函数依赖与（学号，身份证号）；</p>
+<p>· 完全函数依赖：设X’是X的真子集，X→Y 但是对于每一个X’都有 X’！→Y，则Y完全函数依赖于X。</p>
+<p><strong>eg:<strong>学生基本信息表R（学号，班级，姓名）</strong>假设不同的班级学号有相同的，班级内学号不能相同，</strong>在R关系中，（学号，班级）-&gt;（姓名），但是（学号）-&gt;(姓名)不成立，（班级）-&gt;(姓名)不成立，所以姓名完全函数依赖与（学号，班级）</p>
+<p>·函数决定&amp;函数依赖：给定一个X值，会有一个Y值和他对应：X函数决定Y</p>
+<details class="folding-tag" red><summary> 关系模型的完整性约束 </summary>
+              <div class='content'>
+              <h3 id="不讨论函数依赖可能存在的问题："><a href="#不讨论函数依赖可能存在的问题：" class="headerlink" title="不讨论函数依赖可能存在的问题："></a>不讨论函数依赖可能存在的问题：</h3><p>数据冗余、数据更新、数据插入、数据删除</p><p>模式分解：将一个关系模式分解成多个</p><h2 id="关系模型的完整性约束"><a href="#关系模型的完整性约束" class="headerlink" title="关系模型的完整性约束"></a>关系模型的完整性约束</h2><h3 id="数据完整性"><a href="#数据完整性" class="headerlink" title="数据完整性"></a>数据完整性</h3><p>​        要想了解这三类完整性约束，先要了解什么是数据完整性。</p><pre><code>    数据库中的数据是从外界输入的，而数据的输入由于种种原因，会发生输入无效或错误信息。保证输入的数据符合规定，成为了数据库系统，尤其是多用户的关系数据库系统首要关注的问题。数据完整性因此而提出。    数据完整性（Data Integrity）是指数据的精确性（Accuracy） 和可靠性（Reliability）。即数据完整性是指数据库中存储的数据是有意义的或正确的，和现实世界相符。它是应防止数据库中存在不符合语义规定的数据，和防止因错误信息的输入输出造成无效操作或错误信息而提出的。    数据完整性分为三类：实体完整性（Entity Integrity）、参照完整性（Referential Integrity）、用户自定义完整性（User-definedIntegrity）。    数据库采用多种方法来保证数据完整性，包括外键、约束、规则和触发器。系统很好地处理了这几者的关系，并针对不同的具体情况用不同的方法进行，相互交叉使用，相补缺点。    关系模型允许定义三类完整性约束；实体完整性、参照完整性和用户定义的完整性。其中实体完整性和参照完整性是关系模型必须满足的完整性约束条件，体现了具体领域中的语义约束。</code></pre><h4 id="一、实体完整性"><a href="#一、实体完整性" class="headerlink" title="一、实体完整性"></a>一、实体完整性</h4><p>​        实体完整性要求每个数据表都必须有主键，而作为主键的所有字段，其属性必须是独一及非空值。</p><pre><code>    实体完整性要保证关系中的每个元组都是可识别的和惟一的，指关系数据库中所有的表都必须有主键，    而且表中不允许存在无主键值的记录和主键值相同的记录。因为实体必须可区分。    实际上，当在表中定义了主键时，数据库管理系统会自动保证数据的实体完整性，即保证不允许存在主键值为空的记录以及主键值重复的记录。</code></pre><h4 id="二、参照完整性"><a href="#二、参照完整性" class="headerlink" title="二、参照完整性"></a>二、参照完整性</h4><p>​        参照完整性也称为引用完整性。参照的完整性要求关系中不允许引用不存在的实体。与实体完整性是关系模型必须满足的完整性约束条件，目的是保证数据的一致性。</p><pre><code>    现实世界中的实体之间往往存在着某种联系，在关系模型中，实体以及实体之间的联系都是用关系来表示的，这样就自然存在着关系与关系之间的引用。    而参照完整性就是描述实体之间的联系的。参照完整性一般是指多个实体或关系之间的关联关系。    例如，若基本关系 R 的外键为 F，它与基本关系 S 的主键 K 相对应（基本关系 R 和 S 不一定是不同的关系），则对于 R 中的每个元组在 F 上的值必须为：（1）空值，F 的每个属性值均为空值。（2）S 中某个元组中的主键值。    即参照的关系中的属性值必须能够在被参照关系找到或者取空值，否则不符合数据库的语义。    在实际操作时如更新、删除、插入一个表中的数据，通过参照引用相互关联的另一个表中的数据，来检查对表的数据操作是否正确，不正确则拒绝操作。</code></pre><h4 id="三、用户定义完整性"><a href="#三、用户定义完整性" class="headerlink" title="三、用户定义完整性"></a>三、用户定义完整性</h4><p>​        用户定义完整性也成为域完整性或语义完整性。用户自定义完整性是针对某一具体关系数据库的约束条件，它反映某一具体应用所涉及的数据必须满足的语义要求。</p><pre><code>    实际上就是指明关系中属性的取值范围，防止属性的值与应用语义矛盾。    关系模型应提供定义和检验这类完整性的机制，以便用统一的系统方法处理它们，而不要由应用程序承担这一功能    主要包括非空约束、唯一约束、检查约束、主键约束、外键约束。</code></pre><p>————————————————<br>版权声明：本文为CSDN博主「Aries66666」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。<br>原文链接：<a href="https://blog.csdn.net/qq_44290077/article/details/118604181">https://blog.csdn.net/qq_44290077/article/details/118604181</a></p>
+              </div>
+            </details>
+
+<h2 id="SQL语言"><a href="#SQL语言" class="headerlink" title="SQL语言"></a>SQL语言</h2><details class="folding-tag" ><summary>  </summary>
+              <div class='content'>
+              <h1 id="数据库-SQL-语言基本语法"><a href="#数据库-SQL-语言基本语法" class="headerlink" title="数据库 SQL 语言基本语法"></a>数据库 SQL 语言基本语法</h1><p>SQL (Structured Query Language) 是用于管理关系型数据库系统中的数据的标准化语言。它可以执行数据操作、数据查询、数据定义、数据控制等多种功能，可以用于各种类型的关系数据库，如 MySQL、Oracle、SQL Server 等。以下是 SQL 语言的基本语法。</p><h2 id="数据库连接"><a href="#数据库连接" class="headerlink" title="数据库连接"></a>数据库连接</h2><p>连接数据库是使用 SQL 语言进行任何操作之前的必要步骤。以下是连接到数据库的基本语法：</p><figure class="highlight sql"><table><tr><td class="code"><pre><span class="line">sqlCopy code<span class="comment">-- 连接到 MySQL 数据库</span></span><br><span class="line">mysql <span class="operator">-</span>u username <span class="operator">-</span>p password</span><br><span class="line"></span><br><span class="line"><span class="comment">-- 连接到 SQL Server 数据库</span></span><br><span class="line">sqlcmd <span class="operator">-</span>S servername <span class="operator">-</span>U username <span class="operator">-</span>P password</span><br><span class="line"></span><br><span class="line"><span class="comment">-- 连接到 Oracle 数据库</span></span><br><span class="line">sqlplus username<span class="operator">/</span>password<span class="variable">@connect</span>_string</span><br></pre></td></tr></table></figure><h2 id="数据库创建"><a href="#数据库创建" class="headerlink" title="数据库创建"></a>数据库创建</h2><p>创建数据库是存储和管理数据的第一步。以下是创建数据库的基本语法：</p><figure class="highlight sql"><table><tr><td class="code"><pre><span class="line">sqlCopy code<span class="comment">-- 创建 MySQL 数据库</span></span><br><span class="line"><span class="keyword">CREATE</span> DATABASE database_name;</span><br><span class="line"></span><br><span class="line"><span class="comment">-- 创建 SQL Server 数据库</span></span><br><span class="line"><span class="keyword">CREATE</span> DATABASE database_name;</span><br><span class="line"></span><br><span class="line"><span class="comment">-- 创建 Oracle 数据库</span></span><br><span class="line"><span class="keyword">CREATE</span> DATABASE database_name;</span><br></pre></td></tr></table></figure><h2 id="表的创建"><a href="#表的创建" class="headerlink" title="表的创建"></a>表的创建</h2><p>创建表是存储数据的核心步骤。以下是创建表的基本语法：</p><figure class="highlight sql"><table><tr><td class="code"><pre><span class="line">sqlCopy code<span class="comment">-- 创建表</span></span><br><span class="line"><span class="keyword">CREATE</span> <span class="keyword">TABLE</span> table_name (</span><br><span class="line">    column1 datatype,</span><br><span class="line">    column2 datatype,</span><br><span class="line">    column3 datatype,</span><br><span class="line">    ....</span><br><span class="line">);</span><br></pre></td></tr></table></figure><p>例如，下面的语句将创建一个名为 <code>customers</code> 的表，其中包含 <code>id</code>、<code>name</code>、<code>age</code> 和 <code>email</code> 四个列：</p><figure class="highlight sql"><table><tr><td class="code"><pre><span class="line">sqlCopy code<span class="keyword">CREATE</span> <span class="keyword">TABLE</span> customers (</span><br><span class="line">    id <span class="type">INT</span> <span class="keyword">NOT</span> <span class="keyword">NULL</span> <span class="keyword">PRIMARY</span> KEY,</span><br><span class="line">    name <span class="type">VARCHAR</span>(<span class="number">50</span>) <span class="keyword">NOT</span> <span class="keyword">NULL</span>,</span><br><span class="line">    age <span class="type">INT</span> <span class="keyword">NOT</span> <span class="keyword">NULL</span>,</span><br><span class="line">    email <span class="type">VARCHAR</span>(<span class="number">100</span>) <span class="keyword">NOT</span> <span class="keyword">NULL</span></span><br><span class="line">);</span><br></pre></td></tr></table></figure><h2 id="数据插入"><a href="#数据插入" class="headerlink" title="数据插入"></a>数据插入</h2><p>插入数据是将数据添加到表中的方法。以下是插入数据的基本语法：</p><figure class="highlight sql"><table><tr><td class="code"><pre><span class="line">sqlCopy code<span class="comment">-- 插入单条数据</span></span><br><span class="line"><span class="keyword">INSERT</span> <span class="keyword">INTO</span> table_name (column1, column2, column3, ...)</span><br><span class="line"><span class="keyword">VALUES</span> (value1, value2, value3, ...);</span><br><span class="line"></span><br><span class="line"><span class="comment">-- 插入多条数据</span></span><br><span class="line"><span class="keyword">INSERT</span> <span class="keyword">INTO</span> table_name (column1, column2, column3, ...)</span><br><span class="line"><span class="keyword">VALUES</span> (value1, value2, value3, ...),</span><br><span class="line">       (value4, value5, value6, ...),</span><br><span class="line">       (value7, value8, value9, ...);</span><br></pre></td></tr></table></figure><p>例如，下面的语句将向 <code>customers</code> 表中插入一条数据：</p><figure class="highlight sql"><table><tr><td class="code"><pre><span class="line">sqlCopy code<span class="keyword">INSERT</span> <span class="keyword">INTO</span> customers (id, name, age, email)</span><br><span class="line"><span class="keyword">VALUES</span> (<span class="number">1</span>, <span class="string">&#x27;Tom&#x27;</span>, <span class="number">30</span>, <span class="string">&#x27;tom@example.com&#x27;</span>);</span><br></pre></td></tr></table></figure><h2 id="数据查询"><a href="#数据查询" class="headerlink" title="数据查询"></a>数据查询</h2><p>查询数据是从表中检索数据的方法。以下是查询数据的基本语法：</p><figure class="highlight sql"><table><tr><td class="code"><pre><span class="line">sqlCopy code<span class="comment">-- 查询所有数据</span></span><br><span class="line"><span class="keyword">SELECT</span> <span class="operator">*</span> <span class="keyword">FROM</span> table_name;</span><br><span class="line"></span><br><span class="line"><span class="comment">-- 查询特定列的数据</span></span><br><span class="line"><span class="keyword">SELECT</span> column1, column2, ... <span class="keyword">FROM</span> table_name;</span><br><span class="line"></span><br><span class="line"><span class="comment">-- 条件查询</span></span><br><span class="line"><span class="keyword">SELECT</span> <span class="operator">*</span> <span class="keyword">FROM</span> table_name <span class="keyword">WHERE</span> <span class="keyword">condition</span>;</span><br><span class="line"></span><br><span class="line"><span class="comment">-- 排序查询</span></span><br><span class="line"><span class="keyword">SELECT</span> <span class="operator">*</span> <span class="keyword">FROM</span> table_name <span class="keyword">ORDER</span> <span class="keyword">BY</span> <span class="keyword">column</span> <span class="keyword">ASC</span><span class="operator">/</span><span class="keyword">DESC</span>;</span><br><span class="line"></span><br><span class="line"><span class="comment">-- 分组查询</span></span><br><span class="line"><span class="keyword">SELECT</span> column1, <span class="built_in">COUNT</span>(column2) <span class="keyword">FROM</span> table_name <span class="keyword">GROUP</span> <span class="keyword">BY</span> column1;</span><br></pre></td></tr></table></figure><p>例如，下面的语句将从 <code>customers</code> 表中查询所有数据：</p><figure class="highlight sql"><table><tr><td class="code"><pre><span class="line">sqlCopy code</span><br><span class="line"><span class="keyword">SELECT</span> <span class="operator">*</span> <span class="keyword">FROM</span> customers;</span><br></pre></td></tr></table></figure><h2 id="数据更新"><a href="#数据更新" class="headerlink" title="数据更新"></a>数据更新</h2><p>更新数据是修改表中现有数据的方法。以下是更新数据的基本语法：</p><figure class="highlight sql"><table><tr><td class="code"><pre><span class="line">sqlCopy code<span class="comment">-- 更新单个记录</span></span><br><span class="line"><span class="keyword">UPDATE</span> table_name <span class="keyword">SET</span> column1 <span class="operator">=</span> value1, column2 <span class="operator">=</span> value2, ... <span class="keyword">WHERE</span> <span class="keyword">condition</span>;</span><br><span class="line"></span><br><span class="line"><span class="comment">-- 批量更新记录</span></span><br><span class="line"><span class="keyword">UPDATE</span> table_name <span class="keyword">SET</span> column1 <span class="operator">=</span> value1, column2 <span class="operator">=</span> value2, ... <span class="keyword">WHERE</span> condition1;</span><br><span class="line"><span class="keyword">UPDATE</span> table_name <span class="keyword">SET</span> column1 <span class="operator">=</span> value3, column2 <span class="operator">=</span> value4, ... <span class="keyword">WHERE</span> condition2;</span><br></pre></td></tr></table></figure><p>例如，下面的语句将更新 <code>customers</code> 表中 <code>id</code> 为 1 的记录的 <code>age</code> 字段为 32：</p><figure class="highlight sql"><table><tr><td class="code"><pre><span class="line">sqlCopy code</span><br><span class="line"><span class="keyword">UPDATE</span> customers <span class="keyword">SET</span> age <span class="operator">=</span> <span class="number">32</span> <span class="keyword">WHERE</span> id <span class="operator">=</span> <span class="number">1</span>;</span><br></pre></td></tr></table></figure><h2 id="数据删除"><a href="#数据删除" class="headerlink" title="数据删除"></a>数据删除</h2><p>删除数据是从表中删除数据的方法。以下是删除数据的基本语法：</p><figure class="highlight sql"><table><tr><td class="code"><pre><span class="line">sqlCopy code<span class="comment">-- 删除单个记录</span></span><br><span class="line"><span class="keyword">DELETE</span> <span class="keyword">FROM</span> table_name <span class="keyword">WHERE</span> <span class="keyword">condition</span>;</span><br><span class="line"></span><br><span class="line"><span class="comment">-- 删除整个表</span></span><br><span class="line"><span class="keyword">DROP</span> <span class="keyword">TABLE</span> table_name;</span><br></pre></td></tr></table></figure><p>例如，下面的语句将删除 <code>customers</code> 表中 <code>id</code> 为 1 的记录：</p><figure class="highlight sql"><table><tr><td class="code"><pre><span class="line">sqlCopy code</span><br><span class="line"><span class="keyword">DELETE</span> <span class="keyword">FROM</span> customers <span class="keyword">WHERE</span> id <span class="operator">=</span> <span class="number">1</span>;</span><br></pre></td></tr></table></figure><h2 id="数据备份和恢复"><a href="#数据备份和恢复" class="headerlink" title="数据备份和恢复"></a>数据备份和恢复</h2><p>备份和恢复数据是数据库管理的重要方面。以下是备份和恢复数据的基本语法：</p><figure class="highlight sql"><table><tr><td class="code"><pre><span class="line">sqlCopy code<span class="comment">-- 备份数据库</span></span><br><span class="line">mysqldump <span class="operator">-</span>u username <span class="operator">-</span>p password database_name <span class="operator">&gt;</span> backup_file.sql</span><br><span class="line"></span><br><span class="line"><span class="comment">-- 恢复数据库</span></span><br><span class="line">mysql <span class="operator">-</span>u username <span class="operator">-</span>p password database_name <span class="operator">&lt;</span> backup_file.sql</span><br></pre></td></tr></table></figure><p>例如，下面的语句将备份 <code>customers</code> 数据库并将其保存到名为 <code>backup.sql</code> 的文件中：</p><figure class="highlight sql"><table><tr><td class="code"><pre><span class="line">sqlCopy code</span><br><span class="line">mysqldump <span class="operator">-</span>u username <span class="operator">-</span>p password customers <span class="operator">&gt;</span> backup.sql</span><br></pre></td></tr></table></figure><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>SQL 语言是关系型数据库管理系统中必不可少的一部分，它提供了各种功能来操作和管理数据库中的数据。本文介绍了 SQL 语言的基本语法和实例，包括数据库连接、数据库创建、表的创建、数据插入、数据查询、数据更新、数据删除以及数据备份和恢复等方面的内容。</p>
+              </div>
+            </details>
+
+
+
+
+
+
+
+
+
+
+
+]]></content>
+      <tags>
+        <tag>学习笔记</tag>
+        <tag>数据库</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>财务会计笔记</title>
+    <url>/2022/11/10/%E8%B4%A2%E5%8A%A1%E4%BC%9A%E8%AE%A1%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<h1 id="0-随记"><a href="#0-随记" class="headerlink" title="0.随记"></a>0.随记</h1><p>增值税：消费者负担；购入时记在借方 应交税费–应交增值税（进项税额）</p>
+<p>购货时发生其他费用准予抵扣的也加入进项税额（如运费啥的）</p>
+<p>现金折扣：鼓励早付款所给的优惠  贷记财务费用</p>
+<h1 id="1-存货"><a href="#1-存货" class="headerlink" title="1.存货"></a>1.存货</h1><h2 id="初始确认和计量"><a href="#初始确认和计量" class="headerlink" title="初始确认和计量"></a>初始确认和计量</h2><p>确认入账价值：购货价格+仓储、包装、保险、运输和<strong>合理损耗</strong></p>
+<h2 id="存货的取得与发出"><a href="#存货的取得与发出" class="headerlink" title="存货的取得与发出"></a>存货的取得与发出</h2><p>原材料计算成本时选择采用先进先出、加权平均、移动平均和个别计价法，注意区别计划成本（材料采购）和实际成本，其差额为材料成本差异</p>
+<p>·分别计算实际成本和进项税额在做分录</p>
+<p>·发生额外损失时用上面算出的成本*数量得出损失价值 在用上去减，入库时借记待处理财产损溢。</p>
+<p>·委托加工物资：成本 运费 加工费 借记委托加工物资科目，加工完入库借记原材料，贷记委托加工物资。（注意实际数量）</p>
+<details class="folding-tag" ><summary> 材料采购与原材料的区别 </summary>
+              <div class='content'>
+              <p><strong>1、使用范围不同：</strong></p><p>（1）材料的采购<strong>只在材料的计划成本核算</strong>下使用，借方记入采购的原材料或货物的实际成本，贷方记入储存材料的计划成本。期末的借方余额为借方余额，反映了企业的在途物料。</p><p>（2）原材料在计划成本或者实际成本核算下都会使用的科目，在计划成本下，核算的是入库或出库材料的计划成本，在实际成本下，核算的是入库及出库材料的实际成本。</p><p><strong>2、定义不同：</strong></p><p>（1）“原材料”科目核算企业库存的各种材料，包括原材料和主要材料，辅助材料，购买半成品，维修备件，包装材料，燃料的计划和实际成本。</p><p>（2）材料采购是<strong>反映和监测物资采购资金使用情况、核算外包物资采购成本、确定物资成本差异（物资实际成本与计划成本之差）</strong>的会计科目。</p>
+              </div>
+            </details>
+
+<h2 id="存货期末计价"><a href="#存货期末计价" class="headerlink" title="存货期末计价"></a>存货期末计价</h2><p>可变现净值： ·估计售价-估计销售费用-估计发生的相关税费（-估计继续加工成本）</p>
+<p>成本与可变现净值进行比较</p>
+<p>计提存货跌价准备时 借记资产减值损失–存货跌价准备。贷记存货跌价准备。 冲减/转回时做相反分录。</p>
+<h2 id="存货盘盈-盘亏与毁损"><a href="#存货盘盈-盘亏与毁损" class="headerlink" title="存货盘盈 盘亏与毁损"></a>存货盘盈 盘亏与毁损</h2><p>发生时 如果多了贷记待处理财产损溢-待处理流动资产损溢</p>
+<p>查明后 查明后借记</p>
+<p>vice versa</p>
+<h1 id="2-固定资产"><a href="#2-固定资产" class="headerlink" title="2.固定资产"></a>2.固定资产</h1><h2 id="固定资产的购置"><a href="#固定资产的购置" class="headerlink" title="固定资产的购置"></a>固定资产的购置</h2><p>不用安装直接借记固定资产<strong>和税</strong> 贷记银行存款</p>
+<p>需要安装则借记在建工程，注意，安装费用也记在在建工程科目里（固资同理）。完工后借记固资，贷记在建工程。</p>
+<h2 id="固定资产的自行建造-p156"><a href="#固定资产的自行建造-p156" class="headerlink" title="固定资产的自行建造 p156"></a>固定资产的自行建造 p156</h2><p>领用材料物资：借记在建工程 <strong>贷记工程物资</strong> 领用本企业原材料或库存商品则不</p>
+<p>自营工程应负担的职工薪酬： 借记在建工程 贷记应付职工薪酬。</p>
+<p>为自营工程提供的水电安装运费等劳务： 借记在建工程 贷记生产成本</p>
+<p><strong>企业自营工程发生的其它支出 借记在建工程 贷记银行存款</strong></p>
+<p>自营工程发生的报废损失应计入工程成本 残料收入 借记原材料 贷记在建工程</p>
+<p>根据成本用固资和在建工程两个科目进行入账</p>
+<p><em>应收款闹不明白：其他应收款</em> 比如赔款啥的</p>
+<h2 id="采用出包方式建造固定资产-p158"><a href="#采用出包方式建造固定资产-p158" class="headerlink" title="采用出包方式建造固定资产 p158"></a>采用出包方式建造固定资产 p158</h2><p>应在在建工程科目下设置二级科目：预付工程款和工程成本 前者反应支付但未结算工程款 后者反应已结算工程成本。</p>
+<p>结算工程进度款：借记在建工程–工程成本 和税 贷记 在建工程–预付工程款 根据补付的工程进度款，贷记银行存款等科目（先给点 交进度款就少给点 抵扣了）</p>
+<p>完工时：借记在建工程–工程成本 贷记银行存款和税 同时在建工程转结为固定资产</p>
+<p>//</p>
+<h2 id="固定资产的折旧"><a href="#固定资产的折旧" class="headerlink" title="固定资产的折旧"></a>固定资产的折旧</h2><p>应计提折旧总额：固资原值-净残值</p>
+<h2 id="折旧方法"><a href="#折旧方法" class="headerlink" title="折旧方法"></a>折旧方法</h2><p>直线法：年限平均法 </p>
+<p>年折旧额=应计提折旧总额/预计使用年限</p>
+<p>工作量法 p161</p>
+<p>一次计提的折旧额：该次工作量/折旧总额*总折旧额</p>
+<hr>
+<p>加速折旧法：</p>
+<p>·双倍余额递减法 p161（使用时不考虑预计净残值）（注意 最后两年用年限平均法 ）：</p>
+<p>双倍直线折旧率：2/预计使用年限 *100%</p>
+<p>固定资产年折旧额 ：固定资产期初净值*双倍直线折旧率</p>
+<table>
+<thead>
+<tr>
+<th>年份</th>
+<th>期初净值</th>
+<th>年折旧率</th>
+<th>年折旧额</th>
+<th>累计折旧额</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>1</td>
+<td>60,000</td>
+<td>40%</td>
+<td>24,000</td>
+<td>24,000</td>
+</tr>
+<tr>
+<td>2</td>
+<td>36,000</td>
+<td>40%</td>
+<td>14,400</td>
+<td>38,400</td>
+</tr>
+<tr>
+<td>3</td>
+<td>21,600</td>
+<td>40%</td>
+<td>8,640</td>
+<td>47,040</td>
+</tr>
+</tbody></table>
+<p>4,5两年应用年限平均</p>
+<p>·年数总和法：</p>
+<p>年折旧率：该年尚可使用年数（本年也算）/∑各年可使用年数</p>
+<p>e.g. 预计使用年限为五年 第一年 折旧总额*5/1+2+3+4+5</p>
+<h2 id="固定资产的修理"><a href="#固定资产的修理" class="headerlink" title="固定资产的修理"></a>固定资产的修理</h2><p>修理成本计入产品成本或当期损益</p>
+<p>按用途分配借记 制造费用or管理费用or销售费用or其他业务成本 和税</p>
+<h2 id="固定资产改扩建"><a href="#固定资产改扩建" class="headerlink" title="固定资产改扩建"></a><strong>固定资产改扩建</strong></h2><p>★<strong>固资改扩建期间停止使用</strong> 应将其账面价值转作在建工程</p>
+<p><strong>借记：在建工程 累计折旧 固定资产减值准备</strong></p>
+<p><strong>贷记： 固定资产</strong></p>
+<p>期间支出与自建工程支出核算方法在相同 借记 在建工程</p>
+<p>改扩建拆除的原有部件 残值计价回收应冲减扩建工程支出 借记原材料 贷记在建工程</p>
+<p>完工后将扩建工程的全部成本转为改扩建后的固定资产原值 借记固资 贷记在建工程</p>
+<p>改扩建后对各期固定资产的折旧额进行调整</p>
+<h2 id="固定资产的出售"><a href="#固定资产的出售" class="headerlink" title="固定资产的出售"></a>固定资产的出售</h2><p>企业出售固定资产后 其原值和累计折旧应予以注销 账面价值转入 固定资产清理</p>
+<p>转结出售固资账面价值累计折旧和固资减值准备时应按其账面价值 借记固定资产清理 累计折旧 固定资产减值准备 贷记固定资产</p>
+<p>出售固定资产实际收取的价款和增值税额 借记银行存款 贷记 固定资产清理 和税</p>
+<p>出售的收入大于固定资产净值和清理费用之和差额作为资产处置收益 借记固定资产清理 贷记资产处理损益 vice versa 如此处理后 固定资产清理科目没有余额</p>
+<h2 id="固定资产减值损失的确定"><a href="#固定资产减值损失的确定" class="headerlink" title="固定资产减值损失的确定"></a>固定资产减值损失的确定</h2><p>可收回金额应当根据固定资产的公允价值减去处置费用后净值与预计未来现金流量的现值两者间较高者确定</p>
+<p>固定资产净值-可收回金额=计提减值准备</p>
+<p>固定资产可收回金额 小于 账面价值 应将固定资产的账面价值减记至可回收金额 借记 资产减值损失 贷记固定资产减值准备</p>
+<h1 id="3-无形资产"><a href="#3-无形资产" class="headerlink" title="3.无形资产"></a>3.无形资产</h1><h2 id="无形资产的取得"><a href="#无形资产的取得" class="headerlink" title="无形资产的取得"></a>无形资产的取得</h2><h3 id="购入的无形资产"><a href="#购入的无形资产" class="headerlink" title="购入的无形资产"></a>购入的无形资产</h3><p>借 无形资产 和税</p>
+<p> 贷 银行存款</p>
+<h3 id="自行开发的无形资产"><a href="#自行开发的无形资产" class="headerlink" title="自行开发的无形资产"></a>自行开发的无形资产</h3><p>企业<strong>研究阶段</strong>发生的支出应予以<strong>费用化</strong> </p>
+<p>在此期间  借记 研发支出–<strong>费用化</strong>支出 和税</p>
+<p>贷记 有关科目（应付职工薪酬 原材料 银行存款等）</p>
+<p>期末根据发生的全部研究支出 借记 研发费用 </p>
+<p>贷记 研发支出–<strong>费用化</strong>支出</p>
+<hr>
+<p>企业在<strong>开发阶段</strong>发生的部分支出（直接用于新产品、技术、工艺的原材料 职工薪酬）应当予以资本化 （<em>管理、培训的支出是费用化</em>）</p>
+<p>借记 研发支出–资本化支出 和税</p>
+<p> 贷记 有关科目</p>
+<p><strong>在确认无形资产时</strong> 应根据发生的全部开发支出 借记 无形资产 贷记研发支出–资本化支出 科目 </p>
+<p><em>开发阶段发生的费用化支出核算与研究阶段方法相同</em></p>
+<h2 id="无形资产的摊销"><a href="#无形资产的摊销" class="headerlink" title="无形资产的摊销"></a>无形资产的摊销</h2><p>年限取合同与法律较短者</p>
+<p>摊销方法一般采用年限平均法</p>
+<p>摊销时 借记 管理费用 制造费用 其他业务成本 等科目</p>
+<p>贷记 累计摊销科目</p>
+<h2 id="无形资产的处置"><a href="#无形资产的处置" class="headerlink" title="无形资产的处置"></a>无形资产的处置</h2><h3 id="无形资产的出售"><a href="#无形资产的出售" class="headerlink" title="无形资产的出售"></a>无形资产的出售</h3><p>借记 银行存款 累计摊销</p>
+<p>贷记 应交税费–应交增值税（销项税额） 无形资产 </p>
+<p>按差额借记或贷记资产处置损益</p>
+<h3 id="无形资产的报废"><a href="#无形资产的报废" class="headerlink" title="无形资产的报废"></a>无形资产的报废</h3><p>借记 累计摊销 无形资产减值准备 营业外支出</p>
+<p> 贷记 无形资产</p>
+<h2 id="无形资产的期末计价"><a href="#无形资产的期末计价" class="headerlink" title="无形资产的期末计价"></a>无形资产的期末计价</h2><h3 id="可收回金额"><a href="#可收回金额" class="headerlink" title="可收回金额"></a>可收回金额</h3><p>公允价值减处置费用的净值 与 未来现金流量的现值较高者确定</p>
+<h3 id="减值损失"><a href="#减值损失" class="headerlink" title="减值损失"></a>减值损失</h3><p>可收回金额低于其账面价值的 应当将资产的账面价值减记至可收回金额 </p>
+<p>借记 资产减值损失 </p>
+<p>贷记 无形资产减值准备</p>
+<p>减值损失确认后 未来的摊销费用应当调整</p>
+<hr>
+<h1 id="4-金融资产"><a href="#4-金融资产" class="headerlink" title="4.金融资产"></a>4.金融资产</h1><p>按照经济内容，主要分为 货币资金、应收票据、应收账款、其他应收款、股权投资和债券投资。</p>
+<p>按照计量方法，主要分为按成本计量的金融资产和按公允价值计量的金融资产。</p>
+<h2 id="应收款项"><a href="#应收款项" class="headerlink" title="应收款项"></a>应收款项</h2><p>应收款项包括应收票据、应收账款、其他应收款和预付账款等</p>
+<h3 id="应收票据"><a href="#应收票据" class="headerlink" title="应收票据"></a>应收票据</h3><p>企业持有的未到期or未兑现的各种票据</p>
+<p>分为 银行承兑汇票 和 商业承兑汇票  （承兑指付款人在汇票到期日支付汇票金额）</p>
+<p>追索权：遭受拒付、逾期未付向上家索取的权利</p>
+<h4 id="取得应收票据："><a href="#取得应收票据：" class="headerlink" title="取得应收票据："></a>取得应收票据：</h4><p>借记 应收票据科目</p>
+<p>贷记 主营业务收入（销售取得钱了）、应交税费、应收账款（提示应收货款啥的）等科目</p>
+<h4 id="应收票据的利息"><a href="#应收票据的利息" class="headerlink" title="应收票据的利息"></a>应收票据的利息</h4><p>计算： 应收票据面值x日期x票面利率</p>
+<p>编分录时题目会说计提利息xx</p>
+<p>借记 应收票据</p>
+<p>贷记 财务费用</p>
+<h4 id="应收票据到期"><a href="#应收票据到期" class="headerlink" title="应收票据到期"></a>应收票据到期</h4><p>到期值：面值+利息</p>
+<p>借方：银行存款</p>
+<p>贷方：应收票据、财务费用</p>
+<h5 id="退票"><a href="#退票" class="headerlink" title="退票"></a>退票</h5><p> 借应收账款 贷应收票据</p>
+<h4 id="应收票据贴现"><a href="#应收票据贴现" class="headerlink" title="应收票据贴现"></a>应收票据贴现</h4><p>贴现利息=到期值x贴现率x贴现天数/365</p>
+<p>贴现款=到期值-贴现息</p>
+<p>借记 银行存款 财务费用（差额）</p>
+<p>贷记 应收票据 财务费用（差额）</p>
+<p>以上是找银行贴现</p>
+<p>商业汇票贴现：借记银行存款 贷记短期借款 （提前把汇票 的钱领了） 借贷记财务费用</p>
+]]></content>
+      <tags>
+        <tag>学习笔记</tag>
+        <tag>会计</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>高级会计</title>
+    <url>/2023/03/30/%E9%AB%98%E7%BA%A7%E4%BC%9A%E8%AE%A1/</url>
+    <content><![CDATA[<h1 id="高级会计学"><a href="#高级会计学" class="headerlink" title="高级会计学"></a>高级会计学</h1><div class="tabs" id="一级标题"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#一级标题-1">非货币性资产交换</button></li><li class="tab"><button type="button" data-href="#一级标题-2">债务重组</button></li><li class="tab"><button type="button" data-href="#一级标题-3">股份支付</button></li><li class="tab"><button type="button" data-href="#一级标题-4">所得税</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="一级标题-1"><h2 id="非货币性资产交换"><a href="#非货币性资产交换" class="headerlink" title="非货币性资产交换"></a>非货币性资产交换</h2><p>判定：补价低于资产交换金额的25%（做题时可以验一验），非货币，交换具有<strong>商业实质</strong>。</p>
+<details class="folding-tag" red><summary> 商业实质 </summary>
+              <div class='content'>
+              <p><strong>商业实质的判断</strong></p><p><strong>企业发生的非货币性资产交换，符合下列条件<strong><strong>之一</strong></strong>的，视为具有商业实质：</strong></p><p>Ø<strong>换入资产的未来现金流量在<strong><strong>风险、时间分布或金额</strong></strong>方面与换出资产<strong><strong>显著不同</strong></strong>；</strong></p><p>Ø<strong>使用换入资产所产生的预计未来现金流量现值</strong>与继续使用换出资产所产生的预计未来现金流量现值不同，且<strong>其差额****与换入资产和换出资产的公允价值相比是</strong>重大的**</p>
+              </div>
+            </details>
+
+<h3 id="公允价值确定"><a href="#公允价值确定" class="headerlink" title="公允价值确定"></a>公允价值确定</h3><p>若换出资产的公允价值能可靠确定，应用其作为确定<strong>换入</strong>资产成本的基础。</p>
+<p>如果换入资产的公允价值更加可靠，用<strong>换入</strong>的确定~</p>
+<h3 id="基于账面价值确定"><a href="#基于账面价值确定" class="headerlink" title="基于账面价值确定"></a>基于账面价值确定</h3><p><strong>非货币性资产交换不具有商业实质，或者虽然具有商业实质但换入资产和换出资产的公允价值均不能可靠计量的：</strong></p>
+<p><strong>第一步：确认换入资产的成本</strong></p>
+<p>应当<strong>以换出资产账面价值</strong>为<strong>基础<u>确定换入</u>资产成本</strong>；</p>
+<p><strong>第二步：确认换出资产终止确认的损益</strong></p>
+<p>无论是否支付补价，均不确认损益。</p>
+<p>按自己的账面，换入的价值自适应！</p>
+<details class="folding-tag" red><summary> 折叠标题 </summary>
+              <div class='content'>
+              <p><strong>（一）不涉及补价情况下的会计处理</strong></p><p><strong>换入资产成本＝**<strong>换出资产账面价值</strong></strong>+支付的应计入换入资产成本的相关税费**</p><p><strong>（二）涉及补价情况下的会计处理</strong>:交的补价算到换入的成本里</p><p><strong>1.支付补价方</strong></p><p><strong>换入资产成本＝**<strong>换出资产账面价值</strong></strong>+支付的补价+支付的应计入换入资产成本的相关税费**</p><p><strong>2.收到补价方</strong></p><p><strong>换入资产成本＝**<strong>换出资产账面价值</strong></strong>-收到的补价+支付的应计入换入资产成本的相关税费**</p><p><strong>【注意：账面价值，不确认处置损益】</strong></p>
+              </div>
+            </details>
+
+
+
+<h4 id="涉及补价："><a href="#涉及补价：" class="headerlink" title="涉及补价："></a>涉及补价：</h4><p>借贷银行存款即可。</p>
+<h4 id="非货币性资产交换的信息披露："><a href="#非货币性资产交换的信息披露：" class="headerlink" title="非货币性资产交换的信息披露："></a>非货币性资产交换的信息披露：</h4><details class="folding-tag" red><summary> 几条 </summary>
+              <div class='content'>
+              <p><strong>企业应当在附注中披露与非货币性资产交换有关的下列信息：</strong></p><p><strong>（</strong>1<strong>）非货币性资产交换是否具有商业实质及其原因</strong></p><p><strong>（</strong>2<strong>）换入资产、换出资产的类别</strong></p><p><strong>（</strong>3<strong>）换入资产初始计量金额的确定方式</strong></p><p><strong>（</strong>4<strong>）换入资产、换出资产的公允价值以及换出资产的账面价值</strong></p><p><strong>（</strong>5<strong>）非货币性资产交换确认的损益</strong></p>
+              </div>
+            </details>
+
+<hr>
+<h4 id="换入-换出固定资产："><a href="#换入-换出固定资产：" class="headerlink" title="换入/换出固定资产："></a>换入/换出<strong>固定资产</strong>：</h4><p><em><strong>相当于把自己的资产在市场上卖了，拿到钱去买别人家的资产，入账时就是自己的资产（换出资产）卖了多少钱</strong></em></p>
+<p>先做处置：借固定资产清理，累积折旧；贷固定资产。</p>
+<p>然后 借：换来的资产（公允价值）+税+费；贷固定资产清理，税费，差额（公允价值和账面价值？）记在：资产处置损益——固定资产处置损益。</p>
+<h4 id="换入-换出无形资产："><a href="#换入-换出无形资产：" class="headerlink" title="换入/换出无形资产："></a>换入/换出无形资产：</h4><p>借：换来的资产（公允价值）+税+费；贷：无形资产（直接），差额记在：资产处置损益——无形资产处置损益。</p>
+<h4 id="存货："><a href="#存货：" class="headerlink" title="存货："></a>存货：</h4><p>按视同销售处理，确认销售收入，同时转结销售成本。</p>
+<p>换出：</p>
+<p>借：换来的，税，<strong>主营业务成本</strong>（账面价值）；贷：<strong>主营业务收入</strong>（价格），税费，<strong>库存商品</strong>（？）。</p>
+<h4 id="一些交易性金融资产："><a href="#一些交易性金融资产：" class="headerlink" title="一些交易性金融资产："></a>一些交易性金融资产：</h4><p>差额记在 <strong>投资收益</strong> 即可</p>
+<hr><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="一级标题-2"><h2 id="债务重组"><a href="#债务重组" class="headerlink" title="债务重组"></a>债务重组</h2><p>•债务重组，是指在<strong>不改变交易对手方</strong>的情况下，经债权人和债务人协定或法院裁定，就<u>清偿债务的时间、金额或方式</u>等<strong>重新达成协议</strong>的交易。（不强调债务人财务困难否，不论债权人是否让步）</p>
+<h4 id="不适用债务重组准则的情形"><a href="#不适用债务重组准则的情形" class="headerlink" title="不适用债务重组准则的情形"></a>不适用债务重组准则的情形</h4><details class="folding-tag" red><summary> 如题 </summary>
+              <div class='content'>
+              <h5 id="形成合并"><a href="#形成合并" class="headerlink" title="形成合并"></a><strong>形成合并</strong></h5><p>债务人以<strong>股权投资</strong>清偿债务或者将债务<strong>转为权益工具</strong>，可能对应导致债权人<strong>取得</strong>被投资单位或债务人<strong>控制权</strong>，在合并财务报表层面，债权人取得资产和负债的确认和计量适用《企业会计准则第20号——企业合并》的有关规定。</p><h5 id="构成权益性交易"><a href="#构成权益性交易" class="headerlink" title="构成权益性交易"></a>构成权益性交易</h5><p>①债权人直接或间接对债务人持股，或者债务人直接或间接对债权人持股，且持股方以股东身份进行债务重组；</p><p>②债权人与债务人在债务重组前后均受同一方或相同的多方最终控制，且该债务重组的交易实质是债权人或债务人进行了权益性分配或接受了权益性投入。</p><p>特殊情况：</p><p>债务重组中不属于权益性交易的部分仍然应当确认债务重组相关损益。</p><p>举例：与其他债权人按相同比例豁免的部分，可确认债务重组相关损益，超过的部分不确认债务重组相关损益。</p>
+              </div>
+            </details>
+
+
+
+
+
+
+
+
+
+<h4 id="债务重组的方式"><a href="#债务重组的方式" class="headerlink" title="债务重组的方式"></a>债务重组的方式</h4><p>2、债务重组的方式</p>
+<p>（1）以资产清偿债务</p>
+<p>  债务人<strong>转让其资产</strong>给债权人以清偿债务的债务重组方式。</p>
+<p>（2）将债务转为资本</p>
+<p>  债务人将债务转为资本，同时债权人<strong>将债权转为股权</strong>的债务重组方式。</p>
+<p>（3）修改其他债务条件</p>
+<p>  除上述两种方式以外的以<strong>修改其他债务条件</strong>进行的债务重组方式，如减少债务本金，减少或免去债务利息等。</p>
+<p>（4）以上三种方式的组合</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="一级标题-3"><h5 id="股份支付的方式"><a href="#股份支付的方式" class="headerlink" title="股份支付的方式"></a>股份支付的方式</h5><ul>
+<li>以权益结算：企业为获取服务以<strong>期权</strong>等作为对价进行结算的交易</li>
+<li>以现金结算：企业为获取服务承担<strong>以股票增值权为基础</strong>计算确定的交付现金或其他资产义务的交易</li>
+</ul>
+<details class="folding-tag" ><summary> 股票增值权 </summary>
+              <div class='content'>
+              <p>股票增值权（Stock Appreciation Rights，简称：SARs）通常与认购权配合使用，其中股票增值权不须实际购买股票，经理人直接就期末公司股票增值部分(=期末股票市价-约定价格)得到一笔报酬，经理人可以选择增值的现金或购买公司股票。此外，由于经理人并未实际购买股票，故可避免“避险行为”的发生。</p>
+              </div>
+            </details>
+
+<h5 id="股份支付的时间"><a href="#股份支付的时间" class="headerlink" title="股份支付的时间"></a>股份支付的时间</h5><p><img src="https://wzho-1313533248.cos.ap-beijing.myqcloud.com/img/gufenzhifushidian.png"></p>
+<hr>
+<h4 id="以权益结算的股份支付"><a href="#以权益结算的股份支付" class="headerlink" title="以权益结算的股份支付"></a>以权益结算的股份支付</h4><h5 id="有等待期："><a href="#有等待期：" class="headerlink" title="有等待期："></a>有等待期：</h5><p>借 管理费用等； 贷 资本公积——其他资本公积</p>
+<h5 id="无等待期："><a href="#无等待期：" class="headerlink" title="无等待期："></a>无等待期：</h5><p>借 管理费用等; 贷 资本公积——股本溢价</p>
+<p><strong>注意！权益工具根据<u>授予日</u>的公允价值</strong></p>
+<p>其中 管理费用代表获取的相关服务，计入相应的费用。</p>
+<p>贷方则是需要支付的 对价。是以权益工具或者承担以权益工具为基础确定的，权益工具是公司的股份。</p>
+<p><strong>行权日行权</strong>：</p>
+<p>借：资本公积——其他资本公积，银行存款，库存股等；贷：股本，资本公积——股本溢价</p>
+<hr>
+<h4 id="以现金结算的股份支付"><a href="#以现金结算的股份支付" class="headerlink" title="以现金结算的股份支付"></a>以现金结算的股份支付</h4><h5 id="有等待期"><a href="#有等待期" class="headerlink" title="有等待期"></a>有等待期</h5><p>企业应当在等待期内的每个资产负债表日，以对可行权情况的最佳估计为基础，按照<strong>企业承担负债的公允价值（随时可能变）</strong>，将当期取得的服务计入相关资产成本或当期费用，同时计入负债，并在结算前的每个资产负债表日和结算日对负债的公允价值重新计量，将其变动计入损益</p>
+<p><strong>借：管理费用/公允价值变动损益（可行权日之后各资产负债表日） 等； 贷 应付职工薪酬</strong></p>
+<h5 id="无等待期"><a href="#无等待期" class="headerlink" title="无等待期"></a>无等待期</h5><p>对于授予后立即可行权（没有等待期）的现金结算的股份支付（例如授予虚拟股票或业绩股票的股份支付），企业应当<strong>在授予日按照企业承担负债的公允价值</strong>计入相关资产成本或费用，同时计入负债，并在结算前的每个资产负债表日和结算日对负债的公允价值重新计量，将其变动计入损益。</p>
+<p><strong>借：管理费用/公允价值变动损益 等； 贷 应付职工薪酬</strong></p>
+<p><strong>行权日行权</strong></p>
+<p>借：应付职工薪酬；贷：库存现金等。</p>
+<h5 id=""><a href="#" class="headerlink" title=""></a></h5><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="一级标题-4"><blockquote>
+<p>世界上唯有死亡和税收无法避免 </p>
+<p>​                                                ——<strong>本杰明·富兰克林</strong></p>
+</blockquote>
+<h2 id="所得税"><a href="#所得税" class="headerlink" title="所得税"></a>所得税</h2><h3 id="税收法规和会计准则打架：永久性和时间性"><a href="#税收法规和会计准则打架：永久性和时间性" class="headerlink" title="税收法规和会计准则打架：永久性和时间性"></a>税收法规和会计准则打架：永久性和时间性</h3><ul>
+<li><p>永久性：是由于会计准则与税法在确认收益、费用或损失时的口径不同所产生的税前会计利润与应纳税所得额之间的差异。</p>
+<p>这种差异在本期发生，不会在以后各期转回</p>
+<p>确认口径不同：会计确认收入或者费用，但税收不确认，vice versa</p>
+<p>确认金额不同：例如，税法上规定的扣除标准与会计上不同</p>
+</li>
+<li><p>时间性差异：是指税法与会计准则由于收益、费用或损失的确认时间不同而产生的税前会计利润与应纳税所得额之间的差异。</p>
+<p>时间性差异发生于某一会计期间，但在以后的一期或若干期内会转回</p>
+</li>
+</ul>
+<h3 id="所得税-1"><a href="#所得税-1" class="headerlink" title="所得税"></a>所得税</h3><ul>
+<li><p>应纳税所得额：</p>
+<p>＝收入总额－不征税收入－免税收入－各项扣除－以前年度亏损</p>
+<p>或者：</p>
+<p>应纳税所得额</p>
+<p>＝税前会计利润＋纳税调整增加额－纳税调整减少额</p>
+</li>
+</ul>
+<h4 id="不征税收入包括："><a href="#不征税收入包括：" class="headerlink" title="不征税收入包括："></a>不征税收入包括：</h4><p>财政拨款；</p>
+<p>依法收取并纳入财政管理的行政事业性收费、政府性基金；</p>
+<p>国务院规定的其他不征税收入。</p>
+<h4 id="免税收入"><a href="#免税收入" class="headerlink" title="免税收入"></a><strong>免税收入</strong></h4><p>国债利息收入<strong>（会计作为投资收益确认，税法不计入纳税所得额）</strong></p>
+<p>符合条件的居民企业之间的股息、红利等权益性投资收益</p>
+<p>在中国境内设立机构、场所的非居民企业从居民企业取得与该机构、场所“有实际联系”的股息、红利等权益性投资收益</p>
+<p>符合条件的非营利组织收入</p>
+<h4 id="税前扣除项目"><a href="#税前扣除项目" class="headerlink" title="税前扣除项目"></a>税前扣除项目</h4><p>企业实际发生的与取得收入有关的、合理的支出，包括成本、费用、税金、损失和其他支出，准予在计算应纳税所得额时扣除。</p>
+<table>
+<thead>
+<tr>
+<th>准予扣除的税金的方式</th>
+<th>可扣除税金举例</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>计入“税金及附加”</td>
+<td>消费税、城市维护建设税、出口关税、资源税、土地增值税、教育费附加、房产税、车船税、城镇土地使用税、印花税等</td>
+</tr>
+<tr>
+<td>计入相关资产的成本（以后扣除）</td>
+<td>车辆购置税、契税、耕地占用税等</td>
+</tr>
+</tbody></table>
+<h4 id="禁止扣除项目"><a href="#禁止扣除项目" class="headerlink" title="禁止扣除项目"></a>禁止扣除项目</h4><details class="folding-tag" ><summary> 禁止喵 </summary>
+              <div class='content'>
+              <p>1.向投资者支付的股息、红利等权益性投资收益款项。</p><p>2.企业所得税税款。</p><p>3.<strong>税收滞纳金</strong>。（★★★）</p><p>4.<strong>罚金、罚款和被没收财物的损失</strong>。（★★★）</p><p>5.<strong>超过规定标准的捐赠支出</strong>。（★★★）</p><p>6.<strong>企业发生的与生产经营活动无关的各种非广告性质的赞助支出</strong>。（★★★）</p><p>7.<strong>未经核定的准备金支出。（坏账准备、存货跌价准备、固定资产减值准备、投资性房地产减值准备</strong>）（★★★）</p><p>8.企业之间支付的管理费、企业内营业机构之间支付的租金和特许权使用费，以及非银行企业内营业机构之间支付的利息。</p><p>9.与取得收入无关的其他支出。</p>
+              </div>
+            </details>
+
+<h4 id="视同销售"><a href="#视同销售" class="headerlink" title="视同销售"></a>视同销售</h4><details class="folding-tag" ><summary> 视同销售喵 </summary>
+              <div class='content'>
+              <p>　　(一)用于市场推广或销售;</p><p>　　(二)用于交际应酬;</p><p>　　(三)用于职工奖励或福利;</p><p>　　(四)用于股息分配;</p><p>　　(五)用于对外捐赠（<strong>会计：按照成本结转</strong>、<strong>税法：要确认收益，计入应纳税所得额</strong>）;</p><p>　　(六)其他改变资产所有权属的用途。</p>
+              </div>
+            </details><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></content>
+      <tags>
+        <tag>学习笔记</tag>
+        <tag>会计</tag>
+      </tags>
+  </entry>
+</search>
