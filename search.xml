@@ -1,31 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>html/css/js自学</title>
-    <url>/2022/12/30/html-css-js%E8%87%AA%E5%AD%A6/</url>
-    <content><![CDATA[<details class="folding-tag" red><summary> 编程、标记与脚本语言 </summary>
-              <div class='content'>
-              <p>一、各自的定义<br>标记语言</p><p>标记语言，是一种将文本（Text）以及文本相关的其他信息结合起来，展现出关于文档结构和数据处理细节的电脑文字编码。与文本相关的其他信息（包括例如文本的结构和表示信息等）与原来的文本结合在一起，但是使用标记（markup）进行标识。</p><blockquote><p>如：HTML、XML</p></blockquote><p>脚本语言</p><p>脚本语言是为了缩短传统的编写-编译-链接-运行（edit-compile-link-run）过程而创建的计算机编程语言。它的命名起源于一个脚本“screenplay”，每次运行都会使对话框逐字重复。早期的脚本语言经常被称为批量处理语言或工作控制语言。<br>一个脚本通常是解释运行而非编译。脚本语言通常都有简单、易学、易用的特性，目的就是希望能让程序员快速完成程序的编写工作。</p><blockquote><p>如：JavaScript、VBScript、PHP</p></blockquote><p>编译型语言</p><p>编译型语言：程序在执行之前需要一个专门的编译过程，把程序编译成 为机器语言的文件，运行时不需要重新翻译，直接使用编译的结果就行了。程序执行效率高，依赖编译器，跨平台性差些</p><blockquote><p>如 C、C++</p></blockquote><p>二、区别</p><p>1、标记语言不用于向计算机发出指令，常用于格式化和链接。<br>2、脚本语言介于标记语言和编程语言之间，脚本语言脚本语言不需要编译，可以直接用，由解释器来负责解释。<br>3、编译型语言写的程序执行之前，需要一个专门的编译过程，把程序编译成为机器语言的文件，比如exe文件，以后要运行的话就不用重新翻译了，直接使用编译的结果就行了（exe文件），因为翻译只做了一次，运行时不需要翻译，所以编译型语言的程序执行效率高。</p><p>标记语言与编程语言区别</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">最简单的理解是, 编程语言有逻辑和行为能力, 後者没有.</span><br><span class="line">编程语言 (programming language)可以例如 c, perl, javascript </span><br><span class="line"></span><br><span class="line">标记语言( markup language ), 有 xml, html,  xhtml ( xml 和 html 的合体 )你会见到他们都是 &quot;ml&quot; 尾的.</span><br><span class="line"></span><br><span class="line">标记语言的存在用来被读取的, 例如 svg 的图档其实就是用 xml 写出来的. 而其本身是没有行为能力的. 在标记语言里你会看到很多 &lt; 和 &gt; 这些钻括号, 这些是用来写出 &quot;层次&quot; 和 &quot;属性&quot; 的. 简言之, 他是被动的</span><br><span class="line"></span><br><span class="line">而在 编程语言 里, 你会看到很多 if else for while print ... 这些具有逻辑性和行为能力的指令. 这是主动的.</span><br></pre></td></tr></table></figure>
-              </div>
-            </details>
-]]></content>
-      <tags>
-        <tag>编程</tag>
-        <tag>html、css、js</tag>
-        <tag>学习笔记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>md文档符号快捷使用</title>
-    <url>/2022/12/30/md%E6%96%87%E6%A1%A3%E7%AC%A6%E5%8F%B7%E5%BF%AB%E6%8D%B7%E4%BD%BF%E7%94%A8/</url>
-    <content><![CDATA[<div class="tabs" id="一级标题"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#一级标题-1">二级标题1</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="一级标题-1"><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
-
-]]></content>
-      <tags>
-        <tag>其他</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>会计三表</title>
     <url>/2023/03/05/%E4%BC%9A%E8%AE%A1%E4%B8%89%E8%A1%A8/</url>
     <content><![CDATA[<h1 id="资产负债表、现金流量表与利润表"><a href="#资产负债表、现金流量表与利润表" class="headerlink" title="资产负债表、现金流量表与利润表"></a>资产负债表、现金流量表与利润表</h1><div class="tabs" id="劳资不想算账啊啊啊"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#劳资不想算账啊啊啊-1">资产负债表</button></li><li class="tab"><button type="button" data-href="#劳资不想算账啊啊啊-2">现金流量表</button></li><li class="tab"><button type="button" data-href="#劳资不想算账啊啊啊-3">利润表</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="劳资不想算账啊啊啊-1"><div class="tabs" id="资产负债"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#资产负债-1">资产负债表图</button></li><li class="tab"><button type="button" data-href="#资产负债-2">资产负债表文</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="资产负债-1"><p>资产负债表例图</p>
@@ -356,77 +331,6 @@
         <tag>编程</tag>
         <tag>学习笔记</tag>
         <tag>python</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>英语杂记</title>
-    <url>/2023/03/07/%E5%85%AD%E7%BA%A7%E5%85%AD%E7%BA%A7%E5%85%AD%E7%BA%A7/</url>
-    <content><![CDATA[<div class="tabs" id="一级标题"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#一级标题-1">翻译用词汇及表达</button></li><li class="tab"><button type="button" data-href="#一级标题-2">图表作文；）</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="一级标题-1"><p>deteriorate</p>
-<p>sustainable development</p>
-<p>unique status</p>
-<p><strong>narrow the gap between a and b</strong></p>
-<p>evolve into</p>
-<p>preferred 首选的</p>
-<p>commute 通勤</p>
-<p>punctual 准时的</p>
-<p>metropolis 大都市</p>
-<p>direction of public opinion 舆论导向 </p>
-<p>migrant worker 外出务工人员</p>
-<p>cultivation 种植</p>
-<p>corp yields 作物产量</p>
-<p>Coexistence 共存</p>
-<p>expenditure 支出</p>
-<p>fictitious economy 虚拟经济</p>
-<hr>
-<p>zodiac 十二生肖</p>
-<p>粤菜 Canton cuisine</p>
-<p>clay oven rolls 烧饼</p>
-<p>tomatoes on sticks 糖葫芦</p>
-<p>100-year egg/century egg 皮蛋</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="一级标题-2"><hr>
-<h3 id="套话"><a href="#套话" class="headerlink" title="套话"></a><strong>套话</strong></h3><h4 id="原因"><a href="#原因" class="headerlink" title="原因"></a>原因</h4><p>Mainly there are… reasons behind the situation reflected in the graphic/table. First of all, …. More significantly,….Most important of all…..</p>
-<h4 id="预测-amp-结尾"><a href="#预测-amp-结尾" class="headerlink" title="预测&amp;结尾"></a>预测&amp;结尾</h4><p>From the above discussions, we have enough reason to predict what will happen in the near future. The trend described in the graphic/ table will continue for quite a long time.</p>
-<hr>
-<h3 id="程度词"><a href="#程度词" class="headerlink" title="程度词"></a>程度词</h3><p>noticeable; sharp; steep;</p>
-<p>remarkable</p>
-<p>slight; gradual; drastic*(激烈的；急剧的)*;dramatic; </p>
-<hr>
-<h3 id="占多少比例"><a href="#占多少比例" class="headerlink" title="占多少比例"></a>占多少比例</h3><p>take up</p>
-<p>make up</p>
-<p>constitute</p>
-<p>account for</p>
-<p>have … percentage/proportion</p>
-<hr>
-<h3 id="处于xx位置"><a href="#处于xx位置" class="headerlink" title="处于xx位置"></a>处于xx位置</h3><p>be listed on the first place</p>
-<p>A ranks first, followed by B</p>
-<p><strong>The figures peak at</strong></p>
-<p><strong>It topped the list</strong></p>
-<p>arrive at the lowest point</p>
-<hr>
-<h3 id="增长"><a href="#增长" class="headerlink" title="增长"></a>增长</h3><p>increase by/to</p>
-<p>have an increase from … to …</p>
-<p>amount to/ go up</p>
-<p>have an upward trend in…</p>
-<p><strong>shot (shoot) up to/ rocket to</strong></p>
-<hr>
-<h3 id="下降"><a href="#下降" class="headerlink" title="下降"></a>下降</h3><p>decrease from … to …</p>
-<p>decline by/to</p>
-<p>drop by…</p>
-<p>drop down to</p>
-<p>fall to</p>
-<p>have a downward trend in…</p>
-<hr>
-<h3 id="波动-amp-稳定"><a href="#波动-amp-稳定" class="headerlink" title="波动&amp;稳定"></a>波动&amp;稳定</h3><p>fluctuate slightly</p>
-<p>have a slight fluctuation</p>
-<p>remain stable at</p>
-<p>keep steady at</p>
-<p>keep level at</p>
-<hr>
-<h3 id=""><a href="#" class="headerlink" title=""></a></h3><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
-
-]]></content>
-      <tags>
-        <tag>学习笔记</tag>
-        <tag>英语</tag>
       </tags>
   </entry>
   <entry>
@@ -791,28 +695,6 @@
       <tags>
         <tag>其他</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>试验性原理</title>
-    <url>/2023/03/28/%E8%AF%95%E9%AA%8C%E6%80%A7%E5%8E%9F%E7%90%86/</url>
-    <content><![CDATA[<!DOCTYPE html>
-<html>
-<head>
-    <title>My Page</title>
-</head>
-<body>
-    <!-- 搜索栏 -->
-    <form action="https://www.bing.com/search" method="get">
-        <input type="text" name="q" placeholder="Search Bing">
-        <button type="submit">Search</button>
-    </form>
-
-
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> matplotlib.pyplot <span class="keyword">as</span> plt</span><br><span class="line"><span class="keyword">import</span> numpy <span class="keyword">as</span> np</span><br><span class="line"></span><br><span class="line"><span class="comment"># 定义需求函数</span></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">demand</span>(<span class="params">p</span>):</span><br><span class="line">    <span class="keyword">return</span> <span class="number">100</span> - <span class="number">2</span> * p</span><br><span class="line"></span><br><span class="line"><span class="comment"># 定义供给函数</span></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">supply</span>(<span class="params">p</span>):</span><br><span class="line">    <span class="keyword">return</span> <span class="number">20</span> + <span class="number">3</span> * p</span><br><span class="line"></span><br><span class="line"><span class="comment"># 生成价格数组</span></span><br><span class="line">prices = np.linspace(<span class="number">0</span>, <span class="number">50</span>, <span class="number">100</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 生成需求量和供给量数组</span></span><br><span class="line">quantities_demanded = demand(prices)</span><br><span class="line">quantities_supplied = supply(prices)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 绘制供求关系曲线</span></span><br><span class="line">fig, ax = plt.subplots()</span><br><span class="line">ax.plot(prices, quantities_demanded, label=<span class="string">&#x27;Demand&#x27;</span>)</span><br><span class="line">ax.plot(prices, quantities_supplied, label=<span class="string">&#x27;Supply&#x27;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 设置坐标轴标签和图例</span></span><br><span class="line">ax.set_xlabel(<span class="string">&#x27;Price&#x27;</span>)</span><br><span class="line">ax.set_ylabel(<span class="string">&#x27;Quantity&#x27;</span>)</span><br><span class="line">ax.legend()</span><br><span class="line"></span><br><span class="line"><span class="comment"># 计算边际收益和边际成本</span></span><br><span class="line">marginal_revenue = np.gradient(quantities_demanded, prices)</span><br><span class="line">marginal_cost = np.gradient(quantities_supplied, prices)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 绘制边际效应曲线</span></span><br><span class="line">fig, ax = plt.subplots()</span><br><span class="line">ax.plot(prices, marginal_revenue, label=<span class="string">&#x27;Marginal revenue&#x27;</span>)</span><br><span class="line">ax.plot(prices, marginal_cost, label=<span class="string">&#x27;Marginal cost&#x27;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 设置坐标轴标签和图例</span></span><br><span class="line">ax.set_xlabel(<span class="string">&#x27;Price&#x27;</span>)</span><br><span class="line">ax.set_ylabel(<span class="string">&#x27;Marginal&#x27;</span>)</span><br><span class="line">ax.legend()</span><br><span class="line"></span><br><span class="line"><span class="comment"># 显示图形</span></span><br><span class="line">plt.show()</span><br></pre></td></tr></table></figure>
-</body>
-</html>
-
-]]></content>
   </entry>
   <entry>
     <title>数据库学习</title>
@@ -1208,5 +1090,111 @@
         <tag>学习笔记</tag>
         <tag>会计</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>英语杂记</title>
+    <url>/2023/03/07/%E5%85%AD%E7%BA%A7%E5%85%AD%E7%BA%A7%E5%85%AD%E7%BA%A7/</url>
+    <content><![CDATA[<div class="tabs" id="一级标题"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#一级标题-1">翻译用词汇及表达</button></li><li class="tab"><button type="button" data-href="#一级标题-2">图表作文；）</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="一级标题-1"><p>deteriorate</p>
+<p>sustainable development</p>
+<p>unique status</p>
+<p><strong>narrow the gap between a and b</strong></p>
+<p>evolve into</p>
+<p>preferred 首选的</p>
+<p>commute 通勤</p>
+<p>punctual 准时的</p>
+<p>metropolis 大都市</p>
+<p>direction of public opinion 舆论导向 </p>
+<p>migrant worker 外出务工人员</p>
+<p>cultivation 种植</p>
+<p>corp yields 作物产量</p>
+<p>Coexistence 共存</p>
+<p>expenditure 支出</p>
+<p>fictitious economy 虚拟经济</p>
+<hr>
+<p>zodiac 十二生肖</p>
+<p>粤菜 Canton cuisine</p>
+<p>clay oven rolls 烧饼</p>
+<p>tomatoes on sticks 糖葫芦</p>
+<p>100-year egg/century egg 皮蛋</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="一级标题-2"><hr>
+<h3 id="套话"><a href="#套话" class="headerlink" title="套话"></a><strong>套话</strong></h3><h4 id="原因"><a href="#原因" class="headerlink" title="原因"></a>原因</h4><p>Mainly there are… reasons behind the situation reflected in the graphic/table. First of all, …. More significantly,….Most important of all…..</p>
+<h4 id="预测-amp-结尾"><a href="#预测-amp-结尾" class="headerlink" title="预测&amp;结尾"></a>预测&amp;结尾</h4><p>From the above discussions, we have enough reason to predict what will happen in the near future. The trend described in the graphic/ table will continue for quite a long time.</p>
+<hr>
+<h3 id="程度词"><a href="#程度词" class="headerlink" title="程度词"></a>程度词</h3><p>noticeable; sharp; steep;</p>
+<p>remarkable</p>
+<p>slight; gradual; drastic*(激烈的；急剧的)*;dramatic; </p>
+<hr>
+<h3 id="占多少比例"><a href="#占多少比例" class="headerlink" title="占多少比例"></a>占多少比例</h3><p>take up</p>
+<p>make up</p>
+<p>constitute</p>
+<p>account for</p>
+<p>have … percentage/proportion</p>
+<hr>
+<h3 id="处于xx位置"><a href="#处于xx位置" class="headerlink" title="处于xx位置"></a>处于xx位置</h3><p>be listed on the first place</p>
+<p>A ranks first, followed by B</p>
+<p><strong>The figures peak at</strong></p>
+<p><strong>It topped the list</strong></p>
+<p>arrive at the lowest point</p>
+<hr>
+<h3 id="增长"><a href="#增长" class="headerlink" title="增长"></a>增长</h3><p>increase by/to</p>
+<p>have an increase from … to …</p>
+<p>amount to/ go up</p>
+<p>have an upward trend in…</p>
+<p><strong>shot (shoot) up to/ rocket to</strong></p>
+<hr>
+<h3 id="下降"><a href="#下降" class="headerlink" title="下降"></a>下降</h3><p>decrease from … to …</p>
+<p>decline by/to</p>
+<p>drop by…</p>
+<p>drop down to</p>
+<p>fall to</p>
+<p>have a downward trend in…</p>
+<hr>
+<h3 id="波动-amp-稳定"><a href="#波动-amp-稳定" class="headerlink" title="波动&amp;稳定"></a>波动&amp;稳定</h3><p>fluctuate slightly</p>
+<p>have a slight fluctuation</p>
+<p>remain stable at</p>
+<p>keep steady at</p>
+<p>keep level at</p>
+<hr>
+<h3 id=""><a href="#" class="headerlink" title=""></a></h3><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
+
+]]></content>
+      <tags>
+        <tag>学习笔记</tag>
+        <tag>英语</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>md文档符号快捷使用</title>
+    <url>/2022/12/30/md%E6%96%87%E6%A1%A3%E7%AC%A6%E5%8F%B7%E5%BF%AB%E6%8D%B7%E4%BD%BF%E7%94%A8/</url>
+    <content><![CDATA[<div class="tabs" id="一级标题"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#一级标题-1">二级标题1</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="一级标题-1"><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
+
+]]></content>
+      <tags>
+        <tag>其他</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>试验性原理</title>
+    <url>/2023/03/28/%E8%AF%95%E9%AA%8C%E6%80%A7%E5%8E%9F%E7%90%86/</url>
+    <content><![CDATA[<!DOCTYPE html>
+<html>
+<head>
+    <title>My Page</title>
+</head>
+<body>
+    <!-- 搜索栏 -->
+    <form action="https://www.bing.com/search" method="get">
+        <input type="text" name="q" placeholder="Search Bing">
+        <button type="submit">Search</button>
+    </form>
+
+
+
+
+<p><a href="_hidden/html-css-js自学.md">test</a></p>
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"></span><br></pre></td></tr></table></figure>
+</body>
+</html>
+
+]]></content>
   </entry>
 </search>
